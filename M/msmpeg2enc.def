@@ -1,0 +1,7 @@
+LIBRARY MSMPEG2ENC.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY BTAGService.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+ServiceMain
+SvchostPushServiceGlobals

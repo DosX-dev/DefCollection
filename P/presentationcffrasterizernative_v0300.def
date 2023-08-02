@@ -1,0 +1,8 @@
+LIBRARY PresentationCFFRasterizerNative_v0300.dll
+
+EXPORTS
+AdobeFreeFontInst
+AdobeGetBitmap
+AdobeGetMetrics
+AdobeGetOutline
+AdobeNewFont

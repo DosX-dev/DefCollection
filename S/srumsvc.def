@@ -1,0 +1,6 @@
+LIBRARY srumsvc.dll
+
+EXPORTS
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

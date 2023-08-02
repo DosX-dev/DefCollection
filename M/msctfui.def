@@ -1,0 +1,7 @@
+LIBRARY msctfui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

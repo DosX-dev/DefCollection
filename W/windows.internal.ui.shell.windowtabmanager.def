@@ -1,0 +1,5 @@
+LIBRARY Windows.Internal.UI.Shell.WindowTabManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

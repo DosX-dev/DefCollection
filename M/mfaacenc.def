@@ -1,0 +1,5 @@
+LIBRARY mfAACEnc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

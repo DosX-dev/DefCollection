@@ -1,0 +1,7 @@
+LIBRARY FXSCOM.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

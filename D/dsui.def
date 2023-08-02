@@ -1,0 +1,7 @@
+LIBRARY Dsui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

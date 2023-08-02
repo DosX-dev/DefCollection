@@ -1,0 +1,6 @@
+LIBRARY Windows.Web.Diagnostics.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

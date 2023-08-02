@@ -1,0 +1,6 @@
+LIBRARY socialapis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

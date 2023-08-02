@@ -1,0 +1,5 @@
+LIBRARY provisioningcommandscsp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

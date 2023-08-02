@@ -1,0 +1,5 @@
+LIBRARY networkitemfactory.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

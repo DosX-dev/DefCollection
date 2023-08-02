@@ -1,0 +1,18 @@
+LIBRARY srumapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+SruCreateCheckpoint
+SruCreateEnergyNotificationServer
+SruDeleteStatsByAppName
+SruFreeRecordSet
+SruQueryStats
+SruQueryStatsBySeqNumber
+SruQueryStatsEx
+SruRegisterRealTimeStats
+SruRetrieveEnergyRecord
+SruUnregisterRealTimeStats
+SruUpdateStats

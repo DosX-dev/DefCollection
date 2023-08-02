@@ -1,0 +1,6 @@
+LIBRARY usbperf.dll
+
+EXPORTS
+CloseUsbPerformanceData
+CollectUsbPerformanceData
+OpenUsbPerformanceData

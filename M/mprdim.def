@@ -1,0 +1,5 @@
+LIBRARY mprdim.dll
+
+EXPORTS
+ServiceMain
+SvchostPushServiceGlobals

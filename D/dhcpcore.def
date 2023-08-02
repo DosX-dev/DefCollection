@@ -1,0 +1,7 @@
+LIBRARY dhcpcore.dll
+
+EXPORTS
+DhcpGlobalIsShuttingDown
+DhcpGlobalServiceSyncEvent
+DhcpGlobalTerminateEvent
+ServiceMain

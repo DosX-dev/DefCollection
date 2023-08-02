@@ -1,0 +1,6 @@
+LIBRARY Windows.Globalization.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

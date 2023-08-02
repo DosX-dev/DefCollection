@@ -1,0 +1,9 @@
+LIBRARY ExecModelClient.dll
+
+EXPORTS
+CreateForegroundTaskManager
+CreateModernVoipPolicy
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+TestHook_CancelShutdown

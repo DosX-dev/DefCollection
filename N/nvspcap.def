@@ -1,0 +1,6 @@
+LIBRARY nvspcap.dll
+
+EXPORTS
+CreateShadowPlayProxyShimInterface
+QueryShadowPlayDdiShimInterface
+QueryShadowPlayDdiShimStatus

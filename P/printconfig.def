@@ -1,0 +1,26 @@
+LIBRARY PrintConfig.dll
+
+EXPORTS
+DevQueryPrintEx
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+DrvConvertDevMode
+DrvDeviceCapabilities
+DrvDevicePropertySheets
+DrvDocumentEvent
+DrvDocumentPropertySheets
+DrvDriverEvent
+DrvPopulateFilterServices
+DrvPrinterEvent
+DrvQueryColorProfile
+DrvQueryJobAttributes
+DrvResetConfigCache
+DrvSplDeviceCaps
+DrvUpgradePrinter
+GetStandardMessageForPrinterStatus
+MxdcGetPDEVAdjustment
+NotifyEntry
+ServiceMain

@@ -1,0 +1,6 @@
+LIBRARY EhStorPwdMgr.dll
+
+EXPORTS
+DllMain
+EnhancedStoragePasswordConfig
+EnhancedStoragePasswordInitDisk

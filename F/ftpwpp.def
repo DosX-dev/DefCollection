@@ -1,0 +1,10 @@
+LIBRARY FTPWPP.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WppBindToSiteExW
+WppBindToSiteW
+WppDeleteSiteW

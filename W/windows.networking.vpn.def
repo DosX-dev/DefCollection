@@ -1,0 +1,19 @@
+LIBRARY Windows.Networking.Vpn.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+LaunchStoreForPluginW
+VpnClientGetCostedNetworkSettings
+VpnClientGetProxyForUrlAndSingleSessionDeviceUser
+VpnClientPluginGetSecurity
+VpnClientPluginInstall
+VpnClientPluginManifestFind
+VpnClientPluginUninstall
+VpnClientSetCostedNetworkSettings
+VpnPluginEnumerate
+VpnPluginListFree

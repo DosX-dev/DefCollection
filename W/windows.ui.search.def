@@ -1,0 +1,6 @@
+LIBRARY Windows.UI.Search.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

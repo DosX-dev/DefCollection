@@ -1,0 +1,7 @@
+LIBRARY nvofapi.dll
+
+EXPORTS
+NvOFAPICreateInstanceCuda
+NvOFAPICreateInstanceD3D11
+NvOFAPICreateInstanceD3D12
+NvOFGetMaxSupportedApiVersion

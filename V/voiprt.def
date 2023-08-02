@@ -1,0 +1,6 @@
+LIBRARY VoipRT.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

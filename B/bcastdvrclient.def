@@ -1,0 +1,6 @@
+LIBRARY BcastDVRClient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

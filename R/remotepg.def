@@ -1,0 +1,8 @@
+LIBRARY remotepg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LaunchRemoteUsersDialog

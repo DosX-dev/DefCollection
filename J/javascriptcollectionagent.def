@@ -1,0 +1,5 @@
+LIBRARY JavaScriptCollectionAgent.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

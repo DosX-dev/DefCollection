@@ -1,0 +1,6 @@
+LIBRARY Windows.Internal.Devices.Sensors.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

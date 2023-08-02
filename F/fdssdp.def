@@ -1,0 +1,10 @@
+LIBRARY fdSSDP.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FdphostSessionChange
+FdphostSetComContext
+FdphostSetSharedService

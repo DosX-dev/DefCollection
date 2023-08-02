@@ -1,0 +1,5 @@
+LIBRARY Windows.UI.FileExplorer.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

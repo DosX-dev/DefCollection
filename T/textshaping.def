@@ -1,0 +1,23 @@
+LIBRARY TextShaping.dll
+
+EXPORTS
+BuildOtlCache
+FreeOtlResources
+GetOtlFeatureDefs
+GetOtlGlyphAlternates
+GetOtlLangSysList
+GetOtlScriptList
+GetOtlVersion
+OtlAssertFailed
+RepositionOtlSingleGlyph
+ShapingCreateFontCacheData
+ShapingDrawGlyphs
+ShapingGetBreakingProperties
+ShapingGetCombiningOptions
+ShapingGetGlyphPositions
+ShapingGetGlyphs
+ShapingLoadScriptEngine
+ShapingSetAssertFunction
+ShapingSetInvariantAssertFunction
+SubstituteOtlSingleGlyph
+ValidateLogClust

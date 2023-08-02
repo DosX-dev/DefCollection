@@ -1,0 +1,5 @@
+LIBRARY Windows.UI.Accessibility.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

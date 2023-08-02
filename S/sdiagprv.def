@@ -1,0 +1,5 @@
+LIBRARY sdiagprv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

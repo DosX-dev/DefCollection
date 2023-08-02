@@ -1,0 +1,4 @@
+LIBRARY KBDIT.DLL
+
+EXPORTS
+KbdLayerDescriptor

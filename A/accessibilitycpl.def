@@ -1,0 +1,9 @@
+LIBRARY accessibilitycpl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllMain
+DllRegisterServer
+DllUnregisterServer

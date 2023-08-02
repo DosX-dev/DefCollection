@@ -1,0 +1,7 @@
+LIBRARY xmlprovi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,9 @@
+LIBRARY wlanui.dll
+
+EXPORTS
+DllGetClassObject
+WLFreeProfile
+WLFreeProfileXml
+WLInvokeProfileUI
+WLInvokeProfileUIFromXMLFile
+WlanUIEditProfile

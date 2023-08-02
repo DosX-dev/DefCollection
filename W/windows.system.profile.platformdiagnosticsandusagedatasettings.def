@@ -1,0 +1,6 @@
+LIBRARY Windows.System.Profile.PlatformDiagnosticsAndUsageDataSettings.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

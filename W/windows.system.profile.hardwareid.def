@@ -1,0 +1,6 @@
+LIBRARY Windows.System.Profile.HardwareId.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

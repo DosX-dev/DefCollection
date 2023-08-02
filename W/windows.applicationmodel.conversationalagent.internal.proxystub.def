@@ -1,0 +1,7 @@
+LIBRARY windows.applicationmodel.conversationalagent.internal.proxystub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

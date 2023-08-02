@@ -1,0 +1,7 @@
+LIBRARY ir32_32.dll
+
+EXPORTS
+AboutDialogProc
+DllMain
+DriverDialogProc
+DriverProc

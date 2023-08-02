@@ -1,0 +1,5 @@
+LIBRARY cmgrcspps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

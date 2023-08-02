@@ -1,0 +1,6 @@
+LIBRARY Windows.Graphics.Display.DisplayEnhancementOverride.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

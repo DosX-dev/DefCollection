@@ -1,0 +1,6 @@
+LIBRARY DragDropExperienceCommon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

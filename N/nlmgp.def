@@ -1,0 +1,7 @@
+LIBRARY nlmgp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

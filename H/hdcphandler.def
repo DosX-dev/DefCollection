@@ -1,0 +1,5 @@
+LIBRARY HdcpHandler.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

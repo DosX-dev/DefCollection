@@ -1,0 +1,27 @@
+LIBRARY iassvcs.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+IASAdler32
+IASAllocateUniqueID
+IASGetDictionary
+IASGetHostByName
+IASGetLocalDictionary
+IASGetProductLimits
+IASGlobalLock
+IASGlobalUnlock
+IASInitialize
+IASRadiusCrypt
+IASRegisterComponent
+IASReportEvent
+IASReportLicenseViolation
+IASReportSecurityEvent
+IASRequestThread
+IASSetMaxNumberOfThreads
+IASSetMaxThreadIdle
+IASShutdown
+IASUninitialize
+IASVariantChangeType

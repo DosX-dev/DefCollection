@@ -1,0 +1,23 @@
+LIBRARY VB6STKIT.DLL
+
+EXPORTS
+AbortAction
+AddActionNote
+ChangeActionKey
+CommitAction
+DLLSelfRegister
+DisableLogging
+EnableLogging
+ExtractFileFromCab
+GetClsidFromActXFile
+LogConfig
+LogError
+LogNote
+LogWarning
+NewAction
+RegisterTLB
+SyncShell
+_SetTime@8
+fCreateShellLink
+fRemoveShellLink
+fWithinAction

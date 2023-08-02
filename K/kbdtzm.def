@@ -1,0 +1,4 @@
+LIBRARY KBDTZM.DLL
+
+EXPORTS
+KbdLayerDescriptor

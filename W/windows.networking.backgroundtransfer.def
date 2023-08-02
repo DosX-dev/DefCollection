@@ -1,0 +1,9 @@
+LIBRARY Windows.Networking.BackgroundTransfer.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

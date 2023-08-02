@@ -1,0 +1,8 @@
+LIBRARY Windows.Security.Authentication.Web.Core.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+FreeIdentityProviderCookies
+GetIdentityProviderCookies

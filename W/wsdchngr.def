@@ -1,0 +1,9 @@
+LIBRARY wsdchngr.dll
+
+EXPORTS
+WSDCHNGRChallengeDeviceClass
+WSDCHNGRInitialize
+WSDCHNGRRegisterDeviceToChallenge
+WSDCHNGRRegisterDeviceToChallengeByGlobalId
+WSDCHNGRRemoveDevice
+WSDCHNGRShutdown

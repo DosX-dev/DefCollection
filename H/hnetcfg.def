@@ -1,0 +1,17 @@
+LIBRARY hnetcfg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HNetDeleteRasConnection
+HNetFreeSharingServicesPage
+HNetGetFirewallSettingsPage
+HNetGetSharingServicesPage
+HNetSharedAccessSettingsDlg
+HNetSharingAndFirewallSettingsDlg
+RegisterClassObjects
+ReleaseSingletons
+RevokeClassObjects
+WinBomConfigureWindowsFirewall

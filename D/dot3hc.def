@@ -1,0 +1,7 @@
+LIBRARY dot3hc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

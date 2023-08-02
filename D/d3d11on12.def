@@ -1,0 +1,4 @@
+LIBRARY d3d11on12.dll
+
+EXPORTS
+OpenAdapter_D3D11On12

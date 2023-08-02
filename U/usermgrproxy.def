@@ -1,0 +1,6 @@
+LIBRARY UserMgrProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

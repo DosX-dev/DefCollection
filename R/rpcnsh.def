@@ -1,0 +1,4 @@
+LIBRARY rpcnsh.dll
+
+EXPORTS
+InitHelperDll

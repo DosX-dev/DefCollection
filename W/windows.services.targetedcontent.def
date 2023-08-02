@@ -1,0 +1,6 @@
+LIBRARY Windows.Services.TargetedContent.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

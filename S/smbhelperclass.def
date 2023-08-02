@@ -1,0 +1,7 @@
+LIBRARY SMBHelperClass.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

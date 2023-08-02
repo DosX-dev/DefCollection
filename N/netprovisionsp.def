@@ -1,0 +1,5 @@
+LIBRARY netprovisionsp.dll
+
+EXPORTS
+NetpCertProviderInitialize
+NetpPolProviderInitialize

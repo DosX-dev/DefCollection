@@ -1,0 +1,8 @@
+LIBRARY XpsDocumentTargetPrint.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

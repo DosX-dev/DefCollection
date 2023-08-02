@@ -1,0 +1,8 @@
+LIBRARY MSDBRPT.DLL
+
+EXPORTS
+DLLGetDocumentation
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

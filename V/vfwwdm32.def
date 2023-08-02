@@ -1,0 +1,6 @@
+LIBRARY vfwwdm32.dll
+
+EXPORTS
+DllMain
+DriverProc
+VfwWdm

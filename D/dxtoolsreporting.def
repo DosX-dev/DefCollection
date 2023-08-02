@@ -1,0 +1,4 @@
+LIBRARY DXToolsReporting.dll
+
+EXPORTS
+PerformCaptureAnalysisAsync

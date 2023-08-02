@@ -1,0 +1,5 @@
+LIBRARY AppVClientPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

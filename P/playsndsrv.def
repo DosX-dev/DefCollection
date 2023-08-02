@@ -1,0 +1,7 @@
+LIBRARY PlaySndSrv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+PlaySoundServerInitialize
+PlaySoundServerTerminate

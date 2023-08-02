@@ -1,0 +1,18 @@
+LIBRARY tcpmonui.dll
+
+EXPORTS
+??0CPortABC@@QAE@ABV0@@Z
+??0CPortABC@@QAE@XZ
+??0CTcpMibABC@@QAE@ABV0@@Z
+??0CTcpMibABC@@QAE@XZ
+??1CPortABC@@UAE@XZ
+??1CTcpMibABC@@UAE@XZ
+??4CPortABC@@QAEAAV0@ABV0@@Z
+??4CTcpMibABC@@QAEAAV0@ABV0@@Z
+??_7CPortABC@@6B@
+??_7CTcpMibABC@@6B@
+?Read@CPortABC@@UAEKQAXPAEKPAK@Z
+InitializePrintMonitorUI
+InitializePrintMonitorUI2
+LocalAddPortUI
+LocalConfigurePortUI

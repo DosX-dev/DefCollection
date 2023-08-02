@@ -1,0 +1,6 @@
+LIBRARY EmailApis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

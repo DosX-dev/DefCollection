@@ -1,0 +1,6 @@
+LIBRARY msfeeds.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+MsfeedsCreateInstance

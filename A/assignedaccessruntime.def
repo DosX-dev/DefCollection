@@ -1,0 +1,6 @@
+LIBRARY AssignedAccessRuntime.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

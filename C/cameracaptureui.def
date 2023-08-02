@@ -1,0 +1,6 @@
+LIBRARY CameraCaptureUI.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

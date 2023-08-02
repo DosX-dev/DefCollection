@@ -1,0 +1,16 @@
+LIBRARY catsrv.dll
+
+EXPORTS
+?CancelWriteICR@@YGJPAPAUIComponentRecords@@@Z
+?GetReadICR@@YGJHPAPAUIComponentRecords@@@Z
+?GetWriteICR@@YGJPAPAUIComponentRecords@@@Z
+?ReleaseReadICR@@YGXPAPAUIComponentRecords@@@Z
+?SaveWriteICR@@YGJPAPAUIComponentRecords@@@Z
+CreateComponentLibraryTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetAppImport
+GetCatalogCRMClerk
+OpenComponentLibraryTS

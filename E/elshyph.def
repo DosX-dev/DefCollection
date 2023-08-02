@@ -1,0 +1,8 @@
+LIBRARY elshyph.dll
+
+EXPORTS
+DoAction
+FreePropertyBag
+FreeService
+InitService
+RecognizeText

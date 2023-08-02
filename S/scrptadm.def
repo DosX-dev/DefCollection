@@ -1,0 +1,6 @@
+LIBRARY scrptadm.dll
+
+EXPORTS
+CreateParserObject
+DllCanUnloadNow
+DllGetClassObject

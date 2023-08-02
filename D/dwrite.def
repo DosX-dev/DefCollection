@@ -1,0 +1,4 @@
+LIBRARY DWrite.dll
+
+EXPORTS
+DWriteCreateFactory

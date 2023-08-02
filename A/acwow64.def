@@ -1,0 +1,5 @@
+LIBRARY acwow64.dll
+
+EXPORTS
+GetHookAPIs
+NotifyShims

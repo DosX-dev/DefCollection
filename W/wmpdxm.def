@@ -1,0 +1,7 @@
+LIBRARY wmpdxm.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

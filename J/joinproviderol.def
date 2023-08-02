@@ -1,0 +1,7 @@
+LIBRARY joinproviderol.dll
+
+EXPORTS
+NetpJoinProvider2OLInitialize
+NetpJoinProvider3OLInitialize
+NetpJoinProvider4OLInitialize
+NetpJoinProviderOLInitialize

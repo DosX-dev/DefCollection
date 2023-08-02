@@ -1,0 +1,7 @@
+LIBRARY wfdprov.dll
+
+EXPORTS
+WFDProvConfigureAndProvisionDevice
+WFDProvDeinitialize
+WFDProvGetInfo
+WFDProvInitialize

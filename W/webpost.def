@@ -1,0 +1,27 @@
+LIBRARY WEBPOST.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WpBindToSiteA
+WpBindToSiteW
+WpCreateSiteA
+WpCreateSiteExA
+WpCreateSiteExW
+WpCreateSiteW
+WpDeleteSiteA
+WpDeleteSiteW
+WpDoesSiteExistA
+WpDoesSiteExistW
+WpEnumProvidersA
+WpEnumProvidersW
+WpGetErrorStringA
+WpGetErrorStringW
+WpListSitesA
+WpListSitesW
+WpPostA
+WpPostExA
+WpPostExW
+WpPostW

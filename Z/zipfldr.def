@@ -1,0 +1,6 @@
+LIBRARY zipfldr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+RouteTheCall

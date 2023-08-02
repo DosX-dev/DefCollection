@@ -1,0 +1,7 @@
+LIBRARY mscpxl32.dLL
+
+EXPORTS
+ConfigTranslator
+ConfigureDlgProc
+SQLDataSourceToDriver
+SQLDriverToDataSource

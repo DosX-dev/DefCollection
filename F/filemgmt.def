@@ -1,0 +1,9 @@
+LIBRARY filemgmt.dll
+
+EXPORTS
+CacheSettingsDlg
+CacheSettingsDlg2
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

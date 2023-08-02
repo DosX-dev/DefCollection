@@ -1,0 +1,7 @@
+LIBRARY dxmasf.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

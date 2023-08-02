@@ -1,0 +1,7 @@
+LIBRARY wuapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

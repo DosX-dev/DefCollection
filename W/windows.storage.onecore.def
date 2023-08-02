@@ -1,0 +1,16 @@
+LIBRARY Windows.Storage.OneCore.dll
+
+EXPORTS
+CopyFileFromAppW
+CreateDirectoryFromAppW
+CreateFile2FromAppW
+CreateFileFromAppW
+DeleteFileFromAppW
+DllCanUnloadNow
+DllGetActivationFactory
+FindFirstFileExFromAppW
+GetFileAttributesExFromAppW
+MoveFileFromAppW
+RemoveDirectoryFromAppW
+ReplaceFileFromAppW
+SetFileAttributesFromAppW

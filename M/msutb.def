@@ -1,0 +1,11 @@
+LIBRARY msutb.dll
+
+EXPORTS
+ClosePopupTipbar
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetChildTipbar
+GetPopupTipbar
+SetRegisterLangBand

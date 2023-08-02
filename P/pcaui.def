@@ -1,0 +1,7 @@
+LIBRARY pcaui.dll
+
+EXPORTS
+DisplayApphelpDialog
+PcaLaunchApplicationWithConsent
+PcaPersistSettingsAndLaunchApplication
+PcaShowDialog

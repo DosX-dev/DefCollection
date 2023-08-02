@@ -1,0 +1,5 @@
+LIBRARY sendmail.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

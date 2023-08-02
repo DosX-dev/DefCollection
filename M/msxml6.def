@@ -1,0 +1,9 @@
+LIBRARY msxml6.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllSetProperty
+DllUnregisterServer

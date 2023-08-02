@@ -1,0 +1,6 @@
+LIBRARY AdaptiveCards.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

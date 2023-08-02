@@ -1,0 +1,26 @@
+LIBRARY luiapi.dll
+
+EXPORTS
+LuiAddProfile
+LuiCancelOperation
+LuiCloseHandle
+LuiDeleteProfile
+LuiDisableProfile
+LuiDiscoverProfiles
+LuiEnableProfile
+LuiInstallProfile
+LuiOpenHandle
+LuiProcessActivationCode
+LuiRegisterForAllEnterpriseProfileNotifications
+LuiRegisterForAllProfileNotifications
+LuiRegisterForEnterpriseEsimNotifications
+LuiRegisterForEsimNotifications
+LuiRegisterForLpaNotifications
+LuiReleaseProvisioningProfile
+LuiRequestProvisioningProfile
+LuiSetDefaultSmdpAddress
+LuiSetEsimPolicy
+LuiSetProfileNickname
+LuiSetUserAuthenticationMode
+LuiVerifyClientToken
+LuiWipeEsim

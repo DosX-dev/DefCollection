@@ -1,0 +1,10 @@
+LIBRARY Windows.UI.dll
+
+EXPORTS
+CreateControlInput
+CreateControlInputEx
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

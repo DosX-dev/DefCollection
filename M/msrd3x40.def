@@ -1,0 +1,5 @@
+LIBRARY msrd3x40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

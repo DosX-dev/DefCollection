@@ -1,0 +1,25 @@
+LIBRARY offreg.dll
+
+EXPORTS
+ORCloseHive
+ORCloseKey
+ORCreateHive
+ORCreateKey
+ORDeleteKey
+ORDeleteValue
+OREnumKey
+OREnumValue
+ORGetKeySecurity
+ORGetValue
+ORGetVersion
+ORGetVirtualFlags
+ORMergeHives
+OROpenHive
+OROpenHiveByHandle
+OROpenKey
+ORQueryInfoKey
+ORRenameKey
+ORSaveHive
+ORSetKeySecurity
+ORSetValue
+ORSetVirtualFlags

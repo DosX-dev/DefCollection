@@ -1,0 +1,10 @@
+LIBRARY taskcomp.dll
+
+EXPORTS
+DeleteTaskNotification
+InitializeAdapter
+IsRegistering
+RegisterTaskNotification
+SetSdNotification
+ShutdownAdapter
+UpdateJobStatus

@@ -1,0 +1,5 @@
+LIBRARY AppLockerCSP.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

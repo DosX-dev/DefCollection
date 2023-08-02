@@ -1,0 +1,5 @@
+LIBRARY msclmd.dll
+
+EXPORTS
+CardAcquireContext
+CardAcquireContextInternal

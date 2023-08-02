@@ -1,0 +1,8 @@
+LIBRARY rdpendp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetTSAudioEndpointEnumeratorForSession

@@ -1,0 +1,5 @@
+LIBRARY DeviceFlows.DataModel.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

@@ -1,0 +1,6 @@
+LIBRARY wpnclient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

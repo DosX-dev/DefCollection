@@ -1,0 +1,4 @@
+LIBRARY PeerDistSh.dll
+
+EXPORTS
+InitHelperDll

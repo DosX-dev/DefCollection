@@ -1,0 +1,7 @@
+LIBRARY sdohlp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

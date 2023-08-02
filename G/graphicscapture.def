@@ -1,0 +1,5 @@
+LIBRARY GraphicsCapture.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

@@ -1,0 +1,8 @@
+LIBRARY msscntrs.dll
+
+EXPORTS
+Close
+Collect
+DllRegisterServer
+DllUnregisterServer
+Open

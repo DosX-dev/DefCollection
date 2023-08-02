@@ -1,0 +1,5 @@
+LIBRARY DeviceDisplayStatusManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

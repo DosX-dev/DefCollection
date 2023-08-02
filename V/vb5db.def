@@ -1,0 +1,4 @@
+LIBRARY VB5DB.DLL
+
+EXPORTS
+DnaNewCRCRecordset

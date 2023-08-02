@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Bluetooth.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

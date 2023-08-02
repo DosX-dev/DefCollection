@@ -1,0 +1,8 @@
+LIBRARY rtmmvrortc.dll
+
+EXPORTS
+MediaVRCreateORTCRenderer
+MediaVRDestroyORTCRenderer
+MediaVRGetORTCRenderContext
+MediaVRRequestKeyFrame
+MediaVRSetDecodingHealth

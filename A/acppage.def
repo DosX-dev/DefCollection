@@ -1,0 +1,6 @@
+LIBRARY acppage.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetExeFromLnk

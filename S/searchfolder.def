@@ -1,0 +1,13 @@
+LIBRARY SearchFolder.dll
+
+EXPORTS
+AppendHiddenSearchContext
+CDBFolderUI_CreateInstance
+CSearchDelegateFolderUI_CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetAggregateQueryError
+s_GetStartMenuFilesScope

@@ -1,0 +1,4 @@
+LIBRARY Direct2DDesktop.dll
+
+EXPORTS
+CreateMetafileRenderer

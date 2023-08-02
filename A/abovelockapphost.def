@@ -1,0 +1,6 @@
+LIBRARY AboveLockAppHost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

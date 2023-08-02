@@ -1,0 +1,5 @@
+LIBRARY shgina.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

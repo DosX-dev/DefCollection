@@ -1,0 +1,5 @@
+LIBRARY wscinterop.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY KBDMYAN.DLL
+
+EXPORTS
+KbdLayerDescriptor

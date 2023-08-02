@@ -1,0 +1,6 @@
+LIBRARY CoreShellAPI.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

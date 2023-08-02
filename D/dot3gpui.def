@@ -1,0 +1,7 @@
+LIBRARY dot3gpui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

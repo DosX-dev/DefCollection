@@ -1,0 +1,7 @@
+LIBRARY mfvfw.dll
+
+EXPORTS
+DllCanUnloadNow
+DllMain
+GetVFWMFTransform
+IsVFWDecompressorAvailable

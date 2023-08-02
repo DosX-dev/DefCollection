@@ -1,0 +1,6 @@
+LIBRARY WindowsCodecsExt.dll
+
+EXPORTS
+DllGetClassObject
+IWICColorTransform_Initialize_Proxy
+WICCreateColorTransform_Proxy

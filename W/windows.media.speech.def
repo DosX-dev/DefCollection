@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Speech.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

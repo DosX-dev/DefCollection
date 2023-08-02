@@ -1,0 +1,7 @@
+LIBRARY iasnap.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

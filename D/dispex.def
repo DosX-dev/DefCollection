@@ -1,0 +1,8 @@
+LIBRARY dispex.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

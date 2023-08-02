@@ -1,0 +1,4 @@
+LIBRARY dot3ui.dll
+
+EXPORTS
+Dot3CreatePsPage

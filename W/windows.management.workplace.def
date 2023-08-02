@@ -1,0 +1,6 @@
+LIBRARY Windows.Management.Workplace.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

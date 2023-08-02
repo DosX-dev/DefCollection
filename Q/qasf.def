@@ -1,0 +1,7 @@
+LIBRARY qasf.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

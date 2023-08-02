@@ -1,0 +1,7 @@
+LIBRARY TaskSchdPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

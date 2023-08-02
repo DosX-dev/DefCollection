@@ -1,0 +1,7 @@
+LIBRARY Windows.Devices.Picker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ServiceMain

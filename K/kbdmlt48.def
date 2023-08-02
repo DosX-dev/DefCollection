@@ -1,0 +1,4 @@
+LIBRARY KBDMLT48.DLL
+
+EXPORTS
+KbdLayerDescriptor

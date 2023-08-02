@@ -1,0 +1,11 @@
+LIBRARY xolehlp.dll
+
+EXPORTS
+DtcGetTransactionManager
+DtcGetTransactionManagerC
+DtcGetTransactionManagerEx
+DtcGetTransactionManagerExA
+DtcGetTransactionManagerExW
+FreezeLocalTransactionManagers
+GetDtcLocaleResourceHandle
+ThawLocalTransactionManagers

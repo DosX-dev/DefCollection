@@ -1,0 +1,9 @@
+LIBRARY vfprintpthelper.dll
+
+EXPORTS
+ConvertDOMDocumentToIStream
+CopyStream
+GetXml
+IsPrintCapabilitiesConformant
+IsPrintTicketConformant
+RewindStream

@@ -1,0 +1,6 @@
+LIBRARY Windows.StateRepositoryBroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

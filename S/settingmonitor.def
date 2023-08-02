@@ -1,0 +1,5 @@
+LIBRARY SettingMonitor.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

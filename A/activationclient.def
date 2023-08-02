@@ -1,0 +1,6 @@
+LIBRARY ActivationClient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

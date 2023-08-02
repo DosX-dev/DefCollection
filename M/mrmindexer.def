@@ -1,0 +1,6 @@
+LIBRARY MrmIndexer.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

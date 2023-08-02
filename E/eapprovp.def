@@ -1,0 +1,10 @@
+LIBRARY eapprovp.dll
+
+EXPORTS
+EapProvPlugGetInfo
+EapProvPluginDeinitialize
+EapProvPluginInitialize
+EapProvPluginTestForAuthenticatingWlanInterfaces
+EapProvPluginWlanCloseHandle
+EapProvPluginWlanOpenHandle
+EapProvPluginWlanRegisterNotification

@@ -1,0 +1,9 @@
+LIBRARY WpcWebFilter.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+WpcWebFilterCreate
+WpcWebFilterDestroy
+WpcWebFilterGet

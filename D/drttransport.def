@@ -1,0 +1,5 @@
+LIBRARY drttransport.dll
+
+EXPORTS
+DrtCreateIpv6UdpTransport
+DrtDeleteIpv6UdpTransport

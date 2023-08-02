@@ -1,0 +1,4 @@
+LIBRARY DevDispItemProvider.dll
+
+EXPORTS
+DevQueryEntry

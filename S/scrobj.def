@@ -1,0 +1,14 @@
+LIBRARY scrobj.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllRegisterServerEx
+DllRegisterServerExA
+DllRegisterServerExW
+DllUnregisterServer
+DllUnregisterServerEx
+GenerateTypeLib
+GenerateTypeLibW

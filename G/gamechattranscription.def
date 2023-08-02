@@ -1,0 +1,4 @@
+LIBRARY GameChatTranscription.dll
+
+EXPORTS
+DllGetClassObject

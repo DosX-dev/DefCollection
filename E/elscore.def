@@ -1,0 +1,8 @@
+LIBRARY ELSCore.dll
+
+EXPORTS
+MappingDoAction
+MappingFreePropertyBag
+MappingFreeServices
+MappingGetServices
+MappingRecognizeText

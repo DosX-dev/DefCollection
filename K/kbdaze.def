@@ -1,0 +1,4 @@
+LIBRARY KBDAZE.DLL
+
+EXPORTS
+KbdLayerDescriptor

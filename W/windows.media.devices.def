@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Devices.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

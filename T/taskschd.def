@@ -1,0 +1,7 @@
+LIBRARY taskschd.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

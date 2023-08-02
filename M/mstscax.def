@@ -1,0 +1,8 @@
+LIBRARY mstscax.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllGetTscCtlVer
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,13 @@
+LIBRARY ODBCTL32.DLL
+
+EXPORTS
+CDataSize
+Convert
+EbToSqlTimestamp
+LibMain
+PutCData
+SQLAllocConvertString
+SQLConvertString
+SQLFreeConvertString
+SQLPatternMatch
+ValidSQLConversion

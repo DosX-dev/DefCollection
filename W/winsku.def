@@ -1,0 +1,5 @@
+LIBRARY winsku.dll
+
+EXPORTS
+SkuFreeBuffer
+SkuGetEditionEulaFilePath

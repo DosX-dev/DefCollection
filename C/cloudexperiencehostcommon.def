@@ -1,0 +1,6 @@
+LIBRARY CloudExperienceHostCommon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

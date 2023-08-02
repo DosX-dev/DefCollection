@@ -1,0 +1,7 @@
+LIBRARY srchadmin.dll
+
+EXPORTS
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+ProcessGroupPolicy

@@ -1,0 +1,24 @@
+LIBRARY drt.dll
+
+EXPORTS
+DrtClose
+DrtContinueSearch
+DrtEndSearch
+DrtFlushCache
+DrtGetCacheStatsEx
+DrtGetEventData
+DrtGetEventDataSize
+DrtGetInstanceName
+DrtGetInstanceNameSize
+DrtGetSearchPath
+DrtGetSearchPathSize
+DrtGetSearchResult
+DrtGetSearchResultSize
+DrtHandlePowerEvent
+DrtOpen
+DrtPingPeer
+DrtRegisterKey
+DrtStartPartitionDetection
+DrtStartSearch
+DrtUnregisterKey
+DrtUpdateKey

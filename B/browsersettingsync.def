@@ -1,0 +1,5 @@
+LIBRARY BrowserSettingSync.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY mprmsg.dll
+
+EXPORTS
+MprmsgGetErrorString

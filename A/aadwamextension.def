@@ -1,0 +1,6 @@
+LIBRARY aadWamExtension.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

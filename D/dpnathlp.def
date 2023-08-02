@@ -1,0 +1,4 @@
+LIBRARY dpnathlp.dll
+
+EXPORTS
+DllMain

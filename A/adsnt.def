@@ -1,0 +1,5 @@
+LIBRARY adsnt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

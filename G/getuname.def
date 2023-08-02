@@ -1,0 +1,4 @@
+LIBRARY getuname.dll
+
+EXPORTS
+GetUName

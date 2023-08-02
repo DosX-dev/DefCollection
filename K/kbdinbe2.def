@@ -1,0 +1,4 @@
+LIBRARY KBDINBE2.DLL
+
+EXPORTS
+KbdLayerDescriptor

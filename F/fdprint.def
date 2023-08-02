@@ -1,0 +1,8 @@
+LIBRARY fdprint.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+InvokeTaskW

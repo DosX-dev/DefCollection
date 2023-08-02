@@ -1,0 +1,4 @@
+LIBRARY Microsoft.Uev.AppAgent.dll
+
+EXPORTS
+OrdinalOne

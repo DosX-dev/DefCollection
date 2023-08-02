@@ -1,0 +1,5 @@
+LIBRARY luainstall.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

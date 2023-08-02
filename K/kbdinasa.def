@@ -1,0 +1,4 @@
+LIBRARY KBDINASA.DLL
+
+EXPORTS
+KbdLayerDescriptor

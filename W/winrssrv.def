@@ -1,0 +1,7 @@
+LIBRARY winrssrv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

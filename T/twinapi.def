@@ -1,0 +1,7 @@
+LIBRARY twinapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetMetroMode

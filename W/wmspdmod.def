@@ -1,0 +1,8 @@
+LIBRARY WMSPDMOD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

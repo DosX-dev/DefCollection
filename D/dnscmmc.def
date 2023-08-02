@@ -1,0 +1,7 @@
+LIBRARY dnscmmc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

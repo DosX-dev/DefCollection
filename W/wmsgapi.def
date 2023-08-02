@@ -1,0 +1,9 @@
+LIBRARY wmsgapi.dll
+
+EXPORTS
+WmsgBroadcastMessage
+WmsgBroadcastNotifyMessage
+WmsgPostMessage
+WmsgPostNotifyMessage
+WmsgSendMessage
+WmsgSendPSPMessage

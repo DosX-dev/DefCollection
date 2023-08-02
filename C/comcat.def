@@ -1,0 +1,7 @@
+LIBRARY comcat.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

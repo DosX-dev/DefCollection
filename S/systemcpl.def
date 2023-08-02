@@ -1,0 +1,5 @@
+LIBRARY systemcpl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

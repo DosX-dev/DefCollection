@@ -1,0 +1,5 @@
+LIBRARY xwreg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

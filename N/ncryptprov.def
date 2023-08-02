@@ -1,0 +1,6 @@
+LIBRARY ncryptprov.dll
+
+EXPORTS
+GetKeyStorageInterface
+SKCacheFlush
+SetAuditingInterface

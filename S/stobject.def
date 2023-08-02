@@ -1,0 +1,5 @@
+LIBRARY stobject.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

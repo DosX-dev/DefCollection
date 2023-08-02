@@ -1,0 +1,6 @@
+LIBRARY AnalogCommonProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

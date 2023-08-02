@@ -1,0 +1,4 @@
+LIBRARY oddbse32.dll
+
+EXPORTS
+ConfigDSNW

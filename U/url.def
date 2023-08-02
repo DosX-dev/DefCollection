@@ -1,0 +1,20 @@
+LIBRARY url.dll
+
+EXPORTS
+AddMIMEFileTypesPS
+AutodialHookCallback
+FileProtocolHandler
+FileProtocolHandlerA
+InetIsOffline
+MIMEAssociationDialogA
+MIMEAssociationDialogW
+MailToProtocolHandler
+MailToProtocolHandlerA
+OpenURL
+OpenURLA
+TelnetProtocolHandler
+TelnetProtocolHandlerA
+TranslateURLA
+TranslateURLW
+URLAssociationDialogA
+URLAssociationDialogW

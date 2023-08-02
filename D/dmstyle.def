@@ -1,0 +1,7 @@
+LIBRARY dmstyle.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

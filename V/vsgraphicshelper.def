@@ -1,0 +1,13 @@
+LIBRARY VsGraphicsHelper.dll
+
+EXPORTS
+DisableD3DSpy
+_VsgDbgAddHUDMessage@4
+_VsgDbgBeginCapture@0
+_VsgDbgCaptureCurrentFrame@0
+_VsgDbgCopy@4
+_VsgDbgEndCapture@0
+_VsgDbgInit@4
+_VsgDbgInitDelayed@40
+_VsgDbgToggleHUD@0
+_VsgDbgUnInit@0

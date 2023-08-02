@@ -1,0 +1,6 @@
+LIBRARY HoloShellRuntime.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

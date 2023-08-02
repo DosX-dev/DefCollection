@@ -1,0 +1,5 @@
+LIBRARY PlayToStatusProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

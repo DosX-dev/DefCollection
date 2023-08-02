@@ -1,0 +1,8 @@
+LIBRARY drvsetup.dll
+
+EXPORTS
+DrvSetupInstallDriver
+DrvSetupInstallWuDriver
+DrvSetupUninstallDriver
+DrvSetupUninstallWuDrivers
+pDrvSetupUninstallDriver

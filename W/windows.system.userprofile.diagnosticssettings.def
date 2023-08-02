@@ -1,0 +1,6 @@
+LIBRARY Windows.System.UserProfile.DiagnosticsSettings.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

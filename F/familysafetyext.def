@@ -1,0 +1,4 @@
+LIBRARY FamilySafetyExt.dll
+
+EXPORTS
+IsChildAccount

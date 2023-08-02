@@ -1,0 +1,13 @@
+LIBRARY sqlwid.dll
+
+EXPORTS
+GetEnvironmentStrings_
+GetProcAddress_
+OpenFile_
+_hwrite_
+_lcreat_
+_lopen_
+_lwrite_
+_ttof
+strerror_
+wstrlen

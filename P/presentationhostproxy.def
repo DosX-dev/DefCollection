@@ -1,0 +1,8 @@
+LIBRARY PresentationHostProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

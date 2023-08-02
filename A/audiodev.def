@@ -1,0 +1,9 @@
+LIBRARY audiodev.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+_CDefFolderMenu_MergeMenu@16
+_CIDLData_CreateFromIDArray@16

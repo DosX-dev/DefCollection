@@ -1,0 +1,4 @@
+LIBRARY KBDHE.DLL
+
+EXPORTS
+KbdLayerDescriptor

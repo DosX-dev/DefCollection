@@ -1,0 +1,6 @@
+LIBRARY Microsoft.Bluetooth.Proxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

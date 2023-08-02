@@ -1,0 +1,15 @@
+LIBRARY NvIFR.dll
+
+EXPORTS
+NvIFR_ConnectToCrossProcessSharedSurfaceEXT
+NvIFR_CopyFromCrossProcessSharedSurfaceEXT
+NvIFR_CopyFromSharedSurfaceEXT
+NvIFR_CopyToCrossProcessSharedSurfaceEXT
+NvIFR_CopyToSharedSurfaceEXT
+NvIFR_Create
+NvIFR_CreateCrossProcessSharedSurfaceEXT
+NvIFR_CreateEx
+NvIFR_CreateSharedSurfaceEXT
+NvIFR_DestroyCrossProcessSharedSurfaceEXT
+NvIFR_DestroySharedSurfaceEXT
+NvIFR_GetSDKVersion

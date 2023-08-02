@@ -1,0 +1,7 @@
+LIBRARY mfh263enc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

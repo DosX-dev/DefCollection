@@ -1,0 +1,5 @@
+LIBRARY pngfilt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

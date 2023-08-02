@@ -1,0 +1,22 @@
+LIBRARY dmcfgutils.dll
+
+EXPORTS
+CfgUtilCheckCharacteristicNode
+CfgUtilCheckParmNode
+CfgUtilCreateCharacteristic
+CfgUtilCreateParm
+CfgUtilGetConfigDataTypeName
+CfgUtilGetConfigSemanticTypeName
+CfgUtilGetElementName
+CfgUtilGetName
+CfgUtilGetParmAttributeName
+CfgUtilParseConfigDataTypeName
+CfgUtilParseConfigSemanticTypeName
+CfgUtilParseElementName
+CfgUtilParseName
+CfgUtilParseNameByLen
+CfgUtilParseParmAttributeName
+CleanupPolicyComplianceEnsuranceForSource
+EnsurePolicyComplianceForSource
+SyncGetDeviceUniqueID
+VerifyFullAdminPrivileges

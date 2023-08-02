@@ -1,0 +1,7 @@
+LIBRARY mswmdm.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,4 @@
+LIBRARY C_IS2022.DLL
+
+EXPORTS
+NlsDllCodePageTranslation

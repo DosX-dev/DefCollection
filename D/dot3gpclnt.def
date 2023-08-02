@@ -1,0 +1,8 @@
+LIBRARY dot3gpclnt.dll
+
+EXPORTS
+DeserializeLANPolicy
+GenerateLANPolicy
+LANGPADeInit
+LANGPAInit
+ProcessLANPolicyEx

@@ -1,0 +1,27 @@
+LIBRARY dsauth.dll
+
+EXPORTS
+DhcpAddServerDS
+DhcpDeleteServerDS
+DhcpDsAddServer
+DhcpDsCleanupDS
+DhcpDsDelServer
+DhcpDsEnumServers
+DhcpDsGetAttribs
+DhcpDsGetLists
+DhcpDsGetRoot
+DhcpDsInitDS
+DhcpDsSetLists
+DhcpDsValidateService
+DhcpEnumServersDS
+StoreBeginSearch
+StoreCleanupHandle
+StoreCollectAttributes
+StoreCreateObjectVA
+StoreDeleteObject
+StoreEndSearch
+StoreGetHandle
+StoreInitHandle
+StoreSearchGetNext
+StoreSetSearchOneLevel
+StoreSetSearchSubTree

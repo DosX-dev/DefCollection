@@ -1,0 +1,5 @@
+LIBRARY SrpUxNativeSnapIn.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

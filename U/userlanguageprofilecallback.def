@@ -1,0 +1,4 @@
+LIBRARY UserLanguageProfileCallback.dll
+
+EXPORTS
+OnUserProfileChanged

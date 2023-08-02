@@ -1,0 +1,9 @@
+LIBRARY wdc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WdcParseLegacyFile
+WdcRunTaskAsInteractiveUser

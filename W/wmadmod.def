@@ -1,0 +1,8 @@
+LIBRARY WMADMOD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

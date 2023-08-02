@@ -1,0 +1,6 @@
+LIBRARY CredProvDataModel.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

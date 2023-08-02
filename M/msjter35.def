@@ -1,0 +1,7 @@
+LIBRARY MSJTER35.DLL
+
+EXPORTS
+JetErrFormattedMessage
+JetErrIDAForError
+JetErrIDARawMessage
+JetErrRawMessage

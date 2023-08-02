@@ -1,0 +1,8 @@
+LIBRARY Windows.Networking.XboxLive.ProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

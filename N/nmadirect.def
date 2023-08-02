@@ -1,0 +1,8 @@
+LIBRARY NmaDirect.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+NmaDirect_OverrideUserLocation
+NmaDirect_StartGuidanceWithSimulatedRoute

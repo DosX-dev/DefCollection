@@ -1,0 +1,5 @@
+LIBRARY d3d11ref.dll
+
+EXPORTS
+SetRefOption
+SetUseMidLevelShader

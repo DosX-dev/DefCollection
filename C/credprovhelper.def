@@ -1,0 +1,5 @@
+LIBRARY CredProvHelper.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

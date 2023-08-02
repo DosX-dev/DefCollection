@@ -1,0 +1,22 @@
+LIBRARY TLBINF32.DLL
+
+EXPORTS
+AddressOfStringElement
+DLLGetDocumentation
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetFunctionAttributeStrings
+GetImplAttributeStrings
+GetLibraryAttributeStrings
+GetTypeInfoAttributeStrings
+GetVariableAttributeStrings
+NewGUID
+SwapStringArrays
+hibyte
+hiword
+lobyte
+loword
+makelong
+makeword

@@ -1,0 +1,5 @@
+LIBRARY dlnashext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

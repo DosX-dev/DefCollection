@@ -1,0 +1,7 @@
+LIBRARY bidispl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

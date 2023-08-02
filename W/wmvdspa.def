@@ -1,0 +1,7 @@
+LIBRARY wmvdspa.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

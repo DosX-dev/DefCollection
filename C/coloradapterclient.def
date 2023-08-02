@@ -1,0 +1,9 @@
+LIBRARY coloradapterclient.dll
+
+EXPORTS
+ModernColorGetGDILutFromHDC
+ModernColorSetGDILut
+ModernColorSetGDILutFromHDC
+ModernColorSetLut
+ModernColorSetMatrix
+ModernColorSetMatrixFromHDC

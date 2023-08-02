@@ -1,0 +1,7 @@
+LIBRARY prnfldr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

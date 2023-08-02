@@ -1,0 +1,5 @@
+LIBRARY dsrole.dll
+
+EXPORTS
+DsRoleFreeMemory
+DsRoleGetPrimaryDomainInformation

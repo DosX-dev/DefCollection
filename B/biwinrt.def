@@ -1,0 +1,14 @@
+LIBRARY biwinrt.dll
+
+EXPORTS
+BiRtCreateEventForApp
+BiRtDeleteEventForApp
+BiRtEnumerateBrokeredEvents
+BiRtIsValidActivationTypeForEventType
+BiRtQueryBrokerEventId
+BiRtRegisterWorkItem
+BiRtRegisterWorkItemClsid
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain

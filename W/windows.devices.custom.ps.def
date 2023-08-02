@@ -1,0 +1,5 @@
+LIBRARY Windows.Devices.Custom.ps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

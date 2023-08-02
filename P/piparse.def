@@ -1,0 +1,11 @@
+LIBRARY PIPARSE.DLL
+
+EXPORTS
+?AuthenticatePopup@@YGJPAD00PAH@Z
+?GetEncryptedKey@@YGJPAD00K@Z
+?SetEncryptedKey@@YGJPAD00@Z
+?WpCommitPostInfo@@YGJPBD0@Z
+?WpGetPostInfo@@YGJPBD000PADPAKK@Z
+?WpGetSiteVariable@@YGJPBD0PAXPAK@Z
+?WpGetSiteVariableEx@@YGJPBD0PAXKPAK@Z
+?WpSetSiteVariable@@YGJPBD0PAXKK@Z

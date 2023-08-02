@@ -1,0 +1,5 @@
+LIBRARY d3dramp.dll
+
+EXPORTS
+RampOldTri
+g_RampOld_BeadTbl

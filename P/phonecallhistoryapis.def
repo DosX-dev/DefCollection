@@ -1,0 +1,6 @@
+LIBRARY PhoneCallHistoryApis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,7 @@
+LIBRARY Search.ProtocolHandler.MAPI2.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY msident.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

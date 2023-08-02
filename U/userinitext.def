@@ -1,0 +1,15 @@
+LIBRARY userinitext.dll
+
+EXPORTS
+CreateExplorerSessionKey
+DisplayMessageAndExitWindows
+ImmWorker
+IsSubDesktopSession
+IsTSAppCompatOn
+LoadRemoteFontsAndInitMiscWorker
+PerformXForestLogonCheck
+ProcesRemoteSessionInitialCommand
+ProcessTermSrvIniFiles
+SetShellDesktopSwitchEvent
+SetupHotKeyForKeyboardLayout
+UserinitExt

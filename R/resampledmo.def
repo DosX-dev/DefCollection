@@ -1,0 +1,8 @@
+LIBRARY RESAMPLEDMO.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

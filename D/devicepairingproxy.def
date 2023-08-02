@@ -1,0 +1,7 @@
+LIBRARY DevicePairingProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

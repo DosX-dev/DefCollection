@@ -1,0 +1,5 @@
+LIBRARY Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

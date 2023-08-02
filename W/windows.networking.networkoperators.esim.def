@@ -1,0 +1,6 @@
+LIBRARY Windows.Networking.NetworkOperators.ESim.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,5 @@
+LIBRARY autoplay.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

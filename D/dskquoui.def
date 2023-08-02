@@ -1,0 +1,5 @@
+LIBRARY dskquoui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

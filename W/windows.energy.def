@@ -1,0 +1,8 @@
+LIBRARY Windows.Energy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

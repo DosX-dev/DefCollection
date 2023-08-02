@@ -1,0 +1,11 @@
+LIBRARY ir41_qcoriginal.dll
+
+EXPORTS
+AllocInstanceData
+Compress
+CompressBegin
+CompressEnd
+CompressFramesInfo
+DllMain
+FreeInstanceData
+SetScalability

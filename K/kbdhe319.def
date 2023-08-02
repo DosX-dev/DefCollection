@@ -1,0 +1,4 @@
+LIBRARY KBDHE319.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,4 @@
+LIBRARY slwga.dll
+
+EXPORTS
+SLIsGenuineLocal

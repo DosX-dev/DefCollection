@@ -1,0 +1,7 @@
+LIBRARY dsdmo.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

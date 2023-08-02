@@ -1,0 +1,12 @@
+LIBRARY VAN.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HideVAN
+RunVANW
+ShowVAN
+ShutdownVAN
+VanUIManager_CreateInstance

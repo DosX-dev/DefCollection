@@ -1,0 +1,4 @@
+LIBRARY KBDINPUN.DLL
+
+EXPORTS
+KbdLayerDescriptor

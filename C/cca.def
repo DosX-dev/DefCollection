@@ -1,0 +1,7 @@
+LIBRARY cca.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

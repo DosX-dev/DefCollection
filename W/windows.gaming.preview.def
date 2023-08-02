@@ -1,0 +1,6 @@
+LIBRARY Windows.Gaming.Preview.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

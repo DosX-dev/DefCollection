@@ -1,0 +1,5 @@
+LIBRARY srmclient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

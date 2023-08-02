@@ -1,0 +1,4 @@
+LIBRARY KBDSL1.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,16 @@
+LIBRARY edpauditapi.dll
+
+EXPORTS
+EdpAuditHarden
+EdpAuditLogApplicationGenerated
+EdpAuditLogApplicationLearning
+EdpAuditLogDataCopied
+EdpAuditLogProtectionRemoved
+EdpAuditLogSiteLearning
+EdpAuditLoggerRegister
+EdpAuditLoggerUnregister
+EdpAuditRead
+EdpFlushTraces
+EdpGetLogFullPathFromRelativePath
+ReadAuditLogByCount
+ReadAuditLogByTimeRange

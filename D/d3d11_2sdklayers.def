@@ -1,0 +1,6 @@
+LIBRARY d3d11_2sdklayers.dll
+
+EXPORTS
+D3D11RegisterLayers
+D3D11TranslateCreateDevice
+EnableDDIValidation

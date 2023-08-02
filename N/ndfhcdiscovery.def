@@ -1,0 +1,7 @@
+LIBRARY ndfhcdiscovery.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

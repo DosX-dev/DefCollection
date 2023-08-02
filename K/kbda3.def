@@ -1,0 +1,4 @@
+LIBRARY KBDA3.DLL
+
+EXPORTS
+KbdLayerDescriptor

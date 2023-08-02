@@ -1,0 +1,5 @@
+LIBRARY SortWindows62.dll
+
+EXPORTS
+SortCloseHandle
+SortGetHandle

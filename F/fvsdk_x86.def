@@ -1,0 +1,4 @@
+LIBRARY FvSDK_x86.dll
+
+EXPORTS
+fv_QueryInterface

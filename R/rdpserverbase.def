@@ -1,0 +1,26 @@
+LIBRARY rdpserverbase.dll
+
+EXPORTS
+?GetEncodingPixelMap@RdpSurface@@QAEJPAPAVPixelMap@@@Z
+?GetGfxPipeSettingBOOL@@YGJPAGHPAH@Z
+?GetGfxPipeSettingUINT@@YGJPAGIPAI@Z
+?GetGraphicsSourceContext@RdpSurface@@QAEJPAPAUIRdpGFXSourceUpdateContext@@@Z
+?GetTileFirst@Tiler@@QAEJPBURdpRect@@PAU2@@Z
+?GetTileNext@Tiler@@QAEJPAURdpRect@@@Z
+?Initialize@Tiler@@QAEJPBURdpRect@@0@Z
+?LogRDPGraphicsError@RDPGraphicsTraceLogging@@YGXU_GUID@@IIJ@Z
+?LogRDPGraphicsFirstNonBlackFrame@RDPGraphicsTraceLogging@@YGX_K@Z
+?LogRDPGraphicsFirstNonBlackFramePostLogon@RDPGraphicsTraceLogging@@YGXI@Z
+?LogRDPGraphicsSubsampleAdapter@RDPGraphicsTraceLogging@@YGXPBGII@Z
+?LogRDPGraphicsSubsampleFailure@RDPGraphicsTraceLogging@@YGXJI@Z
+?LogRDPGraphicsVOBRHint@RDPGraphicsTraceLogging@@YGXI_KII@Z
+?RDPGraphicsTraceLogging_Register@RDPGraphicsTraceLogging@@YGJXZ
+?RDPGraphicsTraceLogging_Unregister@RDPGraphicsTraceLogging@@YGXXZ
+?RDPServerStackQOE_Register@@YGJXZ
+?RDPServerStackQOE_Unregister@@YGXXZ
+CCompressedUpdateContext_CreateInstance
+CUpdateContext_CreateInstance
+CUpdateDataAccumulator_CreateInstance
+RDPEncryptionTraceLogging_Register
+RDPEncryptionTraceLogging_Unregister
+RDPSERVERBASE_CreateInstance

@@ -1,0 +1,26 @@
+LIBRARY coml2.dll
+
+EXPORTS
+Coml2DllGetClassObject
+CreateILockBytesOnHGlobal
+DllGetClassObject
+FmtIdToPropStgName
+GetConvertStg
+GetHGlobalFromILockBytes
+PropStgNameToFmtId
+ReadClassStg
+ReadClassStm
+StgCreateDocfile
+StgCreateDocfileOnILockBytes
+StgCreatePropSetStg
+StgCreatePropStg
+StgCreateStorageEx
+StgIsStorageFile
+StgIsStorageILockBytes
+StgOpenPropStg
+StgOpenStorage
+StgOpenStorageEx
+StgOpenStorageOnILockBytes
+StgSetTimes
+WriteClassStg
+WriteClassStm

@@ -1,0 +1,14 @@
+LIBRARY FPWPP.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllEntryPoint
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WppBindToSiteA
+WppBindToSiteW
+WppDeleteSiteA
+WppDeleteSiteW
+WppListSitesA
+WppListSitesW

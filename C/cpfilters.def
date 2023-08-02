@@ -1,0 +1,8 @@
+LIBRARY CPFilters.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+UpdatePlayready

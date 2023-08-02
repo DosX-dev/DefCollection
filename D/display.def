@@ -1,0 +1,7 @@
+LIBRARY Display.dll
+
+EXPORTS
+DisplaySaveSettingsEx
+DllCanUnloadNow
+DllGetClassObject
+ShowAdapterSettings

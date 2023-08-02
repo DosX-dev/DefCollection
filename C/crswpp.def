@@ -1,0 +1,15 @@
+LIBRARY CRSWPP.DLL
+
+EXPORTS
+?CrsInitLoggingA@@YGKPAUHINSTANCE__@@PBD1H@Z
+?EnumProjectsA@@YGKPAVCSockClient@@KPAKPAPAX@Z
+?FreeEnumBuffer@@YGKPAPAX@Z
+?PackageHeaderToFileFindBuff@@YGXPAUPACKAGE_HEADER@@PAU_WIN32_FIND_DATAW@@@Z
+?QueryProjectA@@YGKPAVCSockClient@@PBDPAPAU_PARM_LIST@@@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WppBindToSiteExW
+WppBindToSiteW
+WppDeleteSiteW

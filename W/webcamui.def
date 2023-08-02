@@ -1,0 +1,6 @@
+LIBRARY WebcamUi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

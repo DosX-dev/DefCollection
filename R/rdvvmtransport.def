@@ -1,0 +1,6 @@
+LIBRARY rdvvmtransport.dll
+
+EXPORTS
+RdvTransport_CreateInstance
+RdvTransport_GetInstance
+RdvTransport_TerminateInstance

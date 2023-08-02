@@ -1,0 +1,8 @@
+LIBRARY MPG4DECD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

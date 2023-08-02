@@ -1,0 +1,5 @@
+LIBRARY scesrv.dll
+
+EXPORTS
+ScesrvInitializeServer
+ScesrvTerminateServer

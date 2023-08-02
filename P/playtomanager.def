@@ -1,0 +1,6 @@
+LIBRARY PlayToManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

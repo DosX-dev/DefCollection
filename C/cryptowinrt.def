@@ -1,0 +1,6 @@
+LIBRARY CryptoWinRT.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

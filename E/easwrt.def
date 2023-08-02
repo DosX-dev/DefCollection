@@ -1,0 +1,12 @@
+LIBRARY easwrt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+EasClientSecurityPolicyApply
+EasClientSecurityPolicyCheckCompliance
+EasGetClientDeviceInformation
+EasRegisterEncryptionProvider
+EasShowConsentDialog
+EasUnRegisterEncryptionProvider

@@ -1,0 +1,4 @@
+LIBRARY KBDOGHAM.DLL
+
+EXPORTS
+KbdLayerDescriptor

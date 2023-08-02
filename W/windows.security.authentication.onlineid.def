@@ -1,0 +1,6 @@
+LIBRARY Windows.Security.Authentication.OnlineId.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

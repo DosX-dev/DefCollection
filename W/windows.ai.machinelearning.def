@@ -1,0 +1,6 @@
+LIBRARY Windows.AI.MachineLearning.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+MLCreateOperatorRegistry

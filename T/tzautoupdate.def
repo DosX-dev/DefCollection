@@ -1,0 +1,10 @@
+LIBRARY tzautoupdate.dll
+
+EXPORTS
+AttemptToUpdateTimeZone
+AttemptToUpdateTimeZoneAndEnableChangeDetection
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ServiceMain
+SvchostPushServiceGlobals

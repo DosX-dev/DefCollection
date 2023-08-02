@@ -1,0 +1,9 @@
+LIBRARY VCardParser.dll
+
+EXPORTS
+CreateCardParser
+CreateCardParserEx
+CreateCardParserExA
+CreateICalGen
+CreateVCardGen
+EncodeQP

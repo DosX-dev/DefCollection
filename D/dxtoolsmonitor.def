@@ -1,0 +1,10 @@
+LIBRARY DXToolsMonitor.dll
+
+EXPORTS
+CLSID_DXDefaultPlatformStorage
+CLSID_DXToolsStockExperiment_FullCapture
+CLSID_DXToolsStockExperiment_FullPlayback
+CLSID_DXToolsStockExperiment_Overdraw
+CLSID_DXToolsStockExperiment_Recapture
+CreateSerializationController
+CreateWin8Injector

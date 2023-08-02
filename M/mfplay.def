@@ -1,0 +1,9 @@
+LIBRARY MFPlay.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+MFPCreateMediaPlayer
+MFPCreateMediaPlayerEx

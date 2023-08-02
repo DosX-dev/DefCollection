@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Custom.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

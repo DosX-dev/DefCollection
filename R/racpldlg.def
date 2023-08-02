@@ -1,0 +1,8 @@
+LIBRARY racpldlg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ShowPasswordDialog

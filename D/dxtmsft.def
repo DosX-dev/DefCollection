@@ -1,0 +1,8 @@
+LIBRARY dxtmsft.dll
+
+EXPORTS
+DllCanUnloadNow
+DllEnumClassObjects
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

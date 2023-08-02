@@ -1,0 +1,5 @@
+LIBRARY fundisc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

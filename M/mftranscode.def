@@ -1,0 +1,11 @@
+LIBRARY mftranscode.dll
+
+EXPORTS
+GetTranscodeComponentCreator
+MFCreateSmartRemuxEngine
+MFCreateTranscodeEngine
+MFCreateTranscodeProfile
+MFCreateTranscodeSinkActivate
+MFCreateTranscodeTopology
+MFCreateTranscodeTopologyFromByteStream
+MFTranscodeGetAudioOutputAvailableTypes

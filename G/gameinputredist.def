@@ -1,0 +1,8 @@
+LIBRARY GameInputRedist.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GameInputCreate

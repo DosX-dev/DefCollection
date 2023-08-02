@@ -1,0 +1,4 @@
+LIBRARY KBDTAT.DLL
+
+EXPORTS
+KbdLayerDescriptor

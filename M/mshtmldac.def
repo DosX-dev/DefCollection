@@ -1,0 +1,4 @@
+LIBRARY MshtmlDac.dll
+
+EXPORTS
+DllGetClassObject

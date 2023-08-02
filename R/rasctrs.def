@@ -1,0 +1,6 @@
+LIBRARY rasctrs.dll
+
+EXPORTS
+CloseRasPerformanceData
+CollectRasPerformanceData
+OpenRasPerformanceData

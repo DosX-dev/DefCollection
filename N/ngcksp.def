@@ -1,0 +1,4 @@
+LIBRARY ngcksp.dll
+
+EXPORTS
+GetKeyStorageInterface

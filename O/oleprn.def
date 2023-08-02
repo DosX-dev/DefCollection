@@ -1,0 +1,7 @@
+LIBRARY oleprn.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

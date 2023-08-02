@@ -1,0 +1,10 @@
+LIBRARY BthTelemetry.dll
+
+EXPORTS
+BthCollectFingerprintInfo
+BthProcessEventDataDword
+BthProcessEventOccurrence
+BthProcessEventOccurrenceBthaddr
+BthProcessEventOccurrenceResult
+BthProcessEventOccurrenceResultBthaddr
+BthProcessRpalEventOccurrence

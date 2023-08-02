@@ -1,0 +1,7 @@
+LIBRARY PortableDeviceTypes.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

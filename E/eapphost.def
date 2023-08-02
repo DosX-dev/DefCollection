@@ -1,0 +1,11 @@
+LIBRARY eapphost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+InitializeEapHost
+OnSessionChange
+StopServiceOnLowPower
+UninitializeEapHost

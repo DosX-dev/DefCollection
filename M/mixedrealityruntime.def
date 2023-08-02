@@ -1,0 +1,9 @@
+LIBRARY MixedRealityRuntime.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ServiceMain
+SvchostPushServiceGlobals
+xrNegotiateLoaderRuntimeInterface

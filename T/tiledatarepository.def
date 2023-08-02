@@ -1,0 +1,6 @@
+LIBRARY TileDataRepository.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

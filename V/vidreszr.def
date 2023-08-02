@@ -1,0 +1,8 @@
+LIBRARY VIDRESZR.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

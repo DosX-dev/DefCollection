@@ -1,0 +1,12 @@
+LIBRARY ir41_32original.dll
+
+EXPORTS
+AboutDialogProc
+ConfigureDialogProc
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+DriverDialogProc
+DriverProc

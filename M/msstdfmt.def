@@ -1,0 +1,7 @@
+LIBRARY MSSTDFMT.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

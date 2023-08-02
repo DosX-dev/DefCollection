@@ -1,0 +1,4 @@
+LIBRARY kbdphags.dll
+
+EXPORTS
+KbdLayerDescriptor

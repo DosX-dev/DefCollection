@@ -1,0 +1,4 @@
+LIBRARY LicensingDiagSpp.dll
+
+EXPORTS
+InitializeCollector

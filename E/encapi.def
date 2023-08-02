@@ -1,0 +1,7 @@
+LIBRARY encapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

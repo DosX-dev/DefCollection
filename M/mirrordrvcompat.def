@@ -1,0 +1,4 @@
+LIBRARY MirrorDrvCompat.dll
+
+EXPORTS
+MirrorDrvLoadedNotify

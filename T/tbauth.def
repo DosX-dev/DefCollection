@@ -1,0 +1,5 @@
+LIBRARY tbauth.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

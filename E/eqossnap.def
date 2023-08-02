@@ -1,0 +1,7 @@
+LIBRARY eqossnap.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

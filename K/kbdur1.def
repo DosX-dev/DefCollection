@@ -1,0 +1,4 @@
+LIBRARY KBDUR1.DLL
+
+EXPORTS
+KbdLayerDescriptor

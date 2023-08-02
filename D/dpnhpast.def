@@ -1,0 +1,4 @@
+LIBRARY dpnhpast.dll
+
+EXPORTS
+DllMain

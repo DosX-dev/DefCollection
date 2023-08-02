@@ -1,0 +1,10 @@
+LIBRARY fdWSD.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FdphostSessionChange
+FdphostSetComContext
+FdphostSetSharedService

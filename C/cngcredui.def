@@ -1,0 +1,5 @@
+LIBRARY cngcredui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

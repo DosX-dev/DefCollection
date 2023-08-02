@@ -1,0 +1,8 @@
+LIBRARY iepeers.dll
+
+EXPORTS
+DllCanUnloadNow
+DllEnumClassObjects
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

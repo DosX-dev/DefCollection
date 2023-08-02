@@ -1,0 +1,8 @@
+LIBRARY mmcndmgr.dll
+
+EXPORTS
+CreateExecutivePlatform
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

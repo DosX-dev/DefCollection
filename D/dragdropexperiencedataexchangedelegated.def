@@ -1,0 +1,6 @@
+LIBRARY DragDropExperienceDataExchangeDelegated.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

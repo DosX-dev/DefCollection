@@ -1,0 +1,11 @@
+LIBRARY quartz.dll
+
+EXPORTS
+AMGetErrorTextA
+AMGetErrorTextW
+AmpFactorToDB
+DBToAmpFactor
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

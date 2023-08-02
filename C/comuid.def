@@ -1,0 +1,8 @@
+LIBRARY comuid.dll
+
+EXPORTS
+CreateDCOMSecurityUIPage
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

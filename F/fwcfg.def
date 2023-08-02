@@ -1,0 +1,4 @@
+LIBRARY fwcfg.dll
+
+EXPORTS
+InitHelperDll

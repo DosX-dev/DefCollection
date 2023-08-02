@@ -1,0 +1,22 @@
+LIBRARY werui.dll
+
+EXPORTS
+WerUICreate
+WerUIDelete
+WerUIGetUserSelection
+WerUIPromptForSecondLevel
+WerUIPromptUser
+WerUIReportSilentProcessExit
+WerUIShowUpsell
+WerUIStart
+WerUITerminate
+WerUIUpdateStateProgress
+WerUIUpdateUIForState
+WerUIWaitForUserAction
+WerUIpCheckWindow
+WerUIpDefSubclassProc
+WerUIpHeadlessOrImersive
+WerUIpRemoveWindowSubclass
+WerUIpSetWindowSubclass
+WerUIpTaskDialogIndirect
+WerUIpUIHandleWERWindowMsg

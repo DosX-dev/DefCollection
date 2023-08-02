@@ -1,0 +1,6 @@
+LIBRARY XpsToPwgrConverter.dll
+
+EXPORTS
+CreateXpsToPwgrConverter
+DllCanUnloadNow
+DllGetClassObject

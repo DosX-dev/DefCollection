@@ -1,0 +1,6 @@
+LIBRARY Windows.Internal.UI.Logon.ProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

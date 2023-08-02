@@ -1,0 +1,20 @@
+LIBRARY wshbth.dll
+
+EXPORTS
+NSPStartup
+WSHAddressToString
+WSHEnumProtocols
+WSHGetBroadcastSockaddr
+WSHGetProviderGuid
+WSHGetSockaddrType
+WSHGetSocketInformation
+WSHGetWSAProtocolInfo
+WSHGetWildcardSockaddr
+WSHGetWinsockMapping
+WSHIoctl
+WSHJoinLeaf
+WSHNotify
+WSHOpenSocket
+WSHOpenSocket2
+WSHSetSocketInformation
+WSHStringToAddress

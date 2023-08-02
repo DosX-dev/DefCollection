@@ -1,0 +1,5 @@
+LIBRARY MSVP9DEC.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

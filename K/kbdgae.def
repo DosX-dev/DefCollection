@@ -1,0 +1,4 @@
+LIBRARY KBDGAE.DLL
+
+EXPORTS
+KbdLayerDescriptor

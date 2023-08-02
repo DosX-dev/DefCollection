@@ -1,0 +1,4 @@
+LIBRARY VsGraphicsExperiment.dll
+
+EXPORTS
+DllGetClassObject

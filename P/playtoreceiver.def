@@ -1,0 +1,6 @@
+LIBRARY PlayToReceiver.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

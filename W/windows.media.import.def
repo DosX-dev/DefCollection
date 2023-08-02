@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Import.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

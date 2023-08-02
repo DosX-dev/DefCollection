@@ -1,0 +1,4 @@
+LIBRARY wshelper.dll
+
+EXPORTS
+InitHelperDll

@@ -1,0 +1,5 @@
+LIBRARY twext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

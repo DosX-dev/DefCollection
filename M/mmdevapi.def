@@ -1,0 +1,8 @@
+LIBRARY MMDevAPI.dll
+
+EXPORTS
+ActivateAudioInterfaceAsync
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

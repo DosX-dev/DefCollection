@@ -1,0 +1,7 @@
+LIBRARY wmpeffects.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

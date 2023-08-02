@@ -1,0 +1,4 @@
+LIBRARY kbdarmty.dll
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,5 @@
+LIBRARY PrintWSDAHost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

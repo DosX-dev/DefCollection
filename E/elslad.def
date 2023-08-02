@@ -1,0 +1,8 @@
+LIBRARY elslad.dll
+
+EXPORTS
+DoAction
+FreePropertyBag
+FreeService
+InitService
+RecognizeText

@@ -1,0 +1,4 @@
+LIBRARY KBDUGHR.DLL
+
+EXPORTS
+KbdLayerDescriptor

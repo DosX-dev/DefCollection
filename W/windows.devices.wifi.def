@@ -1,0 +1,9 @@
+LIBRARY Windows.Devices.WiFi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

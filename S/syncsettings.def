@@ -1,0 +1,8 @@
+LIBRARY SyncSettings.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetProxyDllInfo
+GetSetting

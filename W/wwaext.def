@@ -1,0 +1,18 @@
+LIBRARY WwaExt.dll
+
+EXPORTS
+CheckAllowDiagnosticsMode
+DetermineCurrentDisplayRotationAngle
+DllMain
+ExtensionModulePreActivate
+GetExtensionHostModuleCount
+GetExtensionHostModuleFactory
+GetExtensionWebModuleCount
+GetExtensionWebModuleFactory
+GetExtensionWebMultiThreadedModuleCount
+GetExtensionWebMultiThreadedModuleFactory
+ProcessDisplayRotation
+SetPhoneWerParameters
+StaticExtensionInitialization
+StaticExtensionUnInitialization
+WWABehaviorEnabled

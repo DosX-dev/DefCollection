@@ -1,0 +1,6 @@
+LIBRARY pots.dll
+
+EXPORTS
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

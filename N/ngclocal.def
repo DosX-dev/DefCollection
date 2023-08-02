@@ -1,0 +1,8 @@
+LIBRARY ngclocal.dll
+
+EXPORTS
+NgcLocalAddCredential
+NgcLocalAddCredentialSilent
+NgcLocalChangeCredential
+NgcLocalFindCredential
+NgcLocalRemoveCredential

@@ -1,0 +1,9 @@
+LIBRARY scansetting.dll
+
+EXPORTS
+DllCanUnloadNow
+DllMain
+GetDefaultProfileScan
+GetImageDialog
+ProfilesDialog
+ProgDlgTakeFgIfShowing

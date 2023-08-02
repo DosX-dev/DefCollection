@@ -1,0 +1,9 @@
+LIBRARY cscobj.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ProcessGroupPolicy
+ProcessPolicy

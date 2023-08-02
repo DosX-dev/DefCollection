@@ -1,0 +1,6 @@
+LIBRARY WinRtTracing.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

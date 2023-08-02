@@ -1,0 +1,5 @@
+LIBRARY MCRecvSrc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

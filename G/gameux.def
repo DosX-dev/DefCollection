@@ -1,0 +1,7 @@
+LIBRARY gameux.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

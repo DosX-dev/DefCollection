@@ -1,0 +1,5 @@
+LIBRARY Windows.ApplicationModel.Store.Preview.DOSettings.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

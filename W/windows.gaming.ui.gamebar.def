@@ -1,0 +1,6 @@
+LIBRARY Windows.Gaming.UI.GameBar.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

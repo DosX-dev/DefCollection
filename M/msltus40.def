@@ -1,0 +1,5 @@
+LIBRARY msltus40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY spnet.dll
+
+EXPORTS
+Sysprep_Clean_Net
+Sysprep_Generalize_Net

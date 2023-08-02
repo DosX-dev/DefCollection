@@ -1,0 +1,7 @@
+LIBRARY Windows.Storage.ApplicationData.dll
+
+EXPORTS
+CleanupTemporaryState
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

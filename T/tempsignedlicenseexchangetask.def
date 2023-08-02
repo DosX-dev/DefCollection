@@ -1,0 +1,7 @@
+LIBRARY TempSignedLicenseExchangeTask.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,6 @@
+LIBRARY ChatApis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,5 @@
+LIBRARY EapTeapExt.dll
+
+EXPORTS
+TeapExt_EapPeerInvokeConfigUI
+TtlsExt_FreeMemoryExt

@@ -1,0 +1,7 @@
+LIBRARY srmshell.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

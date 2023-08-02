@@ -1,0 +1,9 @@
+LIBRARY oemlicense.dll
+
+EXPORTS
+AddDemoAppLicense
+HrAddAppxLicense
+HrInstallClipLicense
+HrNotifyPhoneLicenseReady
+HrRemoveAppxLicense
+RemoveDemoAppLicense

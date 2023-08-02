@@ -1,0 +1,4 @@
+LIBRARY KBDTAJIK.DLL
+
+EXPORTS
+KbdLayerDescriptor

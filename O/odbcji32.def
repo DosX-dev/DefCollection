@@ -1,0 +1,5 @@
+LIBRARY odbcji32.dll
+
+EXPORTS
+DllMain
+IntlLibHinst

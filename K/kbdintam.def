@@ -1,0 +1,4 @@
+LIBRARY KBDINTAM.DLL
+
+EXPORTS
+KbdLayerDescriptor

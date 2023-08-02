@@ -1,0 +1,4 @@
+LIBRARY txflog.dll
+
+EXPORTS
+DllGetClassObject

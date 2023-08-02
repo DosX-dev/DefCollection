@@ -1,0 +1,6 @@
+LIBRARY dmintf.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

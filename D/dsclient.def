@@ -1,0 +1,12 @@
+LIBRARY dsclient.dll
+
+EXPORTS
+DSCopyFromSharedFile
+DSCreateSharedFileToken
+DSDelegateSharingToken
+DSFreeString
+DSGetSharedFileName
+DSGetSharingTokenInformation
+DSOpenSharedFile
+DSRemoveExpiredTokens
+DSRemoveSharingToken

@@ -1,0 +1,5 @@
+LIBRARY SortServer2003Compat.dll
+
+EXPORTS
+SortCloseHandle
+SortGetHandle

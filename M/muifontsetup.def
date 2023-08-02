@@ -1,0 +1,5 @@
+LIBRARY muifontsetup.dll
+
+EXPORTS
+OnMachineUILanguageInit
+OnMachineUILanguageSwitch

@@ -1,0 +1,5 @@
+LIBRARY hcproviders.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

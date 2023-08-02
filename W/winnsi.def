@@ -1,0 +1,18 @@
+LIBRARY winnsi.dll
+
+EXPORTS
+NsiConnectToServer
+NsiDisconnectFromServer
+NsiRpcDeregisterChangeNotification
+NsiRpcDeregisterChangeNotificationEx
+NsiRpcEnumerateObjectsAllParameters
+NsiRpcGetAllParameters
+NsiRpcGetAllParametersEx
+NsiRpcGetParameter
+NsiRpcGetParameterEx
+NsiRpcRegisterChangeNotification
+NsiRpcRegisterChangeNotificationEx
+NsiRpcSetAllParameters
+NsiRpcSetAllParametersEx
+NsiRpcSetParameter
+NsiRpcSetParameterEx

@@ -1,0 +1,16 @@
+LIBRARY davhlpr.dll
+
+EXPORTS
+DavAddConnection
+DavCheckAndConvertHttpUrlToUncName
+DavDeleteConnection
+DavFlushFile
+DavGetExtendedError
+DavGetHTTPFromUNCPath
+DavGetUNCFromHTTPPath
+DavParseUncServerName
+DavRemoveDummyShareFromFileName
+DavRemoveDummyShareFromFileNameEx
+DavUrlDecodeToNtPath
+DavUrlDecodeUtf8
+DavUrlEncodeNtPath

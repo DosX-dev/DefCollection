@@ -1,0 +1,5 @@
+LIBRARY srmstormod.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

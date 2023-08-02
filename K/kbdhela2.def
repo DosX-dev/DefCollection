@@ -1,0 +1,4 @@
+LIBRARY KBDHELA2.DLL
+
+EXPORTS
+KbdLayerDescriptor

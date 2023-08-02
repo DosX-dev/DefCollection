@@ -1,0 +1,7 @@
+LIBRARY wlgpclnt.dll
+
+EXPORTS
+GenerateWLANPolicy
+ProcessWLANPolicyEx
+WLGPADeInit
+WLGPAInit

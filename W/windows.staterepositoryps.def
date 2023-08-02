@@ -1,0 +1,5 @@
+LIBRARY Windows.StateRepositoryPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

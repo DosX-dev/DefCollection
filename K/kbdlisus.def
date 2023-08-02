@@ -1,0 +1,4 @@
+LIBRARY kbdlisus.dll
+
+EXPORTS
+KbdLayerDescriptor

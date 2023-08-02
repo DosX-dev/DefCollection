@@ -1,0 +1,5 @@
+LIBRARY nvEncodeAPI.dll
+
+EXPORTS
+NvEncodeAPICreateInstance
+NvEncodeAPIGetMaxSupportedVersion

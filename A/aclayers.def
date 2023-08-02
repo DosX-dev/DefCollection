@@ -1,0 +1,5 @@
+LIBRARY AcLayers.dll
+
+EXPORTS
+GetHookAPIs
+NotifyShims

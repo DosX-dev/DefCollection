@@ -1,0 +1,4 @@
+LIBRARY KBDCAN.DLL
+
+EXPORTS
+KbdLayerDescriptor

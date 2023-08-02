@@ -1,0 +1,7 @@
+LIBRARY WABSyncProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

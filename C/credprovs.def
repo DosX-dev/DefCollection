@@ -1,0 +1,6 @@
+LIBRARY credprovs.dll
+
+EXPORTS
+CreatePasswordProviderWrapperInstance
+DllCanUnloadNow
+DllGetClassObject

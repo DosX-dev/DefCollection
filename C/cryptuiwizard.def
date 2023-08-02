@@ -1,0 +1,11 @@
+LIBRARY cryptuiwizard.dll
+
+EXPORTS
+CryptUIWizBuildCTL
+CryptUIWizDigitalSign
+CryptUIWizExport
+CryptUIWizFreeDigitalSignContext
+CryptUIWizImport
+CryptUIWizImportInternal
+DllMain
+GetFunctionTable

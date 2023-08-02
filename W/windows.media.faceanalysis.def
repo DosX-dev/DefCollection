@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.FaceAnalysis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY mciqtz32.dll
+
+EXPORTS
+DriverProc

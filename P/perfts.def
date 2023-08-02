@@ -1,0 +1,9 @@
+LIBRARY perfts.dll
+
+EXPORTS
+CloseLagPerfData
+CloseTSObject
+CollectLagPerfData
+CollectTSObjectData
+OpenLagPerfData
+OpenTSObject

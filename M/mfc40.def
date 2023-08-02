@@ -1,0 +1,7 @@
+LIBRARY mfc40.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

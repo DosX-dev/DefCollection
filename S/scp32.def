@@ -1,0 +1,7 @@
+LIBRARY SCP32.DLL
+
+EXPORTS
+DllStart
+FTranslateCpToUni
+FTranslateScp
+FTranslateUniToCp

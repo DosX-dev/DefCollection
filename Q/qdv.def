@@ -1,0 +1,7 @@
+LIBRARY qdv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY tapisrv.dll
+
+EXPORTS
+ServiceMain
+SvchostPushServiceGlobals

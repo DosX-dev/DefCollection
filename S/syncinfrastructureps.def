@@ -1,0 +1,8 @@
+LIBRARY SyncInfrastructureps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

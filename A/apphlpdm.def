@@ -1,0 +1,6 @@
+LIBRARY Apphlpdm.dll
+
+EXPORTS
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

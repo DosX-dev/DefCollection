@@ -1,0 +1,4 @@
+LIBRARY mtxlegih.dll
+
+EXPORTS
+TryLegInterfaceFirst

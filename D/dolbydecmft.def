@@ -1,0 +1,7 @@
+LIBRARY DolbyDecMFT.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

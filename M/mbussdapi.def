@@ -1,0 +1,6 @@
+LIBRARY mbussdapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

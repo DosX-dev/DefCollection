@@ -1,0 +1,6 @@
+LIBRARY msiwer.dll
+
+EXPORTS
+OutOfProcessExceptionEventCallback
+OutOfProcessExceptionEventDebuggerLaunchCallback
+OutOfProcessExceptionEventSignatureCallback

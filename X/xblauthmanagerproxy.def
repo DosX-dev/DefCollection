@@ -1,0 +1,5 @@
+LIBRARY XblAuthManagerProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

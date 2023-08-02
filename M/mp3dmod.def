@@ -1,0 +1,8 @@
+LIBRARY MP3DMOD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

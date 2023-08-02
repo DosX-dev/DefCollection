@@ -1,0 +1,10 @@
+LIBRARY msdtcuiu.dll
+
+EXPORTS
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+DtcPerfClose
+DtcPerfCollect
+DtcPerfOpen
+PerfDllRegisterServer

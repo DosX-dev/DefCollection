@@ -1,0 +1,6 @@
+LIBRARY Windows.System.SystemManagement.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,6 @@
+LIBRARY d3d9on12.dll
+
+EXPORTS
+GetPrivateDDITable
+OpenAdapter
+SetAppCompatData

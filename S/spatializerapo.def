@@ -1,0 +1,6 @@
+LIBRARY SpatializerApo.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

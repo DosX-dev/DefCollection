@@ -1,0 +1,4 @@
+LIBRARY netbios.dll
+
+EXPORTS
+Netbios

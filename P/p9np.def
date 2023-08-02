@@ -1,0 +1,13 @@
+LIBRARY p9np.dll
+
+EXPORTS
+NPAddConnection
+NPAddConnection3
+NPCancelConnection
+NPCloseEnum
+NPEnumResource
+NPFormatNetworkName
+NPGetCaps
+NPGetConnection
+NPGetResourceInformation
+NPOpenEnum

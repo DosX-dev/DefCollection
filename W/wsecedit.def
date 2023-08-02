@@ -1,0 +1,7 @@
+LIBRARY wsecedit.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+InvokeCAPEACLEditor
+TranslateAceMasksAndCondition

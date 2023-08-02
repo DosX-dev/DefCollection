@@ -1,0 +1,7 @@
+LIBRARY CallButtons.ProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

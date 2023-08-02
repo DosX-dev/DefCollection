@@ -1,0 +1,17 @@
+LIBRARY fsutilext.dll
+
+EXPORTS
+CheckSonyMSWorker
+DeviceInstIsRemovableWorker
+FindFirstVolumeMountPointWStub
+FindNextVolumeMountPointWStub
+FindVolumeMountPointCloseStub
+GetDeviceIDDiskFromDeviceIDVolumeWorker
+GetDeviceInstanceWorker
+GetRemovableDeviceInstRecursWorker
+GetWidgetWorker
+InvalidateFveWorker
+SendWithSenseParseWorker
+SetThreadUILanguageStub
+SystemParametersInfoWStub
+WaitForUnitAndReportProgressWorker

@@ -1,0 +1,8 @@
+LIBRARY GameBarPresenceWriter.proxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

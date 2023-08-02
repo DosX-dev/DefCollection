@@ -1,0 +1,4 @@
+LIBRARY KBDTURME.DLL
+
+EXPORTS
+KbdLayerDescriptor

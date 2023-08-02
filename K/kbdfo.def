@@ -1,0 +1,4 @@
+LIBRARY KBDFO.DLL
+
+EXPORTS
+KbdLayerDescriptor

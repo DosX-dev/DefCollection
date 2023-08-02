@@ -1,0 +1,5 @@
+LIBRARY ConfigureExpandedStorage.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

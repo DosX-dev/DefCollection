@@ -1,0 +1,5 @@
+LIBRARY devicengccredprov.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

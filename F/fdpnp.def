@@ -1,0 +1,5 @@
+LIBRARY fdPnp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

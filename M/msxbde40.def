@@ -1,0 +1,5 @@
+LIBRARY msxbde40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,8 @@
+LIBRARY shutdownext.dll
+
+EXPORTS
+ShutdownExAnnotate
+ShutdownExDirtyDialog
+ShutdownExPrintReasons
+ShutdownExReasonCommentRequired
+ShutdownExRemoteDialog

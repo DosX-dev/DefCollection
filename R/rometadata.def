@@ -1,0 +1,4 @@
+LIBRARY rometadata.dll
+
+EXPORTS
+MetaDataGetDispenser

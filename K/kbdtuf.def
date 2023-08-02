@@ -1,0 +1,4 @@
+LIBRARY KBDTUF.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,4 @@
+LIBRARY dpnlobby.dll
+
+EXPORTS
+DllMain

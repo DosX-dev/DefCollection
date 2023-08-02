@@ -1,0 +1,14 @@
+LIBRARY CallHistoryClient.dll
+
+EXPORTS
+DoesCallHistoryItemMatchFilter
+StringToUdmObjectId
+UdmAreCallEventsEqual
+UdmCancelAsyncTask
+UdmCreateDataSession
+UdmCreateDataSessionForUser
+UdmCreateSyncCallbackHandler
+UdmDebugModifyNotifyState
+UdmFreeCallFavoriteItemSet
+UdmFreeCallHistoryItemSet
+UdmObjectIdToString

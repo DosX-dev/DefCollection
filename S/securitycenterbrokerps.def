@@ -1,0 +1,7 @@
+LIBRARY SecurityCenterBrokerPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

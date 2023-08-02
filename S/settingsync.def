@@ -1,0 +1,5 @@
+LIBRARY SettingSync.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

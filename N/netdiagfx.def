@@ -1,0 +1,9 @@
+LIBRARY netdiagfx.dll
+
+EXPORTS
+HelperTraceEvent
+HelperTraceInitialize
+HelperTraceUninitialize
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

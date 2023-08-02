@@ -1,0 +1,7 @@
+LIBRARY MSAMRNBSource.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

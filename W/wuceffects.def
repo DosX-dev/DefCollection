@@ -1,0 +1,7 @@
+LIBRARY wuceffects.dll
+
+EXPORTS
+CompileEffectDescription
+CreateEffectDescription
+DeserializeEffectDescription
+SerializeEffectDescription

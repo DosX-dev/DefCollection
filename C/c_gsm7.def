@@ -1,0 +1,4 @@
+LIBRARY c_GSM7.DLL
+
+EXPORTS
+NlsDllCodePageTranslation

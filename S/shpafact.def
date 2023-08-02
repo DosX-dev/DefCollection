@@ -1,0 +1,5 @@
+LIBRARY shpafact.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

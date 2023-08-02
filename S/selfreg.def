@@ -1,0 +1,6 @@
+LIBRARY SELFREG.DLL
+
+EXPORTS
+HrSetupRegistryAdd
+RegistryAdd
+RegistryDelete

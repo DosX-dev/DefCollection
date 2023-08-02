@@ -1,0 +1,9 @@
+LIBRARY mfc42.dll
+
+EXPORTS
+?classCCachedDataPathProperty@CCachedDataPathProperty@@2UCRuntimeClass@@B
+?classCDataPathProperty@CDataPathProperty@@2UCRuntimeClass@@B
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

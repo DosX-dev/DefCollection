@@ -1,0 +1,6 @@
+LIBRARY OneCoreUAPCommonProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

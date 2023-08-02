@@ -1,0 +1,5 @@
+LIBRARY ngccredprov.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

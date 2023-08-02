@@ -1,0 +1,7 @@
+LIBRARY xactengine2_8.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

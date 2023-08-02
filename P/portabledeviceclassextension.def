@@ -1,0 +1,8 @@
+LIBRARY PortableDeviceClassExtension.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+Microsoft_WDF_UMDF_Version

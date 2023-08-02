@@ -1,0 +1,21 @@
+LIBRARY AddressParser.dll
+
+EXPORTS
+DestroyAddressParser
+GetCity
+GetCountryName
+GetCountryStringFromIndex
+GetFullAddress
+GetNewAddressParser
+GetPostalCode
+GetState
+GetStreet
+ParseAddress
+RebuildAddress
+SetCity
+SetCountryName
+SetFullAddress
+SetPostalCode
+SetState
+SetStreet
+UpdateDefCountry

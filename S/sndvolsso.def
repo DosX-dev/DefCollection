@@ -1,0 +1,6 @@
+LIBRARY SndVolSSO.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain

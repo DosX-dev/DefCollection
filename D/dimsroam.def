@@ -1,0 +1,4 @@
+LIBRARY dimsroam.dll
+
+EXPORTS
+DimsRoamEntry

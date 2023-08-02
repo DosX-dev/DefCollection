@@ -1,0 +1,7 @@
+LIBRARY MicrosoftAccountTokenProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

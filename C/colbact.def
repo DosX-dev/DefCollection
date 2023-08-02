@@ -1,0 +1,10 @@
+LIBRARY colbact.dll
+
+EXPORTS
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetClassInfoForCurrentUser
+GetDefaultPartitionForCurrentUser
+GetDefaultPartitionForSid
+PartitionAccessCheck

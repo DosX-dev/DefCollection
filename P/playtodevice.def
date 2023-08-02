@@ -1,0 +1,6 @@
+LIBRARY PlayToDevice.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

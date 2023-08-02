@@ -1,0 +1,6 @@
+LIBRARY UIRibbon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain

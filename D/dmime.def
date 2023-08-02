@@ -1,0 +1,7 @@
+LIBRARY dmime.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

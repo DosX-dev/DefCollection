@@ -1,0 +1,13 @@
+LIBRARY uireng.dll
+
+EXPORTS
+UirGetScreenComment
+UirInitializeEngine
+UirIsRecordingActive
+UirOutCreateOutputFile
+UirPauseRecordingSession
+UirResumeRecordingSession
+UirStartRecordingSession
+UirStopRecordingSession
+UirUninitializeEngine
+UirUpdateRecordingSession

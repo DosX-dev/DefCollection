@@ -1,0 +1,5 @@
+LIBRARY execmodelproxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,11 @@
+LIBRARY NvFBC.dll
+
+EXPORTS
+NvFBC_Create
+NvFBC_CreateEx
+NvFBC_Enable
+NvFBC_GetSDKVersion
+NvFBC_GetStatus
+NvFBC_GetStatusEx
+NvFBC_SetGlobalFlags
+NvOptimusEnablement

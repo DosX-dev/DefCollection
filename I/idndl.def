@@ -1,0 +1,6 @@
+LIBRARY idndl.dll
+
+EXPORTS
+DownlevelGetLocaleScripts
+DownlevelGetStringScripts
+DownlevelVerifyScripts

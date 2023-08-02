@@ -1,0 +1,7 @@
+LIBRARY PCPKsp.dll
+
+EXPORTS
+DllInstall
+DllMain
+DllUnregisterServer
+GetKeyStorageInterface

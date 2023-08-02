@@ -1,0 +1,8 @@
+LIBRARY Windows.System.RemoteDesktop.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY NetworkCollectionAgent.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,8 @@
+LIBRARY Windows.Mirage.Internal.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetActivationFactoryMirageInternal
+DllGetClassObject
+InjectDependencyInternal

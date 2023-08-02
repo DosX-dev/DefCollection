@@ -1,0 +1,24 @@
+LIBRARY NetSetupApi.dll
+
+EXPORTS
+NetSetupClose
+NetSetupCloseObjectQuery
+NetSetupCommit
+NetSetupCreateObject
+NetSetupCreateObjectQuery
+NetSetupDeleteObject
+NetSetupFreeObjectProperties
+NetSetupFreeObjects
+NetSetupFreeSerializedFilter
+NetSetupGetObjectProperties
+NetSetupGetObjectPropertyKeys
+NetSetupGetObjects
+NetSetupInitialize
+NetSetupOpenAdvancedPropertyKey
+NetSetupRollback
+NetSetupSerializeFilter
+NetSetupSetObjectProperties
+NetSetupSynchronizeDevices
+NetSetupValidateTransaction
+OnMachineUILanguageInit
+OnMachineUILanguageSwitch

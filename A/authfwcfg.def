@@ -1,0 +1,5 @@
+LIBRARY authfwcfg.dll
+
+EXPORTS
+GetResourceString
+InitHelperDll

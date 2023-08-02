@@ -1,0 +1,9 @@
+LIBRARY WMVDECOD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetVC1DecoderFunctionTable

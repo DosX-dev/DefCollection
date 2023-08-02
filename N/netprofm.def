@@ -1,0 +1,7 @@
+LIBRARY netprofm.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

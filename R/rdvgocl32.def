@@ -1,0 +1,6 @@
+LIBRARY rdvgocl32.dll
+
+EXPORTS
+DllMain
+clGetExtensionFunctionAddress
+clIcdGetPlatformIDsKHR

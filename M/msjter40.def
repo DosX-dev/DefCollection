@@ -1,0 +1,7 @@
+LIBRARY msjter40.dll
+
+EXPORTS
+JetErrFormattedMessage
+JetErrIDAForError
+JetErrIDARawMessage
+JetErrRawMessage

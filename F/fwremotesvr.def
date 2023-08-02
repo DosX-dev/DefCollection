@@ -1,0 +1,5 @@
+LIBRARY FwRemoteSvr.dll
+
+EXPORTS
+FwRpcAPIsInitialize
+FwRpcAPIsShutdown

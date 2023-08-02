@@ -1,0 +1,8 @@
+LIBRARY InstallServiceTasks.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ForceAppInUseRestart

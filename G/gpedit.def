@@ -1,0 +1,11 @@
+LIBRARY gpedit.dll
+
+EXPORTS
+BrowseForGPO
+CreateGPOLink
+DeleteAllGPOLinks
+DeleteGPOLink
+DllCanUnloadNow
+DllGetClassObject
+ExportRSoPData
+ImportRSoPData

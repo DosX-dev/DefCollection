@@ -1,0 +1,6 @@
+LIBRARY clrhost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

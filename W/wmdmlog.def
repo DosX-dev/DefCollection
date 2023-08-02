@@ -1,0 +1,7 @@
+LIBRARY wmdmlog.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

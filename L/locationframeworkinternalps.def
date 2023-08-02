@@ -1,0 +1,7 @@
+LIBRARY LocationFrameworkInternalPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

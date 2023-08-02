@@ -1,0 +1,18 @@
+LIBRARY vfcuzz.dll
+
+EXPORTS
+_CuzzDisable@0
+_CuzzDumpDebuggingState@4
+_CuzzEnable@0
+_CuzzGetCustomSchedulerInterface@8
+_CuzzGetPriority@0
+_CuzzGetPriorityOfTask@4
+_CuzzGetRandomSeed@0
+_CuzzIsEnabled@0
+_CuzzSchedule@20
+_CuzzSetDebugLoweringPoint@12
+_CuzzSetDebugPriority@8
+_CuzzSetFuzzingLevel@4
+_CuzzSetNumBlockedThreads@4
+_CuzzSetPriority@4
+_CuzzSetRandomSeed@8

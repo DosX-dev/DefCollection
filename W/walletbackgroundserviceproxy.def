@@ -1,0 +1,5 @@
+LIBRARY WalletBackgroundServiceProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

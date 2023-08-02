@@ -1,0 +1,5 @@
+LIBRARY unenrollhook.dll
+
+EXPORTS
+EnterpriseResourceManager_MoveAllResources
+EnterpriseResourceManager_UnenrollHook

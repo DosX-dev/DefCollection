@@ -1,0 +1,8 @@
+LIBRARY wpdshext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+_CDefFolderMenu_MergeMenu@16

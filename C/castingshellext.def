@@ -1,0 +1,10 @@
+LIBRARY CastingShellExt.dll
+
+EXPORTS
+CreateViewObjectForContentDirectoryFolder
+CreateViewObjectForMediaServerFolder
+DllMain
+GetContextMenuForContentDirectoryFolder
+GetContextMenuForMediaServerFolder
+GetExtractIconForContentDirectoryFolder
+GetExtractIconForMediaServerFolder

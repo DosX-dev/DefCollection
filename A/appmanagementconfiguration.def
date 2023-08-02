@@ -1,0 +1,8 @@
+LIBRARY AppManagementConfiguration.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ProcessAppVPolicy
+ProcessUevPolicy

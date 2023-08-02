@@ -1,0 +1,6 @@
+LIBRARY cdprt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

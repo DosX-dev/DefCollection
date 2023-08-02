@@ -1,0 +1,4 @@
+LIBRARY ttdrecord.dll
+
+EXPORTS
+ExecuteTTTracerCommandLine

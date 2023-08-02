@@ -1,0 +1,7 @@
+LIBRARY pid.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+PID_GetFFEffectSettingsFromMemory
+PID_WriteFFEffectSettingsToMemory

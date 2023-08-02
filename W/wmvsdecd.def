@@ -1,0 +1,8 @@
+LIBRARY WMVSDECD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

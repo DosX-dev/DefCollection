@@ -1,0 +1,9 @@
+LIBRARY mfsvr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+MFCreateHDCPStatus
+MFCreateMediaEngineVideoOTA
+MFCreateOPMHelper
+MFCreateTimedTextRenderer

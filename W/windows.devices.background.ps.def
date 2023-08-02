@@ -1,0 +1,5 @@
+LIBRARY Windows.Devices.Background.ps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

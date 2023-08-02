@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Perception.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

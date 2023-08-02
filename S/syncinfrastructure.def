@@ -1,0 +1,7 @@
+LIBRARY SyncInfrastructure.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

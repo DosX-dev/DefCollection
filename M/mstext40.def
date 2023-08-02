@@ -1,0 +1,5 @@
+LIBRARY mstext40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY wlidfdp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

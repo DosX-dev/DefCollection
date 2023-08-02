@@ -1,0 +1,7 @@
+LIBRARY atlthunk.dll
+
+EXPORTS
+AtlThunk_AllocateData
+AtlThunk_DataToCode
+AtlThunk_FreeData
+AtlThunk_InitData

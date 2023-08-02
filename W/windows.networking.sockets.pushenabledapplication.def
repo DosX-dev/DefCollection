@@ -1,0 +1,9 @@
+LIBRARY Windows.Networking.Sockets.PushEnabledApplication.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

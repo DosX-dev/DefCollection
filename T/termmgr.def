@@ -1,0 +1,7 @@
+LIBRARY termmgr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

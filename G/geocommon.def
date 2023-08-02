@@ -1,0 +1,6 @@
+LIBRARY Geocommon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

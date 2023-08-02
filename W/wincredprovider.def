@@ -1,0 +1,7 @@
+LIBRARY wincredprovider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

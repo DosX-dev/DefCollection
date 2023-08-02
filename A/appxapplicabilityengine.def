@@ -1,0 +1,14 @@
+LIBRARY AppxApplicabilityEngine.dll
+
+EXPORTS
+AddDirectXFeatureLevelToContext
+AddUserLanguagesToContext
+CreateApplicabilityContext
+CreateApplicabilityContextFromString
+FreeApplicabilityContext
+FreeApplicablePackages
+GetApplicabilityContext
+GetApplicablePackages
+GetApplicablePackagesForUser
+GetApplicablePackagesForUserWithAppChosenResources
+GetApplicablePackagesWithAppChosenResources

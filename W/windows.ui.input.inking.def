@@ -1,0 +1,7 @@
+LIBRARY Windows.UI.Input.Inking.dll
+
+EXPORTS
+CreateDCompositionDirectInkFactoryPartner
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

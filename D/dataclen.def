@@ -1,0 +1,27 @@
+LIBRARY dataclen.dll
+
+EXPORTS
+??0CDataDrivenCleaner@@QAE@ABV0@@Z
+??0CDataDrivenCleaner@@QAE@XZ
+??1CDataDrivenCleaner@@QAE@XZ
+??4CDataDrivenCleaner@@QAEAAV0@ABV0@@Z
+??_7CDataDrivenCleaner@@6B@
+?AddFileToList@CDataDrivenCleaner@@IAEHPBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z
+?AddFolders@CDataDrivenCleaner@@QAEHPBG@Z
+?AddRef@CDataDrivenCleaner@@UAGKXZ
+?Deactivate@CDataDrivenCleaner@@UAGJPAK@Z
+?DeleteIfPathNotChanged@CDataDrivenCleaner@@IAEJPBG@Z
+?ExecuteCmd@CDataDrivenCleaner@@IAEXPAGH@Z
+?FreeList@CDataDrivenCleaner@@IAEXPAUtag_CleanFileStruct@@@Z
+?GetSpaceUsed@CDataDrivenCleaner@@UAGJPA_KPAUIEmptyVolumeCacheCallBack@@@Z
+?Initialize@CDataDrivenCleaner@@UAGJPAUHKEY__@@PBGPAPAG2PAK@Z
+?LastAccessisOK@CDataDrivenCleaner@@IAEHU_FILETIME@@@Z
+?MergeSortList@CDataDrivenCleaner@@IAEPAUtag_CleanFileStruct@@PAU2@@Z
+?Purge@CDataDrivenCleaner@@UAGJ_KPAUIEmptyVolumeCacheCallBack@@@Z
+?PurgeFiles@CDataDrivenCleaner@@IAEXPAUIEmptyVolumeCacheCallBack@@_K@Z
+?QueryInterface@CDataDrivenCleaner@@UAGJABU_GUID@@PAPAX@Z
+?Release@CDataDrivenCleaner@@UAGKXZ
+?ShowProperties@CDataDrivenCleaner@@UAGJPAUHWND__@@@Z
+?WalkForUsedSpace@CDataDrivenCleaner@@IAEHPBGPAUIEmptyVolumeCacheCallBack@@H@Z
+DllCanUnloadNow
+DllGetClassObject

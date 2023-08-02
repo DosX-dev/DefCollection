@@ -1,0 +1,7 @@
+LIBRARY Windows.AccountsControl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetProxyDllInfo

@@ -1,0 +1,4 @@
+LIBRARY mrt_map.dll
+
+EXPORTS
+CLRDataCreateInstance

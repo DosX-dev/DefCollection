@@ -1,0 +1,27 @@
+LIBRARY Windows.Storage.Search.dll
+
+EXPORTS
+CreateDefaultProviderResolver
+CreateResultSetFactory
+CreateSingleVisibleInList
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetGatherAdmin
+GetScopeFolderType
+IsMSSearchEnabled
+IsShellItemInSearchIndex
+SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc
+SEARCH_WriteAutoListContents
+SHCreateAutoList
+SHCreateAutoListWithID
+SHCreateScope
+SHCreateScopeFromIDListsEx
+SHCreateScopeFromShellItemArray
+SHCreateScopeItemFromIDList
+SHCreateScopeItemFromKnownFolder
+SHCreateScopeItemFromShellItem
+SHCreateSearchIDListFromAutoList
+SHCreateTransientVFolderIDList

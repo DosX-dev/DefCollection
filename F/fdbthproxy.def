@@ -1,0 +1,7 @@
+LIBRARY fdBthProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

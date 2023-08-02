@@ -1,0 +1,5 @@
+LIBRARY d3d11_3SDKLayers.dll
+
+EXPORTS
+D3D11RegisterLayers
+D3D11TranslateCreateDevice

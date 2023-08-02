@@ -1,0 +1,4 @@
+LIBRARY odtext32.dll
+
+EXPORTS
+ConfigDSNW

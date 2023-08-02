@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.ConversationalAgent.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

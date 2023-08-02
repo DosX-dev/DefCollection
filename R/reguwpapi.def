@@ -1,0 +1,17 @@
+LIBRARY reguwpapi.dll
+
+EXPORTS
+RegCopyTreeFromApp
+RegCreateKeyFromApp
+RegDeleteKeyFromApp
+RegDeleteTreeFromApp
+RegDeleteValueFromApp
+RegEnumKeyFromApp
+RegEnumValueFromApp
+RegGetValueFromApp
+RegLoadAppKeyFromApp
+RegOpenKeyFromApp
+RegQueryInfoKeyFromApp
+RegQueryMultipleValuesFromApp
+RegQueryValueFromApp
+RegSetValueFromApp

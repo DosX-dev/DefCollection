@@ -1,0 +1,7 @@
+LIBRARY directmanipulation.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+InitializeDManipHook

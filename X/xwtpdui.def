@@ -1,0 +1,5 @@
+LIBRARY xwtpdui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

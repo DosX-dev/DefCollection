@@ -1,0 +1,5 @@
+LIBRARY mfmpeg2srcsnk.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,7 @@
+LIBRARY eapp3hst.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY wiascanprofiles.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

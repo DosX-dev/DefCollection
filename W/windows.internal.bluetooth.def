@@ -1,0 +1,8 @@
+LIBRARY Windows.Internal.Bluetooth.dll
+
+EXPORTS
+BthEvtBrCreateBroker
+BthEvtBrDeleteBroker
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,10 @@
+LIBRARY Windows.UI.Xaml.Controls.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+GetDependencyLocatorStorage
+SendTelemetryOnSuspend
+XamlTestHookFreeControlsResourceLibrary

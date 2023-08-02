@@ -1,0 +1,10 @@
+LIBRARY TtlsAuth.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerGetInfo

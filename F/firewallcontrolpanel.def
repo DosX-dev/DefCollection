@@ -1,0 +1,9 @@
+LIBRARY FirewallControlPanel.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ShowNotificationDialogW
+ShowWarningDialogW

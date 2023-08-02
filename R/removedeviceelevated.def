@@ -1,0 +1,8 @@
+LIBRARY RemoveDeviceElevated.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

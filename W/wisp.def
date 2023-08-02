@@ -1,0 +1,7 @@
+LIBRARY wisp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

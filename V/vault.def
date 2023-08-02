@@ -1,0 +1,5 @@
+LIBRARY Vault.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

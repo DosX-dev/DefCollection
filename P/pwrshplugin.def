@@ -1,0 +1,15 @@
+LIBRARY pwrshplugin.dll
+
+EXPORTS
+GetCLRVersionForPSVersion
+PerformWSManPluginReportCompletion
+WSManPluginCommand
+WSManPluginConnect
+WSManPluginReceive
+WSManPluginReleaseCommandContext
+WSManPluginReleaseShellContext
+WSManPluginSend
+WSManPluginShell
+WSManPluginShutdown
+WSManPluginSignal
+WSManPluginStartup

@@ -1,0 +1,4 @@
+LIBRARY ReInfo.dll
+
+EXPORTS
+WinReGetConfig

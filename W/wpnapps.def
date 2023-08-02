@@ -1,0 +1,6 @@
+LIBRARY wpnapps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

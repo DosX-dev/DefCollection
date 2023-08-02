@@ -1,0 +1,7 @@
+LIBRARY VscMgrPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

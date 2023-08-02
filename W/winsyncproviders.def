@@ -1,0 +1,7 @@
+LIBRARY WinSyncProviders.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

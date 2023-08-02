@@ -1,0 +1,6 @@
+LIBRARY ConnectedAccountState.dll
+
+EXPORTS
+ActionCenterRunDllW
+DllCanUnloadNow
+DllGetClassObject

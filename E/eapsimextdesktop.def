@@ -1,0 +1,8 @@
+LIBRARY eapsimextdesktop.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+EapSimExtCallRunWizard
+EapSimExtGetIdentityPageGuid
+EapSimExtInvokeUIAndGetConfig

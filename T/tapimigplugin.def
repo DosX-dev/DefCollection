@@ -1,0 +1,8 @@
+LIBRARY TapiMigPlugin.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,4 @@
+LIBRARY KBDINGUJ.DLL
+
+EXPORTS
+KbdLayerDescriptor

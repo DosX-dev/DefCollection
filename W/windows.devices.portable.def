@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Portable.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

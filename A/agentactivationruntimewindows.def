@@ -1,0 +1,4 @@
+LIBRARY agentactivationruntimewindows.dll
+
+EXPORTS
+?GetAgentActivationRuntimePalComponentFactory@@YGPAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ

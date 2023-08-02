@@ -1,0 +1,8 @@
+LIBRARY DispBroker.dll
+
+EXPORTS
+DispBrokerTraceLogCallback
+DispBrokerTraceLogHelper
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

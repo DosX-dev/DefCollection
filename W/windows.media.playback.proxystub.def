@@ -1,0 +1,7 @@
+LIBRARY Windows.Media.Playback.ProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

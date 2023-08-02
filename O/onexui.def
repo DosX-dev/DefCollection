@@ -1,0 +1,7 @@
+LIBRARY onexui.dll
+
+EXPORTS
+OneXGetUserFriendlyText
+OneXMapEAPHostInteractiveUIToOneXUIResponse
+OneXShowUI
+OneXShowUIFromEAPCreds

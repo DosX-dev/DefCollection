@@ -1,0 +1,4 @@
+LIBRARY C_ISCII.DLL
+
+EXPORTS
+NlsDllCodePageTranslation

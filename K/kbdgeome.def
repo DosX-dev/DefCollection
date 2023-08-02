@@ -1,0 +1,4 @@
+LIBRARY kbdgeome.dll
+
+EXPORTS
+KbdLayerDescriptor

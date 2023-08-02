@@ -1,0 +1,7 @@
+LIBRARY InkEd.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

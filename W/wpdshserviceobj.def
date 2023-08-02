@@ -1,0 +1,7 @@
+LIBRARY WPDShServiceObj.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

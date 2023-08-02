@@ -1,0 +1,7 @@
+LIBRARY xmlfilter.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

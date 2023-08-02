@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Lights.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

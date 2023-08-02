@@ -1,0 +1,4 @@
+LIBRARY KBDCHER.DLL
+
+EXPORTS
+KbdLayerDescriptor

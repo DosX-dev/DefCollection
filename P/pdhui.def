@@ -1,0 +1,13 @@
+LIBRARY pdhui.dll
+
+EXPORTS
+PdhUiBrowseCountersA
+PdhUiBrowseCountersExA
+PdhUiBrowseCountersExHA
+PdhUiBrowseCountersExHW
+PdhUiBrowseCountersExW
+PdhUiBrowseCountersHA
+PdhUiBrowseCountersHW
+PdhUiBrowseCountersW
+PdhUiSelectDataSourceA
+PdhUiSelectDataSourceW

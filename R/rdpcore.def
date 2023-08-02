@@ -1,0 +1,4 @@
+LIBRARY rdpcore.dll
+
+EXPORTS
+RDPAPI_CreateInstance

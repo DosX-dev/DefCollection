@@ -1,0 +1,7 @@
+LIBRARY dmcompos.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

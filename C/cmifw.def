@@ -1,0 +1,7 @@
+LIBRARY cmifw.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+EnableGroupW
+unattendW

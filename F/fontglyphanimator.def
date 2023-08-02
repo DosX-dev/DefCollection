@@ -1,0 +1,6 @@
+LIBRARY FontGlyphAnimator.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

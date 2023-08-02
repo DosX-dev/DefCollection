@@ -1,0 +1,15 @@
+LIBRARY HNetCfgClient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HNetCfgGetDhcpScopeAddress
+HNetCfgGetPrivateIndex
+HNetCfgGetPublicIndex
+HNetCfgSetDhcpScopeAddress
+HNetCfgStartSharing
+HNetCfgStartSharingEx
+HNetCfgStopSharing
+HNetCfgUpdateSharingSettingsFromStorage

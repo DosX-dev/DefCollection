@@ -1,0 +1,22 @@
+LIBRARY provplatformdesktop.dll
+
+EXPORTS
+CheckPackageManagerOutOfProc
+CheckUserConsent
+ConfigureAppLaunch
+CreateAutomaticRedeploymentFailureNotificationTask
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetDeviceId
+GetPackagePassword
+GetProvisioningTargetUser
+InitiateMgmtRefresh
+InitiateSystemReset
+MgmtRefreshPrecheck
+MgmtRefreshRebootSystem
+MgmtRefreshReleaseSession
+MgmtRefreshStageSession
+MgmtRefreshUnstageSession
+ReportInstallationError
+SetDeviceName

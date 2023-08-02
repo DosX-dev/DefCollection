@@ -1,0 +1,8 @@
+LIBRARY usbceip.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+UsbCeip_Execute

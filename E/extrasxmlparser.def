@@ -1,0 +1,6 @@
+LIBRARY ExtrasXmlParser.dll
+
+EXPORTS
+ParseExtrasXmlForExtensionInfo
+ParseExtrasXmlForNabSyncExtensionInfo
+ParseExtrasXmlForSmsInterceptExtensionInfo

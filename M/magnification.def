@@ -1,0 +1,24 @@
+LIBRARY Magnification.dll
+
+EXPORTS
+MagGetColorEffect
+MagGetFullscreenColorEffect
+MagGetFullscreenTransform
+MagGetImageScalingCallback
+MagGetInputTransform
+MagGetWindowFilterList
+MagGetWindowSource
+MagGetWindowTransform
+MagInitialize
+MagSetColorEffect
+MagSetFullscreenColorEffect
+MagSetFullscreenTransform
+MagSetFullscreenUseBitmapSmoothing
+MagSetImageScalingCallback
+MagSetInputTransform
+MagSetLensUseBitmapSmoothing
+MagSetWindowFilterList
+MagSetWindowSource
+MagSetWindowTransform
+MagShowSystemCursor
+MagUninitialize

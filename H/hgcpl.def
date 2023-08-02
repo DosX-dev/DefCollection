@@ -1,0 +1,5 @@
+LIBRARY hgcpl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

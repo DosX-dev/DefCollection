@@ -1,0 +1,11 @@
+LIBRARY chartv.dll
+
+EXPORTS
+CvCloseDataSource
+CvCreateDataSource
+CvGetData
+CvGetDataSourceName
+CvInitialize
+CvSetData
+CvSetDataSourceName
+CvUninitialize

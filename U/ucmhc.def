@@ -1,0 +1,7 @@
+LIBRARY ucmhc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

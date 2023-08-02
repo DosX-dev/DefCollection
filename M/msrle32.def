@@ -1,0 +1,4 @@
+LIBRARY msrle32.dll
+
+EXPORTS
+DriverProc

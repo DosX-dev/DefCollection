@@ -1,0 +1,6 @@
+LIBRARY udhisapi.dll
+
+EXPORTS
+GetExtensionVersion
+HttpExtensionProc
+TerminateExtension

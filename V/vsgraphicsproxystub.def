@@ -1,0 +1,10 @@
+LIBRARY VsGraphicsProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+PixEngine_RegisterProxyStubClassObject
+PixEngine_RegisterProxyStubs
+PixEngine_UnregisterProxyStubClassObject

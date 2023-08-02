@@ -1,0 +1,7 @@
+LIBRARY d3d12SDKLayers.dll
+
+EXPORTS
+D3D12RegisterLayers
+D3D12SDKVersion
+D3D12TranslateCreateDevice
+SetD3DDebugLayerStartupOptions

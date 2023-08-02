@@ -1,0 +1,5 @@
+LIBRARY POSyncServices.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

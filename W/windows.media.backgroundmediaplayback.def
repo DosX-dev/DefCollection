@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.BackgroundMediaPlayback.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

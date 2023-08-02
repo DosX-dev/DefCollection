@@ -1,0 +1,7 @@
+LIBRARY RegCtrl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

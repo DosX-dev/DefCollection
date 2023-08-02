@@ -1,0 +1,7 @@
+LIBRARY mfh264enc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

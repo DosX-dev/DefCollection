@@ -1,0 +1,7 @@
+LIBRARY usercpl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

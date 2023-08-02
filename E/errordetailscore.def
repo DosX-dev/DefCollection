@@ -1,0 +1,6 @@
+LIBRARY ErrorDetailsCore.dll
+
+EXPORTS
+FreeErrorDetails
+GetErrorDetails
+GetErrorDetailsWithContext

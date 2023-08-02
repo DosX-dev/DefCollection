@@ -1,0 +1,6 @@
+LIBRARY DeviceReactivation.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

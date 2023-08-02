@@ -1,0 +1,6 @@
+LIBRARY pautoenr.dll
+
+EXPORTS
+CertAutoEnrollment
+CertAutoRemove
+DimsProvEntry

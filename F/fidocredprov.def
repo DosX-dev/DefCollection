@@ -1,0 +1,5 @@
+LIBRARY fidocredprov.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

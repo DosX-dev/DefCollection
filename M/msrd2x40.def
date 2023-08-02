@@ -1,0 +1,5 @@
+LIBRARY msrd2x40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

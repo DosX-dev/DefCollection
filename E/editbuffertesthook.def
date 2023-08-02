@@ -1,0 +1,7 @@
+LIBRARY EditBufferTestHook.dll
+
+EXPORTS
+CreateEditBufferTestHook
+CreateEditBufferTestHookClient
+EnableTestHook
+GetTestHookEnabled

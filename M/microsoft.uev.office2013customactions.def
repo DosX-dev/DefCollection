@@ -1,0 +1,8 @@
+LIBRARY Microsoft.Uev.Office2013CustomActions.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY msaatext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

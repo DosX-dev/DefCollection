@@ -1,0 +1,4 @@
+LIBRARY tsbyuv.dll
+
+EXPORTS
+DriverProc

@@ -1,0 +1,5 @@
+LIBRARY UserAccountControlSettings.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

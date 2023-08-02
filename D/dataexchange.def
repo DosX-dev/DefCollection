@@ -1,0 +1,6 @@
+LIBRARY DataExchange.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,7 @@
+LIBRARY threadpoolwinrt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain

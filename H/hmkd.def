@@ -1,0 +1,7 @@
+LIBRARY hmkd.dll
+
+EXPORTS
+HMKDCreateHmacKey
+HMKDDeriveKey
+HMKDGetHmacStatus
+HMKDImportHmacKey

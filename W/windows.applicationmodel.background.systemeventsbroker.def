@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.Background.SystemEventsBroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,25 @@
+LIBRARY Clipc.dll
+
+EXPORTS
+ClipCallServer
+ClipCleanUpState
+ClipClose
+ClipGatherDiagnostics
+ClipGenerateClientChallengeData
+ClipGenerateDeviceLicenseRequest
+ClipGetAssociatedResults
+ClipGetDeviceHardwareData
+ClipGetFileIdFromAssociateId
+ClipGetLicenseAndPolicyForPfn
+ClipGetLicenseData
+ClipGetQueryResults
+ClipGetSubscriptionStatus
+ClipInstallLicense
+ClipOpen
+ClipQueryAssociateId
+ClipRefreshLicense
+ClipUninstallLicense
+GetExchangeDeviceUniqueID
+GetOfflineDeviceUniqueID
+SLQueryLicenseValueFromApp
+SLQueryLicenseValueFromApp2

@@ -1,0 +1,4 @@
+LIBRARY spwinsat.dll
+
+EXPORTS
+Sysprep_Clean_WinSAT

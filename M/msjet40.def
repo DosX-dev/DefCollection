@@ -1,0 +1,5 @@
+LIBRARY msjet40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

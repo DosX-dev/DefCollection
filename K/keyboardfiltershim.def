@@ -1,0 +1,5 @@
+LIBRARY KeyboardFilterShim.dll
+
+EXPORTS
+GetHookAPIs
+NotifyShims

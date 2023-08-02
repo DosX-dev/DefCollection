@@ -1,0 +1,5 @@
+LIBRARY EnterpriseAppMgmtClient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

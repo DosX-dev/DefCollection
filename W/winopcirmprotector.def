@@ -1,0 +1,7 @@
+LIBRARY WinOpcIrmProtector.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

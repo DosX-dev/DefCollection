@@ -1,0 +1,7 @@
+LIBRARY cfmifs.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

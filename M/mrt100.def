@@ -1,0 +1,4 @@
+LIBRARY mrt100.dll
+
+EXPORTS
+GetManagedRuntimeService

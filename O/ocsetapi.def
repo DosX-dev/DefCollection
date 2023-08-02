@@ -1,0 +1,5 @@
+LIBRARY ocsetapi.dll
+
+EXPORTS
+CopyMspFilesToSystemMsiCache
+RemoveMspFilesFromSystemMsiCache

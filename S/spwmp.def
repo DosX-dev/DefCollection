@@ -1,0 +1,5 @@
+LIBRARY spwmp.dll
+
+EXPORTS
+Sysprep_Clean_WMP
+Sysprep_Generalize_WMP

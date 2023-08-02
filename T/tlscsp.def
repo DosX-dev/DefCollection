@@ -1,0 +1,13 @@
+LIBRARY tlscsp.dll
+
+EXPORTS
+LsCsp_DecryptEnvelopedData
+LsCsp_EncryptHwid
+LsCsp_GetServerData
+LsCsp_RetrieveSecret
+LsCsp_StoreSecret
+TLSCspInit
+TLSCspShutdown
+TLSCspStartInstallCertificateThread
+TLSFreeTSCertificate
+TLSGetTSCertificate

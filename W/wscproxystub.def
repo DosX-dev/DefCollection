@@ -1,0 +1,5 @@
+LIBRARY wscproxystub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

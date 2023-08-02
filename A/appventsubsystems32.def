@@ -1,0 +1,9 @@
+LIBRARY AppVEntSubsystems32.dll
+
+EXPORTS
+APIExportForDetours
+CurrentThreadIsVirtualized
+RequestUnhookedFunctionList
+VirtualizeCurrentProcess
+VirtualizeCurrentThread
+_IsProcessHooked@0

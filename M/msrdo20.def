@@ -1,0 +1,9 @@
+LIBRARY MSRDO20.DLL
+
+EXPORTS
+DLLGetDocumentation
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllRegisterServerEx
+DllUnregisterServer

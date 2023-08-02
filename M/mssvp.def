@@ -1,0 +1,7 @@
+LIBRARY mssvp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

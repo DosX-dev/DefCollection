@@ -1,0 +1,7 @@
+LIBRARY iasads.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

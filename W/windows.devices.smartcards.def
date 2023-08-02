@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.SmartCards.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

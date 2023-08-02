@@ -1,0 +1,6 @@
+LIBRARY PickerPlatform.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

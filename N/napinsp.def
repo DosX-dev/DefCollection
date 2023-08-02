@@ -1,0 +1,5 @@
+LIBRARY NapiNSP.dll
+
+EXPORTS
+DllMain
+NSPStartup

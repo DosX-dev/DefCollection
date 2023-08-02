@@ -1,0 +1,4 @@
+LIBRARY dpmodemx.dll
+
+EXPORTS
+DllMain

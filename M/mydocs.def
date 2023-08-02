@@ -1,0 +1,6 @@
+LIBRARY mydocs.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+PerUserInit

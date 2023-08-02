@@ -1,0 +1,20 @@
+LIBRARY COMMTB32.DLL
+
+EXPORTS
+TB_ColorBtnFunc
+TB_CreateDisable
+TB_CreateMask
+TB_DialogBoxProc
+TB_DrawButton
+TB_EditButton
+TB_EditorFunc
+TB_GetSize
+TB_GetVersion
+TB_IconFunc
+WIN_BitMapToDIB
+WIN_BitMapToDIBPtr
+WIN_DIBPtrToBitMap
+WIN_DIBToBitMap
+WIN_SysColorChange
+WIN_TransformBitMap
+WIN_TransformBitMapPtr

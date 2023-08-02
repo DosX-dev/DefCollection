@@ -1,0 +1,15 @@
+LIBRARY raschapext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+RasChapExt_FreeMemory
+RasChapExt_GetConfigForceNotDomainJoined
+RasChapExt_GetConfigIgnoreIASLogon
+RasChapExt_GetConfigKeepCredentialsOnFailure
+RasChapExt_GetUserCredentials
+RasChapExt_InvokeConfigUI
+RasChapExt_InvokeInteractiveUI
+RasChapExt_ShowHelp

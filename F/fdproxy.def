@@ -1,0 +1,7 @@
+LIBRARY fdProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

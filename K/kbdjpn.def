@@ -1,0 +1,8 @@
+LIBRARY KBDJPN.DLL
+
+EXPORTS
+KbdLayerDescriptor
+KbdLayerMultiDescriptor
+KbdLayerRealDllFile
+KbdLayerRealDllFileNT4
+KbdNlsLayerDescriptor

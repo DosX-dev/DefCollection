@@ -1,0 +1,5 @@
+LIBRARY sppcomapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

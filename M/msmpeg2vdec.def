@@ -1,0 +1,11 @@
+LIBRARY msmpeg2vdec.dll
+
+EXPORTS
+?GetSurface@CVIDEOfilter@@QAEJHPAEJ@Z
+?GetSurfaceSize@CVIDEOfilter@@QAEJHPAJ@Z
+?LoadSurface@CVIDEOfilter@@QAEJHPAEK@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetH264DecoderFunctionTable

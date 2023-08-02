@@ -1,0 +1,5 @@
+LIBRARY weretw.dll
+
+EXPORTS
+WerMergeEtl
+WerMergeEtlEx

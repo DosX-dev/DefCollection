@@ -1,0 +1,6 @@
+LIBRARY Windows.System.Profile.SystemId.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,8 @@
+LIBRARY WlanMM.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+StartDiagnosticsW

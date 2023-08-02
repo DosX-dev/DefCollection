@@ -1,0 +1,5 @@
+LIBRARY WerEnc.dll
+
+EXPORTS
+EncryptDumpFile
+EncryptDumpStream

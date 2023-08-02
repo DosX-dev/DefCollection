@@ -1,0 +1,4 @@
+LIBRARY whhelper.dll
+
+EXPORTS
+InitHelperDll

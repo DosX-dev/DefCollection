@@ -1,0 +1,4 @@
+LIBRARY TimeDateMUICallback.dll
+
+EXPORTS
+OnMachineUILanguageSwitch

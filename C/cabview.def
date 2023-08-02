@@ -1,0 +1,6 @@
+LIBRARY cabview.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+Uninstall

@@ -1,0 +1,7 @@
+LIBRARY PerceptionDevice.dll
+
+EXPORTS
+CreateSpatialObjectDDIClientFactory
+PerceptionDeviceCreateFactory
+PerceptionDeviceSetCreateFactoryOverride
+_DllMain@12

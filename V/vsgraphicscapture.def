@@ -1,0 +1,12 @@
+LIBRARY VsGraphicsCapture.dll
+
+EXPORTS
+PixCapture_BeginCommunication
+PixCapture_BeginCommunication_2
+PixCapture_EndCommunication
+PixCapture_ExitProcess
+PixCapture_IsLegacyMachine
+PixCapture_RunAction
+PixCapture_RunAction_2
+PixCapture_RunAction_3
+PixCapture_RunExperiment

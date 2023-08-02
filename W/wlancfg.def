@@ -1,0 +1,5 @@
+LIBRARY wlancfg.dll
+
+EXPORTS
+GetResourceString
+InitHelperDll

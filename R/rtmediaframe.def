@@ -1,0 +1,6 @@
+LIBRARY RTMediaFrame.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

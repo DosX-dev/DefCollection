@@ -1,0 +1,8 @@
+LIBRARY HLP95EN.DLL
+
+EXPORTS
+DynALinkWndProc
+MsoCF
+MsoChangeFont
+MsoSF
+MsoSetFlag

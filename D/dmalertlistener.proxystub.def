@@ -1,0 +1,7 @@
+LIBRARY DMAlertListener.ProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

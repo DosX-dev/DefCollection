@@ -1,0 +1,7 @@
+LIBRARY winsockhc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,6 @@
+LIBRARY ProximityCommon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

@@ -1,0 +1,8 @@
+LIBRARY WMPhoto.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

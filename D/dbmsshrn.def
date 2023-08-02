@@ -1,0 +1,20 @@
+LIBRARY DBMSSHRN.DLL
+
+EXPORTS
+ConnectionCheckForData
+ConnectionClose
+ConnectionError
+ConnectionErrorW
+ConnectionMode
+ConnectionObjectSize
+ConnectionOpen
+ConnectionOpenW
+ConnectionRead
+ConnectionServerEnum
+ConnectionServerEnumW
+ConnectionStatus
+ConnectionTransact
+ConnectionValidSharedMemory
+ConnectionVer
+ConnectionWrite
+ConnectionWriteOOB

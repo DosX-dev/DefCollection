@@ -1,0 +1,8 @@
+LIBRARY Windows.UI.Xaml.InkControls.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetDependencyLocatorStorage
+XamlTestHookFreeInkControlsResourceLibrary

@@ -1,0 +1,5 @@
+LIBRARY msieftp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY NlsData0000.dll
+
+EXPORTS
+LangDataCall

@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.Background.TimeBroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

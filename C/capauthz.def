@@ -1,0 +1,12 @@
+LIBRARY capauthz.dll
+
+EXPORTS
+DeprovisionApplicationCapabilities
+ProvisionApplicationCapabilities
+ProvisionApplicationCapabilitiesEx
+QueryApplicationCapabilities
+QueryApplicationCapabilitiesEx
+SCCDFreeParsedElements
+SCCDParseFile
+SCCDValidateAppxFile
+SCCDValidateCatalogFile

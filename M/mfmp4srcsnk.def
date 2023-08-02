@@ -1,0 +1,5 @@
+LIBRARY mfmp4srcsnk.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

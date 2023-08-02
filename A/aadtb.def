@@ -1,0 +1,10 @@
+LIBRARY aadtb.dll
+
+EXPORTS
+AADTBAcquireToken
+AADTBAcquireTokenEx
+AADTBFreeString
+AADTBFreeStruct
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

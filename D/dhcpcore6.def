@@ -1,0 +1,4 @@
+LIBRARY dhcpcore6.dll
+
+EXPORTS
+Dhcpv6Main

@@ -1,0 +1,6 @@
+LIBRARY Windows.Graphics.Printing.3D.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

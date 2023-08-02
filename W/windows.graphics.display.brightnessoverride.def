@@ -1,0 +1,6 @@
+LIBRARY Windows.Graphics.Display.BrightnessOverride.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

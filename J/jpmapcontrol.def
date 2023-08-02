@@ -1,0 +1,20 @@
+LIBRARY JpMapControl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+JpIs3DSupported
+JpIsUnifiedMapsStack
+JpMapControlSettings_Create
+JpMapControl_Create
+JpMapFactory_Create
+JpMapModel3DFrom3MFStreamOperation_Create
+JpMapOverlayModel_Create
+JpMapStyleSheetFactory_Create
+JpOverviewMapControl_Create
+JpRestrictedApiAccessCheck
+JpStreetsideExperience_Create
+JpStreetsidePanoramaOperation_Create
+MapSettings_GetMosBingMapsKey
+MapSettings_ResetMosKeys

@@ -1,0 +1,18 @@
+LIBRARY olethk32.dll
+
+EXPORTS
+CSm16ReleaseHandler_Release32
+CallbackProcessing_3216
+ConvertHr1632Thunk
+ConvertHr3216Thunk
+ConvertObjDescriptor
+IUnknownObj32
+IntOpInitialize
+IntOpUninitialize
+InvokeOn32
+RegisterOleWOWHandlers
+ThkAddAppCompatFlag
+ThkMgrInitialize
+ThkMgrUninitialize
+TransformHRESULT_1632
+TransformHRESULT_3216

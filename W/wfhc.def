@@ -1,0 +1,5 @@
+LIBRARY WfHC.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

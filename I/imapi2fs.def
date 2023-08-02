@@ -1,0 +1,7 @@
+LIBRARY imapi2fs.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

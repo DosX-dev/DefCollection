@@ -1,0 +1,8 @@
+LIBRARY wshcon.dll
+
+EXPORTS
+DLLGetDocumentation
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

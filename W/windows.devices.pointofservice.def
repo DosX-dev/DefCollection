@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.PointOfService.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

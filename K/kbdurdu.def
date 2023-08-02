@@ -1,0 +1,4 @@
+LIBRARY KBDURDU.DLL
+
+EXPORTS
+KbdLayerDescriptor

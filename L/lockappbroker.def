@@ -1,0 +1,6 @@
+LIBRARY LockAppBroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

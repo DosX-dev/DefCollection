@@ -1,0 +1,12 @@
+LIBRARY cuzzapi.dll
+
+EXPORTS
+_CuzzDisable@0
+_CuzzEnable@0
+_CuzzGetRandomSeed@0
+_CuzzIsEnabled@0
+_CuzzSchedule@20
+_CuzzSetDebugLoweringPoint@12
+_CuzzSetDebugPriority@8
+_CuzzSetPriority@4
+_CuzzSetRandomSeed@8

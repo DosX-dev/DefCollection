@@ -1,0 +1,6 @@
+LIBRARY SystemSupportInfo.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,8 @@
+LIBRARY SyncHostps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

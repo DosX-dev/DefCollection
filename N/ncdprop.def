@@ -1,0 +1,5 @@
+LIBRARY NcdProp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,7 @@
+LIBRARY DxpTaskSync.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

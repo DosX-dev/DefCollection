@@ -1,0 +1,5 @@
+LIBRARY ms3dthumbnailprovider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

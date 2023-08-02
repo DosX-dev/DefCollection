@@ -1,0 +1,8 @@
+LIBRARY ttdplm.dll
+
+EXPORTS
+CreateModernAppToDelete
+CreateModernAppToTrace
+GetMaxPackageNameLength
+GetPackageFromPid
+SetPermisionsForFolder

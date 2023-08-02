@@ -1,0 +1,10 @@
+LIBRARY NPSM.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+RegisterNowPlayingSessionManagerFactory
+ServiceMain
+SvchostPushServiceGlobals
+UnregisterNowPlayingSessionManagerFactory

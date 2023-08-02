@@ -1,0 +1,4 @@
+LIBRARY HeatCore.dll
+
+EXPORTS
+InitializeHeatFramework

@@ -1,0 +1,6 @@
+LIBRARY Windows.System.UserDeviceAssociation.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,6 @@
+LIBRARY MSPhotography.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

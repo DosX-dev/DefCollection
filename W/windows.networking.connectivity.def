@@ -1,0 +1,13 @@
+LIBRARY Windows.Networking.Connectivity.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FixDisabledComponentsForTeredo
+RefreshTeredoClientState
+SetHostNameMediaStreamingMode
+TeredoExtAcquireTeredoConsumerHandle
+TeredoExtReleaseTeredoConsumerHandle

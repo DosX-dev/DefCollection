@@ -1,0 +1,6 @@
+LIBRARY dialclient.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

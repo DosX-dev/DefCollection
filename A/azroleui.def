@@ -1,0 +1,7 @@
+LIBRARY azroleui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

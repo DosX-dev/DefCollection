@@ -1,0 +1,6 @@
+LIBRARY serwvdrv.dll
+
+EXPORTS
+DriverProc
+widMessage
+wodMessage

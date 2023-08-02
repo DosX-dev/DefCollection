@@ -1,0 +1,7 @@
+LIBRARY dswave.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

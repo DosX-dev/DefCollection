@@ -1,0 +1,26 @@
+LIBRARY InputHost.dll
+
+EXPORTS
+CreateComboButtonProxy
+CreateCursorClient
+CreateCursorManager
+CreateDragOperationPrivate
+CreateGenericInputHost
+CreateHeatGripServiceClient
+CreateInputDeviceWatcher
+CreateInputHost
+CreateInputHostForProcess
+CreateInputSystemClientConnection
+CreateMPCManagerClient
+CreatePointerInputHost
+CreateTouchInputHost
+CreateViewHitTestRequestClient
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+SetInputButtonEnabledOnIdle
+SetInputDeviceIndicatorState
+SetInputDeviceRepeatParameters
+SetInputFocus
+TouchInputHostCreate
+ViewHitTestClientCreate

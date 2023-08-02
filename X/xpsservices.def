@@ -1,0 +1,5 @@
+LIBRARY xpsservices.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

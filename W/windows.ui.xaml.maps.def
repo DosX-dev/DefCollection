@@ -1,0 +1,8 @@
+LIBRARY Windows.UI.Xaml.Maps.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetDependencyLocatorStorage
+XamlTestHookFreeMapsResourceLibrary

@@ -1,0 +1,6 @@
+LIBRARY BcastDVRBroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

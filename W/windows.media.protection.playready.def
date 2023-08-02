@@ -1,0 +1,9 @@
+LIBRARY Windows.Media.Protection.PlayReady.dll
+
+EXPORTS
+BootstrapReleaseUnusedResources
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+MSPRMFDllCanUnloadNow
+MSPRMFGetClassObject

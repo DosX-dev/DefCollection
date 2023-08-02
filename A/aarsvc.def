@@ -1,0 +1,7 @@
+LIBRARY AarSvc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ServiceMain

@@ -1,0 +1,24 @@
+LIBRARY sppcext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+SLAcquireGenuineTicket
+SLAcquireGenuineTicketForAppId
+SLActivateProduct
+SLDepositTokenActivationResponse
+SLFreeTokenActivationCertificates
+SLFreeTokenActivationGrants
+SLGenerateTokenActivationChallenge
+SLGetGenuineInformationEx
+SLGetPackageProductKey
+SLGetPackageProperties
+SLGetPackageToken
+SLGetReferralInformation
+SLGetServerStatus
+SLGetTokenActivationCertificates
+SLGetTokenActivationGrants
+SLInitialize
+SLInstallPackage
+SLSignTokenActivationChallenge
+SLUninstallPackage

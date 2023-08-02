@@ -1,0 +1,8 @@
+LIBRARY mfnetsrc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+MFCreateByteCacheFile
+MFCreateCacheManager
+MFCreateFileBlockMap

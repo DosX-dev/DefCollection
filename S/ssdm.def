@@ -1,0 +1,4 @@
+LIBRARY ssdm.dll
+
+EXPORTS
+s_RequestHrtfData

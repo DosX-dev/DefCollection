@@ -1,0 +1,7 @@
+LIBRARY wavemsp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

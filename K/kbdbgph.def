@@ -1,0 +1,4 @@
+LIBRARY KBDBGPH.DLL
+
+EXPORTS
+KbdLayerDescriptor

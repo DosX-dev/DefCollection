@@ -1,0 +1,4 @@
+LIBRARY msdadiag.dll
+
+EXPORTS
+DllBidEntryPoint

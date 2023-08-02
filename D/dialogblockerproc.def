@@ -1,0 +1,4 @@
+LIBRARY DialogBlockerProc.dll
+
+EXPORTS
+HookMain

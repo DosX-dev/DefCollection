@@ -1,0 +1,4 @@
+LIBRARY KBDTAILE.DLL
+
+EXPORTS
+KbdLayerDescriptor

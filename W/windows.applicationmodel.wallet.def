@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.Wallet.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

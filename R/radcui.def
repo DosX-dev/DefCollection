@@ -1,0 +1,7 @@
+LIBRARY RADCUI.dll
+
+EXPORTS
+DUIRemoveSubscriptionDialogModal
+DUISubscribeWizardModal
+DllCanUnloadNow
+DllGetClassObject

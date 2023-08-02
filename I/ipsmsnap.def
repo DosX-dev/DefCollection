@@ -1,0 +1,7 @@
+LIBRARY ipsmsnap.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

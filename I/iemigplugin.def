@@ -1,0 +1,8 @@
+LIBRARY iemigplugin.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

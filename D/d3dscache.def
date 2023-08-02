@@ -1,0 +1,12 @@
+LIBRARY D3DSCache.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+ShaderCache_AddValue
+ShaderCache_Create
+ShaderCache_Destroy
+ShaderCache_FindValue
+ShaderCache_Flush
+ShaderCache_FreeValue
+ShaderCache_GetDesc

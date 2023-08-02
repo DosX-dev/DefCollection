@@ -1,0 +1,7 @@
+LIBRARY thumbcache.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetProxyDllInfo

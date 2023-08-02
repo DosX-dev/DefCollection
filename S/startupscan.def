@@ -1,0 +1,8 @@
+LIBRARY Startupscan.dll
+
+EXPORTS
+DllMain
+SusResetNotification
+SusRunOEMTaskOffline
+SusRunOEMTaskOnline
+SusRunTask

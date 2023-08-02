@@ -1,0 +1,4 @@
+LIBRARY winml.dll
+
+EXPORTS
+WinMLCreateRuntime

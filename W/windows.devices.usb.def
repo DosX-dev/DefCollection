@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Usb.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

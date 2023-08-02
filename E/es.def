@@ -1,0 +1,10 @@
+LIBRARY es.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+LCEControlServer
+NotifyLogoffUser
+NotifyLogonUser
+ServiceMain
+SvchostPushServiceGlobals

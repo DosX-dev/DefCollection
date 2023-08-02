@@ -1,0 +1,5 @@
+LIBRARY kbd101a.dll
+
+EXPORTS
+KbdLayerDescriptor
+KbdNlsLayerDescriptor

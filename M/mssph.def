@@ -1,0 +1,7 @@
+LIBRARY mssph.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

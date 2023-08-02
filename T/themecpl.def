@@ -1,0 +1,6 @@
+LIBRARY themecpl.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+OpenThemeActionW

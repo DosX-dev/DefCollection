@@ -1,0 +1,17 @@
+LIBRARY osbaseln.dll
+
+EXPORTS
+CloseOsBaseline
+EnumOsBaselineComponentsA
+EnumOsBaselineComponentsW
+EnumOsOutOfDateComponentsA
+EnumOsOutOfDateComponentsW
+GetOsBaselineComponentInfoA
+GetOsBaselineComponentInfoW
+GetOsInstalledComponentInfoA
+GetOsInstalledComponentInfoW
+GetOsLatestBaselineServicePack
+OpenOsBaseline
+pGetOsBaselineCurrentVersion
+pGetOsCurrentBaselineServicePack
+pOpenOsBaselineByVersion

@@ -1,0 +1,7 @@
+LIBRARY MFWMAAEC.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

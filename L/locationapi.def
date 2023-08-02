@@ -1,0 +1,7 @@
+LIBRARY LocationApi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

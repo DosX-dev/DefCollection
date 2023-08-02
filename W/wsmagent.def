@@ -1,0 +1,12 @@
+LIBRARY WsmAgent.dll
+
+EXPORTS
+??1CWSManCriticalSectionWithConditionVar@@QAE@XZ
+?GetInitError@CWSManCriticalSection@@QBEKXZ
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main

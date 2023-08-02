@@ -1,0 +1,6 @@
+LIBRARY TenantRestrictionsPlugin.dll
+
+EXPORTS
+GetTenantRestrictionsHostnames
+HttpPolicyExtensionInit
+HttpPolicyExtensionShutdown

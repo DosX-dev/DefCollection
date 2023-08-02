@@ -1,0 +1,6 @@
+LIBRARY provsvc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+ProviderServiceMain

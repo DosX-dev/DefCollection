@@ -1,0 +1,16 @@
+LIBRARY D3DCompiler_42.dll
+
+EXPORTS
+D3DAssemble
+D3DCompile
+D3DDisassemble
+D3DDisassemble10Effect
+D3DGetDebugInfo
+D3DGetInputAndOutputSignatureBlob
+D3DGetInputSignatureBlob
+D3DGetOutputSignatureBlob
+D3DPreprocess
+D3DReflect
+D3DReturnFailure1
+D3DStripShader
+DebugSetMute

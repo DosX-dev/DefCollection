@@ -1,0 +1,5 @@
+LIBRARY dot3cfg.dll
+
+EXPORTS
+GetResourceString
+InitHelperDll

@@ -1,0 +1,7 @@
+LIBRARY sbe.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

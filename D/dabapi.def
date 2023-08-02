@@ -1,0 +1,7 @@
+LIBRARY dabapi.dll
+
+EXPORTS
+DabApiBufferFree
+DabGetLastScheduledRunTime
+DabRegisterTriggerConsumer
+DabUnregisterTriggerConsumer

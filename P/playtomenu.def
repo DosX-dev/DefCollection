@@ -1,0 +1,5 @@
+LIBRARY playtomenu.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

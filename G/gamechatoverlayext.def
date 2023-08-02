@@ -1,0 +1,6 @@
+LIBRARY GameChatOverlayExt.dll
+
+EXPORTS
+GcoAddMessage
+GcoGetDesiredPosition
+GcoSetDesiredPosition

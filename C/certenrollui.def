@@ -1,0 +1,4 @@
+LIBRARY CertEnrollUI.dll
+
+EXPORTS
+CreateUIObject

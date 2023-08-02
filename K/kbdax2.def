@@ -1,0 +1,5 @@
+LIBRARY kbdax2.dll
+
+EXPORTS
+KbdLayerDescriptor
+KbdNlsLayerDescriptor

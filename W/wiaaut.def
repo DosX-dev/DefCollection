@@ -1,0 +1,7 @@
+LIBRARY wiaaut.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

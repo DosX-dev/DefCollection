@@ -1,0 +1,4 @@
+LIBRARY KBDIULAT.DLL
+
+EXPORTS
+KbdLayerDescriptor

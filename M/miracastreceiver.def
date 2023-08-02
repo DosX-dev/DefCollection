@@ -1,0 +1,6 @@
+LIBRARY MiracastReceiver.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

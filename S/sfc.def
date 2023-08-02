@@ -1,0 +1,10 @@
+LIBRARY sfc.dll
+
+EXPORTS
+SRSetRestorePoint
+SRSetRestorePointA
+SRSetRestorePointW
+SfcGetNextProtectedFile
+SfcIsFileProtected
+SfcIsKeyProtected
+SfpVerifyFile

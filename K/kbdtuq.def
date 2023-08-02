@@ -1,0 +1,4 @@
+LIBRARY KBDTUQ.DLL
+
+EXPORTS
+KbdLayerDescriptor

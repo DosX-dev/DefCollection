@@ -1,0 +1,4 @@
+LIBRARY KBDMON.DLL
+
+EXPORTS
+KbdLayerDescriptor

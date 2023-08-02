@@ -1,0 +1,6 @@
+LIBRARY delegatorprovider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain

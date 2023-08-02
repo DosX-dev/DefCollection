@@ -1,0 +1,6 @@
+LIBRARY Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

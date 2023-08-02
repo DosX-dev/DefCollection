@@ -1,0 +1,8 @@
+LIBRARY MiracastReceiverExt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+GetPlatformSpecificLockScreenAppLauncher
+IsLockScreenActive

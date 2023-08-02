@@ -1,0 +1,8 @@
+LIBRARY UiaManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo
+UiaInitCrossMachineConnection
+UiaInitCrossMachineConnectionW

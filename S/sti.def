@@ -1,0 +1,24 @@
+LIBRARY sti.dll
+
+EXPORTS
+??0BUFFER@@QAE@I@Z
+??0BUFFER_CHAIN@@QAE@XZ
+??0BUFFER_CHAIN_ITEM@@QAE@I@Z
+??1BUFFER@@QAE@XZ
+??1BUFFER_CHAIN@@QAE@XZ
+??1BUFFER_CHAIN_ITEM@@QAE@XZ
+??_FBUFFER@@QAEXXZ
+??_FBUFFER_CHAIN_ITEM@@QAEXXZ
+?QueryPtr@BUFFER@@QBEPAXXZ
+?QuerySize@BUFFER@@QBEIXZ
+?QueryUsed@BUFFER_CHAIN_ITEM@@QBEKXZ
+?SetUsed@BUFFER_CHAIN_ITEM@@QAEXK@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo
+MigrateRegisteredSTIAppsForWIAEvents
+SelectDeviceDialog2
+StiCreateInstance
+StiCreateInstanceW

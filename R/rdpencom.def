@@ -1,0 +1,7 @@
+LIBRARY rdpencom.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,6 @@
+LIBRARY mskeyprotect.dll
+
+EXPORTS
+GetKeyProtectionInterface
+KeyFileProtectSessionTicket
+KeyFileUnprotectSessionTicket

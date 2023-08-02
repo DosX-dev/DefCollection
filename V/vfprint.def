@@ -1,0 +1,9 @@
+LIBRARY vfprint.dll
+
+EXPORTS
+CreateFilterTestHook
+GetAccessViolationsCount
+GetInvalidHandleExceptionCount
+GetPrinterHandleCount
+PrintVerifierCreatePluginInterfaceWrapper
+PrintVerifierIsLayerEnabled

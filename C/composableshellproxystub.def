@@ -1,0 +1,6 @@
+LIBRARY ComposableShellProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

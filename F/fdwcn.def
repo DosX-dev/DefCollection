@@ -1,0 +1,5 @@
+LIBRARY fdWCN.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

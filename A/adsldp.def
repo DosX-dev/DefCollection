@@ -1,0 +1,5 @@
+LIBRARY adsldp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

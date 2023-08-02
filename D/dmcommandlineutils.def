@@ -1,0 +1,6 @@
+LIBRARY dmcommandlineutils.dll
+
+EXPORTS
+FreeCommandLineOptions
+ProcessCommandLine
+ProcessCommandLineOption

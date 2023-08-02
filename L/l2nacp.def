@@ -1,0 +1,5 @@
+LIBRARY l2nacp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

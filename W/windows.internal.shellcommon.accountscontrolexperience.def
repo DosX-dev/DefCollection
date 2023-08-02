@@ -1,0 +1,5 @@
+LIBRARY windows.internal.shellcommon.AccountsControlExperience.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

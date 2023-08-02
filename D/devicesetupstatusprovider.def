@@ -1,0 +1,5 @@
+LIBRARY DeviceSetupStatusProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

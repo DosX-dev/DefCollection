@@ -1,0 +1,9 @@
+LIBRARY WwaApi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

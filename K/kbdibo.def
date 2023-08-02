@@ -1,0 +1,4 @@
+LIBRARY KBDIBO.DLL
+
+EXPORTS
+KbdLayerDescriptor

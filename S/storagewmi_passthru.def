@@ -1,0 +1,4 @@
+LIBRARY storagewmi_passthru.dll
+
+EXPORTS
+CreatePassThrough

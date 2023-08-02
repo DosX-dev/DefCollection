@@ -1,0 +1,5 @@
+LIBRARY negoexts.dll
+
+EXPORTS
+SpLsaModeInitialize
+SpUserModeInitialize

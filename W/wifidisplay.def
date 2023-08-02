@@ -1,0 +1,25 @@
+LIBRARY WiFiDisplay.dll
+
+EXPORTS
+CloseMiracastSession
+CreateDAFProviderMiracastHelper
+CreateInfraCastSourceConnector
+CreateWiFiDisplayEtwProvider
+IsMiracastSupportedByWlan
+MiracastFreeMemory
+MiracastIeDecode
+MiracastIeEncode
+MiracastQueryParameters
+MiracastRegisterDatarateCallback
+MiracastUnregisterDatarateCallback
+OpenMiracastSession
+VsIeProviderGetFunctionTable
+WFDDisplaySinkCloseSession
+WFDDisplaySinkDeInit
+WFDDisplaySinkInit
+WFDDisplaySinkQueryCapabilities
+WFDDisplaySinkSetPersistedGroupIDList
+WFDDisplaySinkSetProperty
+WFDDisplaySinkStart
+WFDDisplaySinkStartEx
+WFDDisplaySinkStop

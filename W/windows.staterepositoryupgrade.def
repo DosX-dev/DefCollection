@@ -1,0 +1,4 @@
+LIBRARY Windows.StateRepositoryUpgrade.dll
+
+EXPORTS
+StateRepository_Migrate

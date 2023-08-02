@@ -1,0 +1,5 @@
+LIBRARY mfmkvsrcsnk.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

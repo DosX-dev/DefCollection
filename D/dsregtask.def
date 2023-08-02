@@ -1,0 +1,7 @@
+LIBRARY dsregtask.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

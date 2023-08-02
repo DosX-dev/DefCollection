@@ -1,0 +1,8 @@
+LIBRARY HrtfApo.dll
+
+EXPORTS
+CreateHrtfApo
+CreateHrtfApoWithDatasetType
+CreateHrtfEngineFactory
+GetHrtfEngineMinFrameCount
+IsHrtfApoAvailable

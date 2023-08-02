@@ -1,0 +1,24 @@
+LIBRARY rdvgogl32.dll
+
+EXPORTS
+DllMain
+DrvCopyContext
+DrvCreateContext
+DrvCreateLayerContext
+DrvDeleteContext
+DrvDescribeLayerPlane
+DrvDescribePixelFormat
+DrvGetLayerPaletteEntries
+DrvGetProcAddress
+DrvPresentBuffers
+DrvRealizeLayerPalette
+DrvReleaseContext
+DrvSetCallbackProcs
+DrvSetContext
+DrvSetLayerPaletteEntries
+DrvSetPixelFormat
+DrvShareLists
+DrvSwapBuffers
+DrvSwapLayerBuffers
+DrvSwapMultipleBuffers
+DrvValidateVersion

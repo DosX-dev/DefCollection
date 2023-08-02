@@ -1,0 +1,4 @@
+LIBRARY KBDINMAR.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,4 @@
+LIBRARY mfcm110u.dll
+
+EXPORTS
+AfxmReleaseManagedReferences

@@ -1,0 +1,7 @@
+LIBRARY Windows.Networking.Proximity.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ProximityConnect

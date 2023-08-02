@@ -1,0 +1,8 @@
+LIBRARY radardt.dll
+
+EXPORTS
+RdrSysprepSpecialize
+RdrSysprepSpecializeOffline
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

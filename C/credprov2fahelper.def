@@ -1,0 +1,5 @@
+LIBRARY CredProv2faHelper.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

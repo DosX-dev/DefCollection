@@ -1,0 +1,5 @@
+LIBRARY Windows.UI.CredDialogController.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

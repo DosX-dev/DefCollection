@@ -1,0 +1,5 @@
+LIBRARY cnvfat.dll
+
+EXPORTS
+ConvertFAT
+IsConversionAvailable

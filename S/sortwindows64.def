@@ -1,0 +1,5 @@
+LIBRARY SortWindows64.dll
+
+EXPORTS
+SortCloseHandle
+SortGetHandle

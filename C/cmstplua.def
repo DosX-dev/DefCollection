@@ -1,0 +1,8 @@
+LIBRARY cmstplua.dll
+
+EXPORTS
+DllAddRef
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRelease

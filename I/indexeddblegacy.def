@@ -1,0 +1,4 @@
+LIBRARY IndexedDbLegacy.dll
+
+EXPORTS
+GetIndexedDbLegacyFunctions

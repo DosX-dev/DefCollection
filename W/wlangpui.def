@@ -1,0 +1,9 @@
+LIBRARY wlangpui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetAdPolicyAsXML
+GetWmiPolicyAsXML

@@ -1,0 +1,14 @@
+LIBRARY dmdlgs.dll
+
+EXPORTS
+?AddLDMObjMapEntry@CDataCache@@QAEXPAU_LDM_OBJ_MAP_ENTRY@@@Z
+?GetDiskCount@CDataCache@@QAEKXZ
+?GetLdmObjectId@CDMNodeObj@@QAE_JXZ
+?GetNumMembers@CDMNodeObj@@QAEKXZ
+?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ
+?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z
+?GetServerName@CDataCache@@QAE?AVCString@@XZ
+?GetVolumeCount@CDataCache@@QAEKXZ
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer

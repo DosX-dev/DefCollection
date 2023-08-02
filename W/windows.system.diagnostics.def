@@ -1,0 +1,5 @@
+LIBRARY Windows.System.Diagnostics.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory

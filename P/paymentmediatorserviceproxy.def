@@ -1,0 +1,7 @@
+LIBRARY PaymentMediatorServiceProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY DDACLSys.dll
+
+EXPORTS
+DDACLSys_Offline_Specialize
+DDACLSys_Specialize

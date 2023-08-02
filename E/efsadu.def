@@ -1,0 +1,17 @@
+LIBRARY efsadu.dll
+
+EXPORTS
+AddUserToObjectW
+BackCurrentEfsCert
+EfsDetail
+EfsUIUtilCheckScardStatus
+EfsUIUtilCreateSelfSignedCertificate
+EfsUIUtilEncryptMyDocuments
+EfsUIUtilEnrollEfsCertificate
+EfsUIUtilEnrollEfsCertificateEx
+EfsUIUtilInstallDra
+EfsUIUtilKeyBackup
+EfsUIUtilPromptForPin
+EfsUIUtilPromptForPinDialog
+EfsUIUtilSelectCard
+EfsUIUtilShowBalloonAndWait

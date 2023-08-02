@@ -1,0 +1,4 @@
+LIBRARY XAPOFX1_0.dll
+
+EXPORTS
+CreateFX

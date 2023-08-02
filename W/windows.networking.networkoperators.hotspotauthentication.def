@@ -1,0 +1,8 @@
+LIBRARY Windows.Networking.NetworkOperators.HotspotAuthentication.dll
+
+EXPORTS
+CleanupHotspotProfiles
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+RegisterHotspotProfile

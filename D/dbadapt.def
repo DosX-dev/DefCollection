@@ -1,0 +1,7 @@
+LIBRARY DBADAPT.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

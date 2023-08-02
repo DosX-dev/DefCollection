@@ -1,0 +1,5 @@
+LIBRARY rtvcvfw32.dll
+
+EXPORTS
+Configure
+DriverProc

@@ -1,0 +1,7 @@
+LIBRARY netfxperf.dll
+
+EXPORTS
+ClosePerformanceData
+CollectPerformanceData
+OpenPerformanceData
+TraceServiceStart

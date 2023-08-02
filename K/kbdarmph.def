@@ -1,0 +1,4 @@
+LIBRARY kbdarmph.dll
+
+EXPORTS
+KbdLayerDescriptor

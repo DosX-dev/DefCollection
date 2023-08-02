@@ -1,0 +1,13 @@
+LIBRARY EapTeapConfig.dll
+
+EXPORTS
+EapPeerConfigBlob2Xml
+EapPeerConfigXml2Blob
+EapPeerCredentialsXml2Blob
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerGetMethodProperties
+EapPeerGetNextPageGuid
+EapPeerInvokeConfigUI
+EapPeerInvokeInteractiveUI
+EapPeerQueryInteractiveUIInputFields

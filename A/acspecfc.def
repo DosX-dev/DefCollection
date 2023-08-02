@@ -1,0 +1,7 @@
+LIBRARY AcSpecfc.dll
+
+EXPORTS
+CleanupIS
+GetHookAPIs
+NotifyShims
+StiCreateInstanceA

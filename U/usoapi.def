@@ -1,0 +1,5 @@
+LIBRARY usoapi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

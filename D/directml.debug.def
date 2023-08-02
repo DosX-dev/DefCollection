@@ -1,0 +1,4 @@
+LIBRARY DirectML.Debug.dll
+
+EXPORTS
+DMLCreateDebugDevice

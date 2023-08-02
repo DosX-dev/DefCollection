@@ -1,0 +1,5 @@
+LIBRARY WordBreakers.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

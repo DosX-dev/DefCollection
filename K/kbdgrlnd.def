@@ -1,0 +1,4 @@
+LIBRARY KBDGRLND.DLL
+
+EXPORTS
+KbdLayerDescriptor

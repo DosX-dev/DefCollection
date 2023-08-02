@@ -1,0 +1,7 @@
+LIBRARY xactengine3_7.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

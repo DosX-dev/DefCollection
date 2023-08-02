@@ -1,0 +1,6 @@
+LIBRARY appmgr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GenerateScript

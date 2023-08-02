@@ -1,0 +1,5 @@
+LIBRARY MSRD2X35.DLL
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

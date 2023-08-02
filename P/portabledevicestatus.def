@@ -1,0 +1,7 @@
+LIBRARY PortableDeviceStatus.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

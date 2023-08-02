@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.Core.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

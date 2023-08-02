@@ -1,0 +1,5 @@
+LIBRARY MSAlacEncoder.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

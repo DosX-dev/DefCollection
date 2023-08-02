@@ -1,0 +1,8 @@
+LIBRARY SQLPARSE.DLL
+
+EXPORTS
+DLLGetDocumentation
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

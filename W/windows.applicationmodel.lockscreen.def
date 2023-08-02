@@ -1,0 +1,6 @@
+LIBRARY Windows.ApplicationModel.LockScreen.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

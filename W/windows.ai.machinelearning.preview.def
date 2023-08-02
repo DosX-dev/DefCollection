@@ -1,0 +1,6 @@
+LIBRARY Windows.AI.MachineLearning.Preview.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

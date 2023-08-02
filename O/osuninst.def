@@ -1,0 +1,8 @@
+LIBRARY osuninst.dll
+
+EXPORTS
+ExecuteUninstall
+GetUninstallImageSize
+IsUninstallImageValid
+ProvideUiAlerts
+RemoveUninstallImage

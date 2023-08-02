@@ -1,0 +1,10 @@
+LIBRARY DavSyncProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+ForceCalDavCollectionsListRefreshDuringNextSync
+HandleWebDavMeetingResponseForAppointment
+HandleWebDavMeetingResponseForMeetingNotification
+UpdateCalDavTrackingSchema
+UpdateGMailContactSyncPartner

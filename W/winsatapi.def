@@ -1,0 +1,7 @@
+LIBRARY WinSATAPI.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

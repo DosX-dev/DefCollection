@@ -1,0 +1,4 @@
+LIBRARY nlmsprep.dll
+
+EXPORTS
+NetworkListManager_Generalize

@@ -1,0 +1,7 @@
+LIBRARY setupcln.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

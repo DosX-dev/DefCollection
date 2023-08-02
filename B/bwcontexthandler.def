@@ -1,0 +1,7 @@
+LIBRARY BWContextHandler.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY DefaultPrinterProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

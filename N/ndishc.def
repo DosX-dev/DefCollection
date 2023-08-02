@@ -1,0 +1,7 @@
+LIBRARY ndishc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

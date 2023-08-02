@@ -1,0 +1,7 @@
+LIBRARY wlandlg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,6 @@
+LIBRARY AppInstallerPrompt.Desktop.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,10 @@
+LIBRARY POSTWPP.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WppBindToSiteW
+WppDeleteSiteW
+WppListSitesW

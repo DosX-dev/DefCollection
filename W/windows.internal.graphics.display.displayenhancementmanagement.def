@@ -1,0 +1,6 @@
+LIBRARY Windows.Internal.Graphics.Display.DisplayEnhancementManagement.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

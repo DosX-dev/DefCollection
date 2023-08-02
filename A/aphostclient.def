@@ -1,0 +1,5 @@
+LIBRARY APHostClient.dll
+
+EXPORTS
+ApHostServerStatus_EnsureServerReady
+CreateAPHostClient

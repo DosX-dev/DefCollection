@@ -1,0 +1,4 @@
+LIBRARY dpnaddr.dll
+
+EXPORTS
+DllMain

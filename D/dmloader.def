@@ -1,0 +1,7 @@
+LIBRARY dmloader.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

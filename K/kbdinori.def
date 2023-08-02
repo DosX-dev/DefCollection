@@ -1,0 +1,4 @@
+LIBRARY KBDINORI.DLL
+
+EXPORTS
+KbdLayerDescriptor

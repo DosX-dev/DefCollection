@@ -1,0 +1,11 @@
+LIBRARY MitigationConfiguration.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ExportMitigation
+ImportMitigation
+ValidateXML
+ValidateXMLFromManaged

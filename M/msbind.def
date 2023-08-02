@@ -1,0 +1,7 @@
+LIBRARY MSBIND.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

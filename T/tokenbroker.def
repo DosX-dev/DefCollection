@@ -1,0 +1,4 @@
+LIBRARY TokenBroker.dll
+
+EXPORTS
+ServiceMain

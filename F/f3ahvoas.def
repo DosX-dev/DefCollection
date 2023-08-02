@@ -1,0 +1,6 @@
+LIBRARY f3ahvoas.dll
+
+EXPORTS
+FujitsuOyayubiControl
+KbdLayerDescriptor
+KbdNlsLayerDescriptor

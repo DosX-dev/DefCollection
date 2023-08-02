@@ -1,0 +1,7 @@
+LIBRARY WPDSp.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

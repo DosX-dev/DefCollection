@@ -1,0 +1,4 @@
+LIBRARY KBDWOL.DLL
+
+EXPORTS
+KbdLayerDescriptor

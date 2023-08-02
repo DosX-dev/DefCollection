@@ -1,0 +1,4 @@
+LIBRARY KBDSORA.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,5 @@
+LIBRARY AuthExt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

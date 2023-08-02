@@ -1,0 +1,6 @@
+LIBRARY Windows.Security.Integrity.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,7 @@
+LIBRARY psisdecd.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

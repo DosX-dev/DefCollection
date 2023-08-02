@@ -1,0 +1,4 @@
+LIBRARY nvaudcap32v.dll
+
+EXPORTS
+NvAudCapAPICreateInstance

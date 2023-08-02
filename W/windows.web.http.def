@@ -1,0 +1,9 @@
+LIBRARY Windows.Web.Http.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

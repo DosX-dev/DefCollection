@@ -1,0 +1,6 @@
+LIBRARY ortcengine.dll
+
+EXPORTS
+RtcOrtcAlloc
+RtcOrtcFree
+RtcOrtcGetBrokerFactory

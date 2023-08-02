@@ -1,0 +1,6 @@
+LIBRARY XblAuthTokenBrokerExt.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY winshfhc.dll
+
+EXPORTS
+MRTComponent_Generalize

@@ -1,0 +1,8 @@
+LIBRARY MP43DECD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

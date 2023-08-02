@@ -1,0 +1,4 @@
+LIBRARY odexl32.dll
+
+EXPORTS
+ConfigDSNW

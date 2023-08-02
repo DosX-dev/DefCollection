@@ -1,0 +1,6 @@
+LIBRARY Windows.UI.Input.Inking.Analysis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllMain

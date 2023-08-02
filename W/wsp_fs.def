@@ -1,0 +1,13 @@
+LIBRARY wsp_fs.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main
+PreShutdown
+SetShutdownCallback
+SmpUnload

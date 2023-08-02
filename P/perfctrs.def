@@ -1,0 +1,21 @@
+LIBRARY perfctrs.dll
+
+EXPORTS
+CloseDhcpPerformanceData
+CloseIPXPerformanceData
+CloseNWNBPerformanceData
+CloseNbfPerformanceData
+CloseSPXPerformanceData
+CloseTcpIpPerformanceData
+CollectDhcpPerformanceData
+CollectIPXPerformanceData
+CollectNWNBPerformanceData
+CollectNbfPerformanceData
+CollectSPXPerformanceData
+CollectTcpIpPerformanceData
+OpenDhcpPerformanceData
+OpenIPXPerformanceData
+OpenNWNBPerformanceData
+OpenNbfPerformanceData
+OpenSPXPerformanceData
+OpenTcpIpPerformanceData

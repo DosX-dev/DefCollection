@@ -1,0 +1,6 @@
+LIBRARY XpsToPclmConverter.dll
+
+EXPORTS
+CreateXpsToPCLmConverter
+DllCanUnloadNow
+DllGetClassObject

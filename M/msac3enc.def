@@ -1,0 +1,7 @@
+LIBRARY MSAC3ENC.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

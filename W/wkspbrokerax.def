@@ -1,0 +1,8 @@
+LIBRARY wkspbrokerAx.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

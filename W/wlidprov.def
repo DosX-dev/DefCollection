@@ -1,0 +1,7 @@
+LIBRARY wlidprov.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

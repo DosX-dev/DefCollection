@@ -1,0 +1,4 @@
+LIBRARY VSD3DRefDebug.dll
+
+EXPORTS
+InitializeDebugging

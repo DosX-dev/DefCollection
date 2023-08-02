@@ -1,0 +1,7 @@
+LIBRARY PrintRenderAPIHost.DLL
+
+EXPORTS
+CreatePDFFactory
+CreateXPSToPDFConverter
+DllCanUnloadNow
+DllGetClassObject

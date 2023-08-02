@@ -1,0 +1,24 @@
+LIBRARY icm32.dll
+
+EXPORTS
+CMCheckColors
+CMCheckColorsInGamut
+CMCheckRGBs
+CMConvertColorNameToIndex
+CMConvertIndexToColorName
+CMCreateDeviceLinkProfile
+CMCreateMultiProfileTransform
+CMCreateProfile
+CMCreateProfileW
+CMCreateTransform
+CMCreateTransformExt
+CMCreateTransformExtW
+CMCreateTransformW
+CMDeleteTransform
+CMGetInfo
+CMGetNamedProfileInfo
+CMIsProfileValid
+CMTranslateColors
+CMTranslateRGB
+CMTranslateRGBs
+CMTranslateRGBsExt

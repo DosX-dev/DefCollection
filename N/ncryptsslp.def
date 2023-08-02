@@ -1,0 +1,4 @@
+LIBRARY ncryptsslp.dll
+
+EXPORTS
+GetSChannelInterface

@@ -1,0 +1,4 @@
+LIBRARY KBDMACST.DLL
+
+EXPORTS
+KbdLayerDescriptor

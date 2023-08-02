@@ -1,0 +1,17 @@
+LIBRARY JHI.dll
+
+EXPORTS
+JHI_CloseSession
+JHI_CreateSession
+JHI_Deinit
+JHI_ForceCloseSession
+JHI_GetAppletProperty
+JHI_GetSessionInfo
+JHI_GetSessionsCount
+JHI_GetVersionInfo
+JHI_Initialize
+JHI_Install2
+JHI_RegisterEvents
+JHI_SendAndRecv2
+JHI_UnRegisterEvents
+JHI_Uninstall

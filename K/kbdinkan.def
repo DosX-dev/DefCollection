@@ -1,0 +1,4 @@
+LIBRARY KBDINKAN.DLL
+
+EXPORTS
+KbdLayerDescriptor

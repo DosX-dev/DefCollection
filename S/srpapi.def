@@ -1,0 +1,24 @@
+LIBRARY srpapi.dll
+
+EXPORTS
+AiEvaluatePlugin
+AppIDDecodeAttributeString
+AppIDEncodeAttributeString
+AppIDFreeAttributeString
+SrpCloseThreadNetworkContext
+SrpCloseTrackInstall
+SrpCreateThreadNetworkContext
+SrpDisablePermissiveModeFileEncryption
+SrpDoesPolicyAllowAppExecution
+SrpEnablePermissiveModeFileEncryption
+SrpGetAllowedEnterprises
+SrpGetAppxFqbnFromPackageFullName
+SrpGetEnterpriseIds
+SrpGetEnterprisePolicy
+SrpInheritEnterpriseContext
+SrpInheritOriginClaim
+SrpIsAllowed
+SrpIsTokenService
+SrpOpenTrackInstall
+SrpRestoreEnterpriseContext
+SrpSetTokenEnterpriseId

@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Streaming.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

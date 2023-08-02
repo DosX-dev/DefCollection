@@ -1,0 +1,5 @@
+LIBRARY ActionCenter.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

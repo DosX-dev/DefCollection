@@ -1,0 +1,6 @@
+LIBRARY ErrorDetails.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

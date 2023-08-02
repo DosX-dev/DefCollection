@@ -1,0 +1,7 @@
+LIBRARY Windows.Globalization.PhoneNumberFormatting.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain

@@ -1,0 +1,8 @@
+LIBRARY wlanpref.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

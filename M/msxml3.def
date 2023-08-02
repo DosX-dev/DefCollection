@@ -1,0 +1,8 @@
+LIBRARY msxml3.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

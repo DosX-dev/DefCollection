@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.WiFiDirect.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

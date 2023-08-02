@@ -1,0 +1,22 @@
+LIBRARY iri.dll
+
+EXPORTS
+IriAppendRelativeIri
+IriAppendSegment
+IriClose
+IriCompare
+IriCopy
+IriCreateFromString
+IriFindLastCommonSegment
+IriGetAsString
+IriGetAttributeFlags
+IriGetComponent
+IriGetRelative
+IriGetSegment
+IriGetSegmentCount
+IriMakeConstantEx
+IriMutableClose
+IriSetComponent
+IriSetMetadata
+IriSplit
+IriSplitIntoMutableIris

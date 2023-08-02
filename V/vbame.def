@@ -1,0 +1,15 @@
+LIBRARY VBAME.DLL
+
+EXPORTS
+CreateCaretBiVBA
+DestroyCaretBiVBA
+DllMain
+IchFromXCoreBiVBA
+ObTextOutBiVBA
+PaintLineCoreBiVBA
+PaintLineCoreROClipBiVBA
+PickFontBiVBA
+ResetFontCacheBiVBA
+VersionNumberBiVBA
+WCheckPlatformBiVBA
+XFromIchCoreBiVBA

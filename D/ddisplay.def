@@ -1,0 +1,6 @@
+LIBRARY ddisplay.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

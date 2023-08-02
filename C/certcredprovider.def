@@ -1,0 +1,5 @@
+LIBRARY certCredProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

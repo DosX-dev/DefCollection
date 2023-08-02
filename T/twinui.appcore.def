@@ -1,0 +1,6 @@
+LIBRARY twinui.appcore.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

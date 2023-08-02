@@ -1,0 +1,12 @@
+LIBRARY deviceaccess.dll
+
+EXPORTS
+BrokeredOpenCommPort
+CreateDeviceAccessInstance
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ProcessTrackerInsertOrWait
+ProcessTrackerRemove
+ServiceMain
+SvchostPushServiceGlobals

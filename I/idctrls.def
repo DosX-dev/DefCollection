@@ -1,0 +1,5 @@
+LIBRARY IdCtrls.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

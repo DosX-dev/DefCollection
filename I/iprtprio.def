@@ -1,0 +1,8 @@
+LIBRARY iprtprio.dll
+
+EXPORTS
+CleanUpIpPriority
+ComputeRouteMetric
+ComputeRouteMetricEx
+GetPriorityInfo
+SetPriorityInfo

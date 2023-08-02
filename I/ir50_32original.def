@@ -1,0 +1,11 @@
+LIBRARY ir50_32original.dll
+
+EXPORTS
+AboutDialogProc
+ConfigureDialogProc
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+DriverProc

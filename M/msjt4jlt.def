@@ -1,0 +1,5 @@
+LIBRARY MSJT4JLT.DLL
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

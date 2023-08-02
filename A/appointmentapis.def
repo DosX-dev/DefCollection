@@ -1,0 +1,8 @@
+LIBRARY AppointmentApis.dll
+
+EXPORTS
+CreatePropertiesFromRecurrencePattern
+CreateRecurrencePatternFromProperties
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

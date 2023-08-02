@@ -1,0 +1,8 @@
+LIBRARY Windows.Perception.Stub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetActivationFactoryPerceptionStub
+DllGetClassObject
+GetProxyDllInfo

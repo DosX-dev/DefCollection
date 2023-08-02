@@ -1,0 +1,7 @@
+LIBRARY L2SecHC.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

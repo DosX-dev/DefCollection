@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.MixedRealityCapture.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

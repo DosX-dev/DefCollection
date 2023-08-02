@@ -1,0 +1,5 @@
+LIBRARY CHxReadingStringIME.dll
+
+EXPORTS
+GetReadingString
+ShowReadingWindow

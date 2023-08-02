@@ -1,0 +1,13 @@
+LIBRARY ir50_qcx.dll
+
+EXPORTS
+AllocInstanceData
+Compress
+CompressBegin
+CompressEnd
+CompressFramesInfo
+CompressQuery
+DllMain
+FreeInstanceData
+SetCPUID
+SetScalability

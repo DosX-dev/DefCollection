@@ -1,0 +1,5 @@
+LIBRARY DevicePairing.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

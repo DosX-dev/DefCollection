@@ -1,0 +1,5 @@
+LIBRARY InputSwitch.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

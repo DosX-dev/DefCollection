@@ -1,0 +1,4 @@
+LIBRARY KBDES.DLL
+
+EXPORTS
+KbdLayerDescriptor

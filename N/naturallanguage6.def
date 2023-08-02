@@ -1,0 +1,7 @@
+LIBRARY NaturalLanguage6.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,5 @@
+LIBRARY dbgcore.dll
+
+EXPORTS
+MiniDumpReadDumpStream
+MiniDumpWriteDump

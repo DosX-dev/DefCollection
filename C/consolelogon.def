@@ -1,0 +1,6 @@
+LIBRARY ConsoleLogon.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

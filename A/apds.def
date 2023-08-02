@@ -1,0 +1,7 @@
+LIBRARY apds.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

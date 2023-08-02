@@ -1,0 +1,7 @@
+LIBRARY fontext.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DownloadAndInstallOptionalFontsAsync
+InstallFontFile

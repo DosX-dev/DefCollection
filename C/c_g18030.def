@@ -1,0 +1,4 @@
+LIBRARY C_G18030.DLL
+
+EXPORTS
+NlsDllCodePageTranslation

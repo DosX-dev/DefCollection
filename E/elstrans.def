@@ -1,0 +1,9 @@
+LIBRARY elsTrans.dll
+
+EXPORTS
+DoAction
+EnumServices
+FreePropertyBag
+FreeService
+InitService
+RecognizeText

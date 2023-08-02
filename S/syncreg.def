@@ -1,0 +1,7 @@
+LIBRARY Syncreg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

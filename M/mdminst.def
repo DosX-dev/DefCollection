@@ -1,0 +1,4 @@
+LIBRARY mdminst.dll
+
+EXPORTS
+ClassInstall32

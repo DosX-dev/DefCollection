@@ -1,0 +1,8 @@
+LIBRARY MP4SDECD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

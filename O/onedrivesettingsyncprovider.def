@@ -1,0 +1,5 @@
+LIBRARY OneDriveSettingSyncProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

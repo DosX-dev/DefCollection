@@ -1,0 +1,7 @@
+LIBRARY WindowManagementAPI.dll
+
+EXPORTS
+CreateWindowInformation
+CreateWindowLayout
+DllGetActivationFactory
+DllGetClassObject

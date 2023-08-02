@@ -1,0 +1,6 @@
+LIBRARY EditionUpgradeHelper.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

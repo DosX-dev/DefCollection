@@ -1,0 +1,4 @@
+LIBRARY p2pnetsh.dll
+
+EXPORTS
+InitHelperDll

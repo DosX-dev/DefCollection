@@ -1,0 +1,6 @@
+LIBRARY pku2u.dll
+
+EXPORTS
+DllMain
+SpLsaModeInitialize
+SpUserModeInitialize

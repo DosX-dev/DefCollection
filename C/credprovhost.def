@@ -1,0 +1,5 @@
+LIBRARY credprovhost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

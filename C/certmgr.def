@@ -1,0 +1,8 @@
+LIBRARY certmgr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

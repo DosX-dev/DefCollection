@@ -1,0 +1,4 @@
+LIBRARY msyuv.dll
+
+EXPORTS
+DriverProc

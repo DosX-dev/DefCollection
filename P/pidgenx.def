@@ -1,0 +1,6 @@
+LIBRARY pidgenx.dll
+
+EXPORTS
+GetPKeyData
+PidGenX
+PidGenX2

@@ -1,0 +1,5 @@
+LIBRARY Windows.Graphics.Printing.Workflow.Native.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

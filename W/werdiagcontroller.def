@@ -1,0 +1,6 @@
+LIBRARY werdiagcontroller.dll
+
+EXPORTS
+QueryOriginalBucket
+StartAppRecorder
+StartFDR

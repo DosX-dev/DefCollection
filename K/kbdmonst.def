@@ -1,0 +1,4 @@
+LIBRARY KBDMONST.DLL
+
+EXPORTS
+KbdLayerDescriptor

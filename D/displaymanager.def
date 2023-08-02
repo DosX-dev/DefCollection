@@ -1,0 +1,7 @@
+LIBRARY DisplayManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetProxyDllInfo

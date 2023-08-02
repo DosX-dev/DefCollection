@@ -1,0 +1,5 @@
+LIBRARY WcnApi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,17 @@
+LIBRARY perf_gputiming.dll
+
+EXPORTS
+CleanUpViewerSyncObjects
+CreateCallbackSync
+CreateETWViewerSynchronizer
+CreateViewerSync
+DesktopDuplicationProvider
+DisplayFeatureSupport
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetFeatureSupport
+GetInfosourceVersion
+GetMarkerNameTable
+UpdateZoomInfo

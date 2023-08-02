@@ -1,0 +1,6 @@
+LIBRARY themeui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllInstall

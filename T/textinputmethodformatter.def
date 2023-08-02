@@ -1,0 +1,24 @@
+LIBRARY TextInputMethodFormatter.dll
+
+EXPORTS
+??0TextInputMethodFormatter@@QAE@XZ
+??1TextInputMethodFormatter@@QAE@XZ
+?ConnectToHost@TextInputMethodFormatter@@IAEJXZ
+?DataReceived@TextInputMethodFormatter@@UAEJIAAV?$vector@DV?$allocator@D@std@@@std@@@Z
+?GetCIVMSender@TextInputMethodFormatter@@UAEJPAPAUIRemoteCoreInputViewManager@@@Z
+?GetCIVSender@TextInputMethodFormatter@@UAEJPAPAUIRemoteCoreInputView@@@Z
+?GetIsHost@TextInputMethodFormatter@@UAE_NXZ
+?GetTICImpl@TextInputMethodFormatter@@UAEJPAPAUIRemoteTextInputClient@@@Z
+?GetTISImpl@TextInputMethodFormatter@@UAEJPAPAUIRemoteTextInputServer@@@Z
+?GetTVIImpl@TextInputMethodFormatter@@UAEJPAPAUITextVirtualizationInternal@@@Z
+?GetTVKRImpl@TextInputMethodFormatter@@UAEJPAPAUITextVirtualizationKeyRouting@@@Z
+?GetVirtTIS@TextInputMethodFormatter@@QAEJPAPAUIRemoteTextInputServer@@@Z
+?Initialize@TextInputMethodFormatter@@QAEJPAUIMessagePort@@W4VirtualizationEnvironment@@PAUIVirtualizedTextDataSender@@U_GUID@@@Z
+?Initialize@TextInputMethodFormatter@@UAEJPAUIMessagePort@@@Z
+?ProcessQueue@TextInputMethodFormatter@@QAEJXZ
+?SetCIVMTarget@TextInputMethodFormatter@@UAEJPAUIRemoteCoreInputViewManager@@@Z
+?SetCIVTarget@TextInputMethodFormatter@@UAEJPAUIRemoteCoreInputView@@PAVVirtCoreInputViewForwarder@@@Z
+?SetTICTarget@TextInputMethodFormatter@@UAEJPAUIRemoteTextInputClient@@PAVVirtTextInputClient@@@Z
+?SetTISTarget@TextInputMethodFormatter@@UAEJPAUIRemoteTextInputServer@@@Z
+?SetTVKRTarget@TextInputMethodFormatter@@UAEJPAUITextVirtualizationKeyRouting@@@Z
+?Uninitialize@TextInputMethodFormatter@@UAEJXZ

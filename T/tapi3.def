@@ -1,0 +1,7 @@
+LIBRARY tapi3.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

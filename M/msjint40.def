@@ -1,0 +1,4 @@
+LIBRARY msjint40.dll
+
+EXPORTS
+CchLszOfId2

@@ -1,0 +1,6 @@
+LIBRARY windows.internal.shellcommon.TokenBrokerModal.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

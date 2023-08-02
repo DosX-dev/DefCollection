@@ -1,0 +1,6 @@
+LIBRARY cmintegrator.dll
+
+EXPORTS
+VpnCmOracleCheckVpnAvailability
+VpnCmOracleInitialize
+VpnCmOracleShutdown

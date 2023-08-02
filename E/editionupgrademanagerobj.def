@@ -1,0 +1,7 @@
+LIBRARY EditionUpgradeManagerObj.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

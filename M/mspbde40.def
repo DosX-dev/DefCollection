@@ -1,0 +1,5 @@
+LIBRARY mspbde40.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

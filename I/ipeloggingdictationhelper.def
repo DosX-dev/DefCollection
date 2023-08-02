@@ -1,0 +1,4 @@
+LIBRARY IPELoggingDictationHelper.dll
+
+EXPORTS
+GetIPELoggingHelper

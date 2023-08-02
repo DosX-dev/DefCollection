@@ -1,0 +1,14 @@
+LIBRARY coreglobconfig.dll
+
+EXPORTS
+CreateUserSpecificGlobalizationSettings
+DllCanUnloadNow
+DllGetClassObject
+GetDisplayLanguageLocalizedName
+GetDisplayLanguageNativeName
+GetSupportedDisplayLanguages
+SetDisplayLanguageCore
+SetUserDisplayLanguageCore
+SyncLanguageDataFromCloud
+SyncLanguageDataToCloud
+UpdateDefaultGlobalizationSettings

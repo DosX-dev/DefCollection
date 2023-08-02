@@ -1,0 +1,4 @@
+LIBRARY dpnet.dll
+
+EXPORTS
+DllMain

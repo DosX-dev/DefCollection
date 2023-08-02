@@ -1,0 +1,6 @@
+LIBRARY d3d11sdklayers.dll
+
+EXPORTS
+D3D11RegisterLayers
+D3D11TranslateCreateDevice
+DXGI_SDK_MESSAGE

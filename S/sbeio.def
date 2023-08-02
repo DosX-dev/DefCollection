@@ -1,0 +1,5 @@
+LIBRARY sbeio.dll
+
+EXPORTS
+DVRCreateDVRFileSink
+DVRCreateDVRFileSource

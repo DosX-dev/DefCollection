@@ -1,0 +1,7 @@
+LIBRARY mssitlb.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

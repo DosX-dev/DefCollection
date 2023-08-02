@@ -1,0 +1,5 @@
+LIBRARY PackageStateRoaming.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

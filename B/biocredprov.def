@@ -1,0 +1,5 @@
+LIBRARY BioCredProv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,5 @@
+LIBRARY nvapi.dll
+
+EXPORTS
+nvapi_Direct_GetMethod
+nvapi_QueryInterface

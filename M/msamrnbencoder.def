@@ -1,0 +1,7 @@
+LIBRARY MSAMRNBEncoder.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

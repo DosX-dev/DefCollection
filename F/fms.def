@@ -1,0 +1,26 @@
+LIBRARY fms.dll
+
+EXPORTS
+FmsActivateFonts
+FmsAddFilter
+FmsDeactivateFonts
+FmsFreeEnumerator
+FmsGetBestMatchInFamily
+FmsGetCurrentFilter
+FmsGetDirectWriteLogFont
+FmsGetFilteredFontList
+FmsGetFilteredPropertyList
+FmsGetFontAutoActivationMode
+FmsGetFontProperty
+FmsGetGDILogFont
+FmsGetGdiLogicalFont
+FmsInitializeEnumerator
+FmsMapGdiLogicalFont
+FmsMapLogicalFont
+FmsResetEnumerator
+FmsResetFontsActivationState
+FmsSetDefaultFilter
+FmsSetFilter
+FmsSetFontAutoActivationMode
+FmsSetTextFilter
+FmsToggleOnDesignAxis

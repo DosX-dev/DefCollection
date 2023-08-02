@@ -1,0 +1,25 @@
+LIBRARY mssrch.dll
+
+EXPORTS
+??0CSearchServiceObj@@QAE@ABV0@@Z
+??0CSearchServiceObj@@QAE@XZ
+??1CSearchServiceObj@@QAE@XZ
+??4CSearchServiceObj@@QAEAAV0@ABV0@@Z
+??_7CSearchServiceObj@@6B@
+?Cleanup@CSearchServiceObj@@SGXXZ
+?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ
+?HandleDplKeyChange@CSearchServiceObj@@UAGJXZ
+?Initialize@CSearchServiceObj@@UAGJ_NKPBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z
+?LogoffNotification@CSearchServiceObj@@UAGJK@Z
+?LogonNotification@CSearchServiceObj@@UAGJK@Z
+?PostServiceStartup@CSearchServiceObj@@UAGJXZ
+?SetServiceStatusObj@CSearchServiceObj@@UAGJPAUIDCOMServiceStatus@@@Z
+?Shutdown@CSearchServiceObj@@UAGJXZ
+?Start@CSearchServiceObj@@UAGJXZ
+?Stop@CSearchServiceObj@@UAGJH@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetCatalogManager
+MSSrch_SysPrep_Cleanup

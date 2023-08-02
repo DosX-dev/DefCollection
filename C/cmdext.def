@@ -1,0 +1,17 @@
+LIBRARY cmdext.dll
+
+EXPORTS
+CmdBatNotificationStub
+DoSHChangeNotify
+FindFirstStreamWStub
+FindNextStreamWStub
+GetBinaryTypeWStub
+GetVDMCurrentDirectoriesStub
+LookupAccountSidWStub
+MessageBeepStub
+QueryFullProcessImageNameWStub
+SaferWorker
+ShellExecuteWorker
+WNetAddConnection2WStub
+WNetCancelConnection2WStub
+WNetGetConnectionWStub

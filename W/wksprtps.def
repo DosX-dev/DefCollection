@@ -1,0 +1,8 @@
+LIBRARY wksprtPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

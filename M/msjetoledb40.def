@@ -1,0 +1,8 @@
+LIBRARY msjetoledb40.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

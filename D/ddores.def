@@ -1,0 +1,5 @@
+LIBRARY DDORes.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,6 @@
+LIBRARY CallButtons.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

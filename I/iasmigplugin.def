@@ -1,0 +1,9 @@
+LIBRARY IasMigPlugin.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+IasUpgradeComplianceCheck

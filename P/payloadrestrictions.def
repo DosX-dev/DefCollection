@@ -1,0 +1,6 @@
+LIBRARY PayloadRestrictions.dll
+
+EXPORTS
+MitLibInitialize
+MitLibQueryMitigations
+MitLibUninitialize

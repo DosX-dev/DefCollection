@@ -1,0 +1,16 @@
+LIBRARY uReFS.dll
+
+EXPORTS
+??0REFS_SA@@QAE@XZ
+??0REFS_UPCASE_TABLE@@QAE@XZ
+??1REFS_SA@@UAE@XZ
+??1REFS_UPCASE_TABLE@@UAE@XZ
+?Initialize@REFS_SA@@QAEEPAVLOG_IO_DP_DRIVE@@PAVMESSAGE@@@Z
+Chkdsk
+ChkdskEx
+Extend
+Format
+FormatEx
+GetFilesystemInformation
+Recover
+SetOriginalVolumeName

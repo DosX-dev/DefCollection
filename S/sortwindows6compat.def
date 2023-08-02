@@ -1,0 +1,5 @@
+LIBRARY SortWindows6Compat.dll
+
+EXPORTS
+SortCloseHandle
+SortGetHandle

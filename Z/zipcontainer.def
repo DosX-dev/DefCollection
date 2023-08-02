@@ -1,0 +1,7 @@
+LIBRARY zipcontainer.dll
+
+EXPORTS
+CreateFileStream
+ZipContainerCreateArchiveOnFile
+ZipContainerInitialize
+ZipContainerUninitialize

@@ -1,0 +1,5 @@
+LIBRARY SEMgrPS.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

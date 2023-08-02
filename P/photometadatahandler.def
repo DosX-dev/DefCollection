@@ -1,0 +1,7 @@
+LIBRARY PhotoMetadataHandler.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

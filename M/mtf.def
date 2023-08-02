@@ -1,0 +1,6 @@
+LIBRARY MTF.dll
+
+EXPORTS
+CreateInputTypeAttributes
+DllCanUnloadNow
+DllGetClassObject

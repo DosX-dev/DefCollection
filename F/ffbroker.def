@@ -1,0 +1,6 @@
+LIBRARY ffbroker.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

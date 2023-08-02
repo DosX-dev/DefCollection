@@ -1,0 +1,7 @@
+LIBRARY netcorehc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

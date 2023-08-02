@@ -1,0 +1,4 @@
+LIBRARY KBDGEO.DLL
+
+EXPORTS
+KbdLayerDescriptor

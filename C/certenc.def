@@ -1,0 +1,7 @@
+LIBRARY certenc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

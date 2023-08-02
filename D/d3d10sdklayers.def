@@ -1,0 +1,7 @@
+LIBRARY d3d10sdklayers.dll
+
+EXPORTS
+D3D10GetVersion
+D3D10RegisterLayers
+D3D10TranslateCreateDevice
+DXGI_SDK_MESSAGE

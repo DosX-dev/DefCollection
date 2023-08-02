@@ -1,0 +1,9 @@
+LIBRARY dinput8.dll
+
+EXPORTS
+DirectInput8Create
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetdfDIJoystick

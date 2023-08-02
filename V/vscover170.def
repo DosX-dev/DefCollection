@@ -1,0 +1,4 @@
+LIBRARY vscover170.dll
+
+EXPORTS
+VSCoverRegisterAssembly

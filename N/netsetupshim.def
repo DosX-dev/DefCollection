@@ -1,0 +1,9 @@
+LIBRARY NetSetupShim.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+NetSetupCreateBindingMap
+NetSetupExportDatabase
+NetSetupResetBindings
+NetSetupShimExecuteInfSection

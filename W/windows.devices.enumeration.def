@@ -1,0 +1,8 @@
+LIBRARY Windows.Devices.Enumeration.dll
+
+EXPORTS
+AqsFreeDevQueryFilter
+AqsToDevQueryFilter
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

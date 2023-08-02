@@ -1,0 +1,5 @@
+LIBRARY MSAlacDecoder.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

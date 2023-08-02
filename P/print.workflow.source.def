@@ -1,0 +1,14 @@
+LIBRARY Print.Workflow.Source.dll
+
+EXPORTS
+DllCanUnloadNow
+WfpAbortSession
+WfpCloseSession
+WfpCreateWorkflowSession
+WfpGetOutputFileName
+WfpGetWorkFlowStream
+WfpSetJobInfo
+WfpSetOutputFileName
+WfpSetPrintTicket
+WfpSetXpsDataType
+WfpWaitforJobCompletion

@@ -1,0 +1,4 @@
+LIBRARY KBDRUM.DLL
+
+EXPORTS
+KbdLayerDescriptor

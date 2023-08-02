@@ -1,0 +1,5 @@
+LIBRARY wscisvif.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

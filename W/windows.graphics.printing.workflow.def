@@ -1,0 +1,6 @@
+LIBRARY Windows.Graphics.Printing.Workflow.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

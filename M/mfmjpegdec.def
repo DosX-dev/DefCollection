@@ -1,0 +1,5 @@
+LIBRARY mfmjpegdec.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

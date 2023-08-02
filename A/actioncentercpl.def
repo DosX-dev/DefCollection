@@ -1,0 +1,7 @@
+LIBRARY ActionCenterCPL.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

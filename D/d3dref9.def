@@ -1,0 +1,5 @@
+LIBRARY d3dref9.dll
+
+EXPORTS
+D3D9GetSWInfo
+D3D9GetSWInfoEx

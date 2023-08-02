@@ -1,0 +1,7 @@
+LIBRARY msrdc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

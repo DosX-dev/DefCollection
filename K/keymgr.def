@@ -1,0 +1,13 @@
+LIBRARY keymgr.dll
+
+EXPORTS
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+KRShowKeyMgr
+PRShowRestoreFromMsginaW
+PRShowRestoreWizardExW
+PRShowRestoreWizardW
+PRShowSaveFromMsginaW
+PRShowSaveWizardExW

@@ -1,0 +1,7 @@
+LIBRARY bcastdvr.proxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

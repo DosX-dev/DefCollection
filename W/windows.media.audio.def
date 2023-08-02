@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Audio.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY iscsicpl.dll
+
+EXPORTS
+CPlApplet

@@ -1,0 +1,4 @@
+LIBRARY odfox32.dll
+
+EXPORTS
+ConfigDSNW

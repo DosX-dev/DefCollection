@@ -1,0 +1,4 @@
+LIBRARY xpspushlayer.dll
+
+EXPORTS
+DllCanUnloadNow

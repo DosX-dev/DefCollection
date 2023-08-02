@@ -1,0 +1,5 @@
+LIBRARY kbdlk41a.dll
+
+EXPORTS
+KbdLayerDescriptor
+KbdNlsLayerDescriptor

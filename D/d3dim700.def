@@ -1,0 +1,21 @@
+LIBRARY d3dim700.dll
+
+EXPORTS
+CreateTexture
+D3DBreakVBLock
+D3DFree
+D3DMalloc
+D3DRealloc
+D3DTextureUpdate
+DestroyTexture
+Direct3DCreate
+Direct3DCreateDevice
+Direct3D_HALCleanUp
+FlushD3DDevices
+GetLOD
+GetPriority
+PaletteAssociateNotify
+PaletteUpdateNotify
+SetLOD
+SetPriority
+SurfaceFlipNotify

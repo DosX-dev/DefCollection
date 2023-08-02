@@ -1,0 +1,7 @@
+LIBRARY shwebsvc.dll
+
+EXPORTS
+AddNetPlaceRunDll
+DllCanUnloadNow
+DllGetClassObject
+PublishRunDll

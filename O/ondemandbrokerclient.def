@@ -1,0 +1,4 @@
+LIBRARY OnDemandBrokerClient.dll
+
+EXPORTS
+CreateOnDemandBrokerClient

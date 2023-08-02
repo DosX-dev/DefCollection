@@ -1,0 +1,16 @@
+LIBRARY ieapfltr.dll
+
+EXPORTS
+CreateIAppRep2
+CreateIAppRepParm2
+CreateIUrlReputationSolution2
+CreateUrlBlockBroker
+CreateUrlBlockClient
+DestroyUrlBlockBroker
+DestroyUrlBlockClient
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetUrlBlockBroker
+GetUrlBlockClient

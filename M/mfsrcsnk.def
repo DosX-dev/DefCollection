@@ -1,0 +1,7 @@
+LIBRARY mfsrcsnk.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+MFCreateAVIMediaSink
+MFCreateWAVEMediaSink

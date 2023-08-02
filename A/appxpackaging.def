@@ -1,0 +1,5 @@
+LIBRARY AppxPackaging.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

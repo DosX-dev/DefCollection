@@ -1,0 +1,7 @@
+LIBRARY StructuredQuery.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

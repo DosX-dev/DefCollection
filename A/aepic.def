@@ -1,0 +1,15 @@
+LIBRARY aepic.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+GetAppInventoryCore
+GetPrivacyLevel
+PicAmiClose
+PicAmiInitialize
+PicFreeFileInfo
+PicRetrieveFileInfo
+PicRetrieveFileInfoAppx
+PicRetrieveFileLastRunTime
+PicUpdateFileLastRunTime
+UpdateSoftwareInventoryTC2

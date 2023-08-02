@@ -1,0 +1,4 @@
+LIBRARY mfcm140u.dll
+
+EXPORTS
+AfxmReleaseManagedReferences

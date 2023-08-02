@@ -1,0 +1,5 @@
+LIBRARY FdDevQuery.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

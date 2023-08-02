@@ -1,0 +1,4 @@
+LIBRARY KBDCHERP.DLL
+
+EXPORTS
+KbdLayerDescriptor

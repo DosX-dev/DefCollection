@@ -1,0 +1,5 @@
+LIBRARY AzureSettingSyncProvider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

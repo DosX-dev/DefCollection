@@ -1,0 +1,7 @@
+LIBRARY MbaeApi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

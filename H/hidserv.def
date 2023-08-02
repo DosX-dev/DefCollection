@@ -1,0 +1,5 @@
+LIBRARY hidserv.dll
+
+EXPORTS
+InstallHidserv
+ServiceMain

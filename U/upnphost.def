@@ -1,0 +1,9 @@
+LIBRARY upnphost.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ServiceMain
+SvchostPushServiceGlobals

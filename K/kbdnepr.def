@@ -1,0 +1,4 @@
+LIBRARY KBDNEPR.DLL
+
+EXPORTS
+KbdLayerDescriptor

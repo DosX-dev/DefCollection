@@ -1,0 +1,13 @@
+LIBRARY wdigest.dll
+
+EXPORTS
+CredentialUpdateFree
+CredentialUpdateNotify
+CredentialUpdateRegister
+DllMain
+SpInitialize
+SpInstanceInit
+SpLsaModeInitialize
+SpUserModeInitialize
+SsiCredentialsUpdateFree
+SsiCredentialsUpdateNotify

@@ -1,0 +1,11 @@
+LIBRARY XInputUap.dll
+
+EXPORTS
+DllMain
+XInputEnable
+XInputGetAudioDeviceIds
+XInputGetBatteryInformation
+XInputGetCapabilities
+XInputGetKeystroke
+XInputGetState
+XInputSetState

@@ -1,0 +1,8 @@
+LIBRARY WMVXENCD.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

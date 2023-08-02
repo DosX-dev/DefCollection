@@ -1,0 +1,4 @@
+LIBRARY KBDSORST.DLL
+
+EXPORTS
+KbdLayerDescriptor

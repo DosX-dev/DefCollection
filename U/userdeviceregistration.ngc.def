@@ -1,0 +1,6 @@
+LIBRARY UserDeviceRegistration.Ngc.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

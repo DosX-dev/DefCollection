@@ -1,0 +1,9 @@
+LIBRARY dot3dlg.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+Dot3ACCanShowBalloon
+Dot3ACOnBalloonClick

@@ -1,0 +1,5 @@
+LIBRARY DictationManager.dll
+
+EXPORTS
+CreateDictationManager
+CreateDictationManagerWithDeviceController

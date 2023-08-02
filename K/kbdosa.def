@@ -1,0 +1,4 @@
+LIBRARY KBDOSA.DLL
+
+EXPORTS
+KbdLayerDescriptor

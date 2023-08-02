@@ -1,0 +1,6 @@
+LIBRARY Windows.Gaming.Input.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

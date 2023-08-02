@@ -1,0 +1,4 @@
+LIBRARY KBDTH3.DLL
+
+EXPORTS
+KbdLayerDescriptor

@@ -1,0 +1,6 @@
+LIBRARY AppExtension.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,18 @@
+LIBRARY fvecerts.dll
+
+EXPORTS
+FveCertCanCertificateBeAdded
+FveCertCreateCertInfo
+FveCertCreateSelfSignedCertificate
+FveCertFilterForValidCertificates
+FveCertFindValidCertificates
+FveCertFreeCertInfo
+FveCertGetCertContextFromCert
+FveCertGetCertContextFromPfx
+FveCertGetCertHashFromCertContext
+FveCertGetPrivateKeyHandle
+FveCertGetPublicKeyHandle
+FveCertIsAlternateCert
+FveCertIsValidCertInfo
+FveCertSignData
+FveCertWritePfxFromCertContext

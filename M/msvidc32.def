@@ -1,0 +1,4 @@
+LIBRARY msvidc32.dll
+
+EXPORTS
+DriverProc

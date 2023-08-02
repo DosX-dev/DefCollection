@@ -1,0 +1,8 @@
+LIBRARY BamSettingsClient.dll
+
+EXPORTS
+BamCreateSettingsClientLib
+BamDestroySettingsClientLib
+BamFreeQueriedApplications
+BamQueryKnownApplications
+BamSetUserManagementState

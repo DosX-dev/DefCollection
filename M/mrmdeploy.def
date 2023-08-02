@@ -1,0 +1,12 @@
+LIBRARY MrmDeploy.dll
+
+EXPORTS
+DllMain
+GetCanonicalMergedPriFileName
+GetCanonicalMergedPriFileNameForPackages
+GetInitInfoByPackageFullName
+GetOrCreatePriFileForApplicablePackages
+GetOrCreatePriFileForAvailablePackages
+GetOrCreatePriFileForRelatedPackages
+GetPriFileForPackageOnly
+MergeRelatedPriFiles

@@ -1,0 +1,4 @@
+LIBRARY DS32GT.DLL
+
+EXPORTS
+Dispatch

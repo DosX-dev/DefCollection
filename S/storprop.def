@@ -1,0 +1,15 @@
+LIBRARY Storprop.dll
+
+EXPORTS
+AtaPropPageProvider
+CdromDisableDigitalPlayback
+CdromEnableDigitalPlayback
+CdromIsDigitalPlaybackEnabled
+CdromKnownGoodDigitalPlayback
+CdromSetDefaultDvdRegion
+DiskClassInstaller
+DiskPropPageProvider
+DvdClassInstaller
+DvdLauncher
+DvdPropPageProvider
+HdcCoInstaller

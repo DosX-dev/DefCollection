@@ -1,0 +1,4 @@
+LIBRARY wininetlui.dll
+
+EXPORTS
+InternetErrorDlgEx

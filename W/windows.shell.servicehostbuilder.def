@@ -1,0 +1,6 @@
+LIBRARY Windows.Shell.ServiceHostBuilder.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

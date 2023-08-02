@@ -1,0 +1,5 @@
+LIBRARY tpmcompc.dll
+
+EXPORTS
+CHOOSER2_PickTargetComputer
+DllMain

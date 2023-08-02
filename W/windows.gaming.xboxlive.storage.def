@@ -1,0 +1,6 @@
+LIBRARY Windows.Gaming.XboxLive.Storage.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,24 @@
+LIBRARY WMVCORE.DLL
+
+EXPORTS
+DllRegisterServer
+WMCheckURLExtension
+WMCheckURLScheme
+WMCreateBackupRestorer
+WMCreateBackupRestorerPrivate
+WMCreateEditor
+WMCreateIndexer
+WMCreateLicenseRevocationAgentPrivate
+WMCreateProfileManager
+WMCreateReader
+WMCreateReaderPriv
+WMCreateSyncReader
+WMCreateSyncReaderPriv
+WMCreateWriter
+WMCreateWriterFileSink
+WMCreateWriterNetworkSink
+WMCreateWriterPriv
+WMCreateWriterPushSink
+WMIsAvailableOffline
+WMIsContentProtected
+WMValidateData

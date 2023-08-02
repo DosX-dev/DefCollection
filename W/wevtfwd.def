@@ -1,0 +1,8 @@
+LIBRARY wevtfwd.dll
+
+EXPORTS
+WSManPluginShutdown
+WSManPluginStartup
+WSManProvPullEvents
+WSManProvSubscribe
+WSManProvUnsubscribe

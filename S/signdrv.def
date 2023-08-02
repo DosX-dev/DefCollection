@@ -1,0 +1,7 @@
+LIBRARY signdrv.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

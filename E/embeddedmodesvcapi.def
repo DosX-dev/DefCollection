@@ -1,0 +1,8 @@
+LIBRARY embeddedmodesvcapi.dll
+
+EXPORTS
+ActivatePackage
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+IsEmbeddedModeAllowed

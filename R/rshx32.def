@@ -1,0 +1,8 @@
+LIBRARY rshx32.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+_EditFSSecurity@32

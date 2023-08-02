@@ -1,0 +1,4 @@
+LIBRARY nshipsec.dll
+
+EXPORTS
+InitHelperDll

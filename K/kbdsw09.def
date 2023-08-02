@@ -1,0 +1,4 @@
+LIBRARY KBDSW09.DLL
+
+EXPORTS
+KbdLayerDescriptor

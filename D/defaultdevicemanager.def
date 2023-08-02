@@ -1,0 +1,5 @@
+LIBRARY DefaultDeviceManager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

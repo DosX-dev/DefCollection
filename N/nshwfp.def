@@ -1,0 +1,11 @@
+LIBRARY nshwfp.dll
+
+EXPORTS
+IdpConfigAddPolicy
+IdpConfigAllocateAndGetPolicy
+IdpConfigFreePolicy
+IdpConfigInitDefaultPolicy
+IdpConfigRemovePolicy
+InitHelperDll
+WfpCaptureExportedW
+WfpCaptureStop

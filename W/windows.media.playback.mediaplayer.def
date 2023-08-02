@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Playback.MediaPlayer.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

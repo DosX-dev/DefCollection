@@ -1,0 +1,9 @@
+LIBRARY ifsutilx.dll
+
+EXPORTS
+CheckSnapshotPresence
+CreateVolumeSnapshot
+GetSnapshotErrorMessage
+InitializeCOM
+ReleaseVolumeSnapshot
+UninitializeCOM

@@ -1,0 +1,4 @@
+LIBRARY mtxdm.dll
+
+EXPORTS
+GetDispenserManager

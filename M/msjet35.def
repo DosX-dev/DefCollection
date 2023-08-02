@@ -1,0 +1,5 @@
+LIBRARY MSJET35.DLL
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer

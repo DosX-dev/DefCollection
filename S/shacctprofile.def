@@ -1,0 +1,5 @@
+LIBRARY shacctprofile.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

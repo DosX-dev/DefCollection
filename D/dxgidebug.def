@@ -1,0 +1,5 @@
+LIBRARY DXGIDebug.dll
+
+EXPORTS
+DXGIGetDebugInterface
+DXGI_SDK_MESSAGE

@@ -1,0 +1,5 @@
+LIBRARY SyncProxy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

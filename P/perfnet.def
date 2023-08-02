@@ -1,0 +1,6 @@
+LIBRARY perfnet.dll
+
+EXPORTS
+CloseNetSvcsObject
+CollectNetSvcsObjectData
+OpenNetSvcsObject

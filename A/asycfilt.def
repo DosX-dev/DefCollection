@@ -1,0 +1,5 @@
+LIBRARY asycfilt.dll
+
+EXPORTS
+DllCanUnloadNow
+FilterCreateInstance

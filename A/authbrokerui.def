@@ -1,0 +1,12 @@
+LIBRARY AuthBrokerUI.dll
+
+EXPORTS
+CreateWndMgmt
+DirectUIInitProc
+DirectUIInitThread
+DirectUIUnInitProc
+DirectUIUnInitThread
+FreeWndMgmt
+WabCreateWebRuntimeCoreControl
+WabCreateWebRuntimeCoreVisualViewport
+WabImmDisableLegacyIME

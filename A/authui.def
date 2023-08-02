@@ -1,0 +1,6 @@
+LIBRARY authui.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

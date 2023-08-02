@@ -1,0 +1,24 @@
+LIBRARY cryptdlg.dll
+
+EXPORTS
+CertConfigureTrustA
+CertConfigureTrustW
+CertModifyCertificatesToTrust
+CertSelectCertificateA
+CertSelectCertificateW
+CertTrustCertPolicy
+CertTrustCleanup
+CertTrustFinalPolicy
+CertTrustInit
+CertViewPropertiesA
+CertViewPropertiesW
+DecodeAttrSequence
+DecodeRecipientID
+DllRegisterServer
+DllUnregisterServer
+EncodeAttrSequence
+EncodeRecipientID
+FormatPKIXEmailProtection
+FormatVerisignExtension
+GetFriendlyNameOfCertA
+GetFriendlyNameOfCertW

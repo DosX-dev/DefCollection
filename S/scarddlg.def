@@ -1,0 +1,8 @@
+LIBRARY SCardDlg.dll
+
+EXPORTS
+GetOpenCardNameA
+GetOpenCardNameW
+SCardDlgExtendedError
+SCardUIDlgSelectCardA
+SCardUIDlgSelectCardW

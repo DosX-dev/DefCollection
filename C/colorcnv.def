@@ -1,0 +1,8 @@
+LIBRARY COLORCNV.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY iasdatastore.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

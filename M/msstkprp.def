@@ -1,0 +1,7 @@
+LIBRARY MSSTKPRP.DLL
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

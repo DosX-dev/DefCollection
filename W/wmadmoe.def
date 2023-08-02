@@ -1,0 +1,8 @@
+LIBRARY WMADMOE.DLL
+
+EXPORTS
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,7 @@
+LIBRARY findnetprinters.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,12 @@
+LIBRARY shimgvw.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+ImageView_Fullscreen
+ImageView_FullscreenA
+ImageView_FullscreenW
+ImageView_PrintTo
+ImageView_PrintToA
+ImageView_PrintToW
+imageview_fullscreenW

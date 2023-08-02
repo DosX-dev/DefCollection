@@ -1,0 +1,7 @@
+LIBRARY AdmTmpl.dll
+
+EXPORTS
+CreateCmtStoreObject
+CreateParserObject
+DllCanUnloadNow
+DllGetClassObject

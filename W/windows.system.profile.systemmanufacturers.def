@@ -1,0 +1,6 @@
+LIBRARY Windows.System.Profile.SystemManufacturers.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

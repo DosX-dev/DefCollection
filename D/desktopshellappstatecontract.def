@@ -1,0 +1,6 @@
+LIBRARY DesktopShellAppStateContract.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

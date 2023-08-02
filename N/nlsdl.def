@@ -1,0 +1,7 @@
+LIBRARY Nlsdl.dll
+
+EXPORTS
+DownlevelGetParentLocaleLCID
+DownlevelGetParentLocaleName
+DownlevelLCIDToLocaleName
+DownlevelLocaleNameToLCID

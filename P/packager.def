@@ -1,0 +1,5 @@
+LIBRARY packager.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

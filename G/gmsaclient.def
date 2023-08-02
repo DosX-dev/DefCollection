@@ -1,0 +1,10 @@
+LIBRARY gmsaclient.dll
+
+EXPORTS
+GMSAAdd
+GMSACheckIfExistsInAD
+GMSACleanup
+GMSADelete
+GMSAGetPassword
+GMSAInit
+GMSARefreshPasswords

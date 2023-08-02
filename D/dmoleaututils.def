@@ -1,0 +1,19 @@
+LIBRARY dmoleaututils.dll
+
+EXPORTS
+Base64StrToSafeArray
+ByteArrayToSafeArray
+MultiStringToSafeArray
+ReadBSTRFromStream
+ReadBSTRFromStreamEx
+ReadStringFromStream
+ReadVariantFromStream
+ReadVariantFromStreamEx
+SafeArrayToBase64Str
+SafeArrayToByteArray
+SafeArrayToMultiString
+WriteBSTRToStream
+WriteBSTRToStreamEx
+WriteStringToStream
+WriteVariantToStream
+WriteVariantToStreamEx

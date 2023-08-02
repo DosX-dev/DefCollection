@@ -1,0 +1,7 @@
+LIBRARY gpscript.dll
+
+EXPORTS
+GenerateScriptsGroupPolicy
+ProcessScriptsGroupPolicy
+ProcessScriptsGroupPolicyEx
+ScrRegGPOListToWbem

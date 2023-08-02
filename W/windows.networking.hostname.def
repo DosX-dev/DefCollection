@@ -1,0 +1,15 @@
+LIBRARY Windows.Networking.HostName.dll
+
+EXPORTS
+CreateEndpointPairFromSockAddrs
+CreateHostNameFromSockAddr
+CreateHostNameFromString
+CreateNetworkAdapterFromGuid
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetAllHostNames
+GetSortedEndpointPairs

@@ -1,0 +1,6 @@
+LIBRARY eappgnui.dll
+
+EXPORTS
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerInvokeIdentityUI

@@ -1,0 +1,14 @@
+LIBRARY dxtrans.dll
+
+EXPORTS
+?DXConstOverArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z
+?DXConstUnderArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z
+?DXDitherArray@@YGXPBUDXDITHERDESC@@@Z
+?DXLinearInterpolateArray@@YGXPBVDXBASESAMPLE@@PAUDXLIMAPINFO@@PAV1@K@Z
+?DXOverArray@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
+?DXOverArrayMMX@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
+DllCanUnloadNow
+DllEnumClassObjects
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

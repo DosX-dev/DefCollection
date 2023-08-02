@@ -1,0 +1,5 @@
+LIBRARY AuditNativeSnapIn.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

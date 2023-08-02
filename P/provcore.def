@@ -1,0 +1,6 @@
+LIBRARY provcore.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

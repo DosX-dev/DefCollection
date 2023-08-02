@@ -1,0 +1,6 @@
+LIBRARY UserDeviceRegistration.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

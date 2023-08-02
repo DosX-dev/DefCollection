@@ -1,0 +1,5 @@
+LIBRARY credprovslegacy.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

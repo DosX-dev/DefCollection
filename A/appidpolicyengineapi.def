@@ -1,0 +1,5 @@
+LIBRARY AppIdPolicyEngineApi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

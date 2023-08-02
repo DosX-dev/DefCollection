@@ -1,0 +1,7 @@
+LIBRARY fdWNet.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

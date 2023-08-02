@@ -1,0 +1,6 @@
+LIBRARY Windows.Devices.Midi.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,6 @@
+LIBRARY ContactApis.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

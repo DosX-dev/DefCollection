@@ -1,0 +1,7 @@
+LIBRARY WinMsoIrmProtector.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

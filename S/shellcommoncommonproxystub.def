@@ -1,0 +1,6 @@
+LIBRARY ShellCommonCommonProxyStub.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+GetProxyDllInfo

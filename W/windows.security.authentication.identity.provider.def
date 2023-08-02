@@ -1,0 +1,6 @@
+LIBRARY Windows.Security.Authentication.Identity.Provider.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

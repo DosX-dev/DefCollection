@@ -1,0 +1,5 @@
+LIBRARY xwtpw32.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject

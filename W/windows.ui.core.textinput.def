@@ -1,0 +1,6 @@
+LIBRARY Windows.UI.Core.TextInput.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,4 @@
+LIBRARY msdtcspoffln.dll
+
+EXPORTS
+SysPrepDtcOfflineSpecialize

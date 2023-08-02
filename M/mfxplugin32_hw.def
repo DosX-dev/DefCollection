@@ -1,0 +1,5 @@
+LIBRARY mfxplugin32_hw.dll
+
+EXPORTS
+CreatePlugin
+mfxCreateDecoderPlugin

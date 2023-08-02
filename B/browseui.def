@@ -1,0 +1,4 @@
+LIBRARY browseui.dll
+
+EXPORTS
+DllGetVersion

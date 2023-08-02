@@ -1,0 +1,9 @@
+LIBRARY gptext.dll
+
+EXPORTS
+DllRegisterServer
+DllUnregisterServer
+ProcessConnectivityPlatformPolicy
+ProcessEQoSPolicy
+ProcessPSCHEDPolicy
+ProcessTCPIPPolicy

@@ -1,0 +1,6 @@
+LIBRARY Windows.Media.Ocr.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

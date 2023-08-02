@@ -1,0 +1,7 @@
+LIBRARY sxsstore.dll
+
+EXPORTS
+DllGetClassObject
+DllMain
+SxsStoreFinalize
+SxsStoreInitialize

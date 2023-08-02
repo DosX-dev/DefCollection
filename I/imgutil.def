@@ -1,0 +1,14 @@
+LIBRARY imgutil.dll
+
+EXPORTS
+ComputeInvCMAP
+CreateDDrawSurfaceOnDIB
+CreateMIMEMap
+DecodeImage
+DecodeImageEx
+DitherTo8
+DllCanUnloadNow
+DllGetClassObject
+GetMaxMIMEIDBytes
+IdentifyMIMEType
+SniffStream

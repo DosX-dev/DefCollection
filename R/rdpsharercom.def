@@ -1,0 +1,7 @@
+LIBRARY rdpsharercom.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

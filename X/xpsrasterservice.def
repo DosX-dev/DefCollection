@@ -1,0 +1,6 @@
+LIBRARY XpsRasterService.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DrvPopulateFilterServices

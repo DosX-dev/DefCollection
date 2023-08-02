@@ -1,0 +1,9 @@
+LIBRARY jscript9diag.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FreeDumpStreams
+GetDumpStreams
